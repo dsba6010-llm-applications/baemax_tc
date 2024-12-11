@@ -1,0 +1,21 @@
+This Python code implements a system for question answering over PDF documents (and text strings). At a high level, it does the following:
+
+PDF/Text Encoding: It takes a PDF file path or a text string as input. It then processes this input:
+
+TxtFiles: It loads the .txt files, splits its text content into smaller, overlapping chunks, and removes tab characters.
+Strings: It splits a provided text string into overlapping chunks.
+Embedding: It uses OpenAI embeddings to convert each chunk into a numerical vector representation.
+Vector Store: Finally, it stores these vectors in a FAISS vector database for efficient similarity search.
+Question Answering: Given a question, it uses the following process:
+
+Retrieval: It uses the FAISS vector store to find the chunks most relevant to the question. It also includes a fallback BM25 method for retrieval.
+Contextual Answer Generation: It feeds the retrieved context (the most relevant chunks) and the question to a large language model (LLM, likely OpenAI's) to generate an answer. The LLM is prompted to only use the provided context.
+Error Handling: It includes retry logic with exponential backoff to handle rate limits from the OpenAI API.
+Why would you use it?
+
+This code provides a solution for building a question answering system that can understand and answer questions based on the content of PDF documents or text files. This is useful in various scenarios, such as:
+
+Knowledge Base Q&A: Creating a searchable knowledge base from a collection of PDFs.
+Document Summarization: Extracting key information from lengthy PDFs by asking targeted questions.
+Chatbots with Document Access: Building chatbots that can access and retrieve information from specific documents.
+In short, it automates the process of turning unstructured document data into a searchable and question-answerable knowledge base. The use of a vector database makes searching efficient, even for large documents.

@@ -1,0 +1,629 @@
+Terms of Use
+Last Revised: October 27, 2023
+
+These Terms of Use (“Terms”) govern your access to and use of this website or mobile application, as applicable (including all of its content, the “Site”), which is made available by and operated on behalf of Franchise World Headquarters, LLC (together with its affiliates, the “Subway® Group,” “we,” “us,” or “our”), and any promotions offered by the Subway® Group. Please review these Terms carefully, as they form a binding contract between you and the Subway® Group.
+
+By accessing, browsing, or otherwise using the Site (including, where the applicable Site is a mobile app, by downloading), or by signing up for or using any Subway® Group promotions, you agree on behalf of yourself and any organization or company that you represent (together, “you”) that you have read and understand these Terms. If you do not agree to these Terms, do not use the Site.
+
+ARBITRATION NOTICE: These Terms contain a binding arbitration provision set forth below in Section 17. EXCEPT WHERE PROHIBITED BY APPLICABLE LAW (WHICH MAY INCLUDE THE PROVINCE OF QUEBEC), these Terms require you to arbitrate disputes with us rather than resolve disputes through a jury trial or class action. By accessing, or using the Site, you agree to give up, and you hereby waive, any rights to participate in a class action lawsuit or representative action with respect to any disputes or claims arising out of or relating to these Terms or the Site.
+
+While we operate the Site, we are not responsible for the operation of Subway® restaurants. Instead, Subway® restaurants are owned and operated by independent franchisees. Each restaurant is solely and independently responsible for its legal and regulatory compliance, for any issues relating to the sale of products to you, and for any employment related matters pertaining to the restaurant.
+
+Except where prohibited by applicable law (which, for consumers, may include the province of Quebec), we reserve the right to modify these Terms at any time. All changes will be effective immediately upon posting to the Site and, by accessing or using the Site after changes are posted, you agree to those changes. Material changes will be prominently posted on the Site.
+Table of Contents
+Collection of Information
+Ownership
+Permitted Use of the Site; Use Restrictions
+Accounts and Payment
+Product Information
+Career Opportunities
+Franchisees
+Content You Provide
+Copyright Policy
+Site Changes and Availability
+DISCLAIMER OF WARRANTIES
+LIMIT ON LIABILITY
+Indemnification
+Third-Party Websites
+Linking to the Site
+Supplemental Terms for Mobile Apps
+Governing Law
+ARBITRATION AGREEMENT, CLASS WAIVER, AND WAIVER OF TRIAL BY JURY
+Entire Agreement; Interpretation
+Contact Us
+English Language
+Text Messaging Terms of Use
+1. Collection of Information
+Your privacy is important to us. We provide a privacy statement that explains our information practices and how we may collect, use, and share your personal information, as well as other types of collected information. View our Privacy Statement (“Privacy Statement”), which is incorporated into and made a part of these Terms. Except where additional notice or consent is required by applicable law, by accessing, browsing, downloading, or otherwise using the Sites, you agree to our Privacy Statement and to the collection, use, and disclosure of information in accordance with our Privacy Statement. For information on the types of information we collect, how that information is used and shared, and your rights and choices regarding collected information, please see our Privacy Statement.
+2. Ownership
+The Site (including without limitation all of its text, audio, video, graphics, charts, photographs, icons, software, computer code, data, trademarks, service marks, logos, slogans, names of products, documentation, other materials and content, and the design, selection, and arrangement of content) is exclusively the property of the Subway® Group or, as applicable, its licensors, and is protected by copyright, trade dress, trademark, and other intellectual property laws.
+
+Subway® and the Subway® logo are registered trademarks and service marks owned and registered by Subway IP LLC, a member of the Subway® Group. The display of these and other marks and of notices associated with these marks is not intended to be a comprehensive compilation of all of the trademarks and service marks owned by the Subway® Group (or to which it or its licensees have rights). The Site may also contain or refer to various third-party names, trademarks, and service marks, as well as third-party copyrighted materials, which are the property of their respective owners.
+
+Any unauthorized use of any trademarks, trade dress, copyrighted materials, or any other intellectual property rights or goodwill belonging to or of the Subway® Group or any third party is prohibited and may be prosecuted to the fullest extent of the law. No licenses, express or implied, are granted by the Subway® Group to you under any patent, copyright, trademark, trade secret, or other intellectual property right of the Subway® Group and all such rights are reserved and retained by the Subway® Group. Without limiting the foregoing, these Terms do not grant you any licenses or other rights in or to the trademarks or service marks of the Subway® Group or any third party.
+
+Copyright © 2022 Subway IP LLC. All rights reserved.
+3. Permitted Use of the Site; Use Restrictions
+You may access and use the Site (including, where the applicable Site is a mobile app, download) solely for your own personal purposes and solely in accordance with any related restrictions posted on the Site or otherwise provided by the Subway® Group.
+
+The Site’s content is prohibited from being copied, reproduced, downloaded, distributed, modified, republished, uploaded, licensed, adopted, adapted, posted or transmitted in any way, except as may be otherwise explicitly permitted by us in writing. You agree not to engage in such activities, nor to create any kind of derivative works from or exploit the content of the Site in any way.
+
+You represent and warrant that: you will perform under these Terms in compliance with all applicable laws and regulations; you are not (i) located in a country subject to a U.S. Government embargo, or designated by the U.S. Government as a “terrorist supporting” country, or (ii) listed on any U.S. Government list of prohibited or restricted parties; and all information you provide in connection with your access to or use of the Site is true, accurate, and complete to the best of your knowledge and belief.
+
+You will NOT, and you will NOT allow any third party to:
+Use the Site in a manner other than as expressly permitted by these Terms;
+Use the Site for any purpose or in any manner that is unlawful or prohibited by these Terms, including for any commercial purpose;
+Delete, obscure, or change any copyright, trademark, or other proprietary designations, notices, or markings in or on the Site;
+Translate, merge, adapt, update, modify, reconfigure, reverse-engineer, disassemble, decompile, prepare any derivative works of, discover the underlying ideas behind, or discover the source code of the Site, or combine the Site or any part thereof with any other computer code, programs, materials, or services;
+Copy, reproduce, display, duplicate, sell, publish, disclose, post, license, rent, or distribute the Site or any part thereof;
+Use the Site, including, without limitation, any Site content, in any way that infringes on or violates the rights of any other person or entity, including, without limitation, any patent, trademark, trade secret, copyright, other intellectual property rights, privacy rights, and publicity rights;
+Commit fraud or falsify information in connection with your use of the Site;
+Work around any of the technical limitations of the Site or use any tool to enable features or functionalities that are otherwise disabled in the Site;
+Perform or attempt to perform any actions that would interfere with the proper working of the Site, prevent access to or use of the Site by other users, or impose an unreasonable or disproportionately large load on our infrastructure;
+Engage in activities that aim to render the Site or associated services inoperable or make their use more difficult;
+Attempt to disable, damage, overburden, impair or gain unauthorized access to the Site or our servers;
+Engage in data mining or similar data gathering or extraction activities or retrieve data or other content from the Site (including, without limitation, using spiders, robots, indexing agents, and screen scrapers) for purposes of creating or compiling that content for any purpose;
+Harvest or otherwise collect or store personal information about other users of the Site, including, for example, email addresses, without the express consent of such users;
+Post, transmit, input, upload, or otherwise provide any information or materials that contain any viruses, worms, Trojan horses, logic bombs, time bombs, cancelbots, malware, ransomware, adware, or other harmful computer code or programming routines;
+Impersonate or attempt to impersonate any person or entity other than yourself, falsely state or otherwise misrepresent your identity or status, misrepresent your affiliation with a person or entity, create a false identify, or hide your true identity; nor
+Send, post, or transmit any unsolicited messages, chain letters, spam, or junk mail using the Site, or attempt to collect personal information about third parties without their knowledge or consent.
+The Subway® Group may, at any time and for any reason, in its sole discretion, and without notice or liability, suspend, deactivate, or terminate your access to or use of the Site, and may terminate these Terms, including, without limitation, if you breach these Terms or any other applicable agreement or if you act in a manner inconsistent with applicable laws or regulations.
+4. Accounts and Payment
+You may be required to create an online account with us in order to use certain features of the Site. If you choose to create an online account, you may be required to submit certain information in order to create that account. You are responsible for maintaining the confidentiality of any information you use in connection with your account, including your password. You are responsible for all activity on your account. If you believe someone else has accessed your account, please change your password and notify us immediately by contacting us using the contact information below.
+
+All orders and purchases made through the Site, where available, are subject to the Order Terms. Information about our collection and use of payment-related information is described in our Privacy Statement.
+5. Product Information
+Menu or nutritional information provided on the Site is for informational purposes only and assumes that the individual restaurants have complied with ingredient requirements and our standardized recipes. Nutrition information is compiled by a Registered Dietitian using nutrition analysis from approved food manufacturers, independent laboratories, the USDA Nutrient Database for Standard Reference, and, as applicable, information or published resources provided by our suppliers. The nutrition information listed is based on standard recipes, product formulations, product assembly, and serving size, however variations may occur due to season of the year, use of an alternate supplier, geographical region and/or small differences in product assembly. In addition, product formulations may change periodically. Certain product or nutritional information may not apply to all restaurants. You should expect some variation in the nutrient content of the products purchased at the restaurants. If you have questions about the products, procedures, or ingredients at a particular restaurant, please contact that restaurant.
+6. Career Opportunities
+The Site may provide links to job opportunities posted by the Subway® Group’s corporate offices or by Subway® restaurants or franchisees and may include instructions on how to apply for those opportunities. With respect to job opportunities posted for the Subway® Group’s corporate offices, do not send us a resume or any other application materials for any person other than yourself. Your submission of a resume or other application materials does not in any way require us to review those materials or consider you for a position.
+
+Opportunities posted with respect to a Subway® restaurant are for job opportunities with that restaurant directly and are not with the Subway® Group or any corporate offices. The restaurant that posted the opportunity is solely responsible for setting the job requirements, all hiring decisions, and all other employment-related matters in its business. We do not receive a copy of any application you submit to a restaurant. Subway® restaurants are independently owned and operated. Subway® restaurant franchise owners are the exclusive employer of their team members and, as such, are solely responsible for all employment matters in their restaurants. We do not control whether you receive an interview or are hired. We do not control any franchisees’ employment policies and practices. We do not employ, and are not the employer of, any franchisee. If you are hired by a Subway® restaurant, only the franchisee operating that restaurant, and not us, will be your employer.
+7. Franchisees
+Any information available on the Site is not intended as an offer to sell, or a solicitation of an offer to buy, a franchise. Site content is for informational purposes only. Neither the Site content nor any provision of these Terms are directed to residents of any specific country or other jurisdiction. Neither the Subway® Group, nor anyone on behalf of the Subway® Group, will extend a franchise offer unless the applicable member(s) of the Subway® Group are in full compliance with any and all applicable laws of the relevant jurisdiction(s).
+8. Content You Provide
+The Site may allow you to post, send us, submit, upload, transmit, make, or otherwise provide comments, questions, compliments, complaints, information, images, documents, and other content (“User-Generated Content”). Any User-Generated Content you provide is voluntary, non-confidential, and gratuitous.
+
+You agree you alone are, and will remain, responsible for any and all User-Generated Content you provide and for the legality, originality, and appropriateness thereof. User-Generated Content is not generated by the Subway® Group. By providing User-Generated Content, you represent and warrant that you are the creator and owner of that User-Generated Content or that you otherwise have the full ability and all legal rights, permissions, and consents necessary to provide that User-Generated Content as contemplated by these Terms.
+
+Concerning any User-Generated Content that you provide, and in addition to the use restrictions above in these Terms, you will NOT: transmit or provide any information or written, graphic, photographic, or other material that is unlawful, threatening, abusive, harassing, tortious, defamatory, obscene, pornographic, indecent, libelous, invasive of another's privacy, threatening, menacing, offensive, hateful, or racially, ethnically or otherwise objectionable; harm, or threaten to harm, minors in any way; nor stalk or harass, threaten, or violate the rights of others.
+
+If you provide User-Generated Content, you agree to grant and you hereby grant the Subway® Group a perpetual, irrevocable, transferable, assignable, sublicensable, royalty-free, fully paid-up, worldwide right and license to copy, modify, adapt, adopt, reformat, reorganize, translate, excerpt, prepare derivative works of, store, publish, perform, display, license, exploit, and otherwise use and distribute, in whole or in part, in all media and distribution methods now known or later developed, that User-Generated Content for purposes of making it available to other Site users and the public and for the Subway® Group’s own business purposes (including without limitation aggregation and analytics and the marketing and development of products and services), without any compensation or notice to you. Notwithstanding the foregoing, we will use and disclose information that reasonably identifies a natural person only to the extent permitted by applicable law.
+
+Except where prohibited by applicable law (which, for consumers, may include the province of Quebec), we reserve the right but we are not obligated to do any or all of the following, at any time and for any reason: investigate an allegation that any User-Generated Content does not conform to these Terms and determine in our sole discretion to remove or request the removal of any User-Generated Content; edit, remove, or delete any User-Generated Content; terminate a user's access to the Site or ability to provide User-Generated Content; and monitor, review, prescreen, edit, redact, modify, reorganize, recategorize, or disclose any User-Generated Content.
+
+By providing User-Generated Content, you agree not to claim that any use of that User-Generated Content by us, any Site user, or any third party infringes or violates your or any person’s intellectual property rights (including, without limitation, copyright), rights of privacy, rights of publicity, or other rights, and you waive any and all moral rights in or to the User-Generated Content.
+
+User-Generated Content may be subject to additional terms as posted on the Site from time to time, such as those applicable to a particular contest or promotion. To the extent any provision of this section conflicts with any provision of those additional terms with respect to User-Generated Content, the applicable additional terms will control.
+
+It is the Subway® Group’s policy not to consider unsolicited ideas. While we appreciate you taking the time to consider us, we are unable to review any ideas you may submit. Your submission of any such materials does not in any way require us to review or consider those materials. You further agree that the Subway® Group and its designees may create or develop ideas, products, designs, concepts or other materials or include, incorporate, or rely on ideas that may be or appear similar or identical to an idea that you may have considered or submitted. You hereby waive any and all past, present, and future claims that any ideas, products, designs, concepts or other materials used by the Subway® Group or its designees infringes or otherwise violates your intellectual property rights.
+9. Copyright Policy
+We respect the intellectual property rights of others and we ask that visitors to the Site do the same. In accordance with the United States’ Digital Millennium Copyright Act (“DMCA”), located at 17 U.S.C. § 512, Canada’s Copyright Act, R.S.C., 1985, c. C-42, s. 41.25[3], and other applicable laws (to the extent such laws apply), we strive to remove any infringing material from the Site if we become aware of the same.
+
+If you think any copyrights you own or control are being infringed by anything on the Site, please submit a written notice to our designated agent that contains the information listed below. Your notice must meet the then-current requirements implemented by the DMCA, the Copyright Act, or other laws, as applicable.
+
+Contact information for our designated agent for notice of claims of copyright infringement is:
+
+Franchise World Headquarters, LLC
+1 Corporate Drive, Suite 1000, Shelton, CT 06484
+Email: DMCA@subway.com
+
+If you are located in the United States:
+
+Your notice must contain:
+A description of the copyrighted work(s) that you claim have been infringed;
+A description of the allegedly infringing material, including its location on the Site;
+A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+Your email address, telephone number, and mailing address;
+A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or are authorized to act on the copyright owner’s behalf; and
+An electronic or physical signature of a person authorized to act on behalf of the copyright owner.
+If you are located in Canada:
+
+Your notice must contain:
+Your name and address, and any other particulars prescribed by regulation that enable communication with the claimant that we may advise you from time to time;
+Identification of the copyrighted work you believe to have been infringed or, if the claim involves multiple works on the Site, a representative list of such works;
+A statement describing your interest or right with respect to the copyright in the work or other subject matter;
+Identification of the location of material you believe to be infringing in a sufficiently precise manner to allow us to locate that material (e.g., a link to the allegedly infringing material);
+Description of the infringement that is claimed;
+A statement specifying the date and time of the alleged infringement; and
+Any other information that may be prescribed by regulation that we may advise you of from time to time.
+Your notice must NOT contain:
+An offer to settle the claimed infringement;
+A request or demand relating to the claimed infringement for payment or for personal information;
+A reference, including by way of hyperlink, to such an offer, request, or demand; or
+Any other information that may be prescribed by regulation that we may advise you of from time-to-time (together, “Prohibited Content”).
+A notice containing Prohibited Content will not be considered a valid notice under these Terms (see Copyright Act, R.S.C., 1985, c. C-42, s. 41.25[3]).
+10. Site Changes and Availability
+Any features, materials, products, or services made available through the Site or otherwise by the Subway® Group are subject to availability. The Subway® Group may change the Site, including the features, materials, products, and services made available through the Site, at any time without notice or liability.
+11. DISCLAIMER OF WARRANTIES
+SOME JURISDICTIONS (WHICH, FOR CONSUMERS, MAY INCLUDE THE PROVINCE OF QUEBEC) DO NOT ALLOW THE DISCLAIMER OF WARRANTIES, SO SOME OF THE BELOW DISCLAIMERS MAY NOT APPLY TO YOU. IN SUCH JURISDICTIONS OUR LIABILITY WILL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+EXCEPT AS OTHERWISE EXPRESSLY STATED WITH RESPECT TO THE PRODUCTS AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SITE (INCLUDING, WITHOUT LIMITATION, ALL CONTENT, MATERIALS, INFORMATION AND SERVICES ON THE SITE) IS PROVIDED ON AN "AS IS" AND “AS AVAILABLE” BASIS WITHOUT ANY CONDITIONS, REPRESENTATIONS, OR WARRANTIES OF ANY KIND WHATSOEVER, WHETHER EXPRESSED, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NONINFRINGEMENT, THOSE REGARDING AVAILABILITY, QUALITY, ACCURACY, AND ANY ARISING BY OPERATION OF LAW OR FROM A COURSE OF DEALING OR USAGE IN TRADE.
+
+WE DO NOT WARRANT OR GUARANTEE THAT THE SITE OR THE FUNCTIONS CONTAINED IN THE SITE WILL BE UNINTERRUPTED OR ERROR-FREE, THAT THE SITE OR ITS SERVERS WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT DEFECTS WILL BE CORRECTED (EVEN IF WE ARE AWARE OF THEM).
+
+WHILE WE MAY MAKE REASONABLE EFFORTS TO PROVIDE ACCURATE AND TIMELY INFORMATION ABOUT THE SUBWAY® BRAND AND OUR PRODUCTS ON THE SITE, YOU SHOULD NOT ASSUME THAT THE INFORMATION PROVIDED IS CURRENT OR THAT THE SITE CONTAINS ALL THE RELEVANT INFORMATION AVAILABLE. THE SUBWAY® GROUP DOES NOT REPRESENT OR WARRANT THAT PRODUCT DESCRIPTIONS OR OTHER INFORMATION IS ACCURATE, COMPLETE, RELIABLE, OR ERROR-FREE. THE SUBWAY® GROUP DOES NOT WARRANT OR GUARANTEE THE QUALITY, COMPLETENESS, TIMELINESS, OR AVAILABILITY OF THE SITE, NOR DOES THE SUBWAY® GROUP WARRANT OR GUARANTEE THAT ANY DATA, INFORMATION, OR MATERIAL ON THE SITE IS ACCURATE OR RELIABLE. THE SUBWAY® GROUP IS NOT RESPONSIBLE FOR ANY TYPOGRAPHICAL ERRORS ON OR RELATED TO THE SITE. YOU ASSUME ALL RISK AND LIABILITY WHATSOEVER IN CONNECTION WITH PRODUCTS PURCHASED FROM THE SUBWAY® GROUP.
+
+WE DO NOT WARRANT OR ENDORSE, NOR ARE WE RESPONSIBLE OR LIABLE FOR, ANY USER-GENERATED CONTENT. ALL USER-GENERATED CONTENT IS SOLELY THE RESPONSIBILITY OF THE PERSON WHO PROVIDED THAT USER-GENERATED CONTENT.
+12. LIMIT ON LIABILITY
+SOME JURISDICTIONS (WHICH, FOR CONSUMERS, MAY INCLUDE THE PROVINCE OF QUEBEC) DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO SOME OF THE BELOW EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU. IN SUCH JURISDICTIONS OUR LIABILITY WILL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE SUBWAY® GROUP, ITS MEMBERS, OR THEIR RESPECTIVE MANAGERS, OFFICERS, DIRECTORS, EMPLOYEES, MEMBERS, SHAREHOLDERS, CONTRACTORS, AGENTS, SUCCESSORS, OR ASSIGNS (TOGETHER, THE “SUBWAY® GROUP PARTIES”) HAVE ANY LIABILITY OR RESPONSIBILITY FOR ANY AMOUNT OR KIND OF LOSS OR DAMAGE THAT MAY RESULT TO OR BE INCURRED BY YOU OR A THIRD PARTY (INCLUDING WITHOUT LIMITATION ANY DIRECT, INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL LOSS OR DAMAGE, ANY LOSS OF INCOME, PROFITS, GOODWILL, DATA, CONTRACTS, OR USE OF MONEY, OR ANY LOSS OR DAMAGE ARISING FROM OR CONNECTED IN ANY WAY TO BUSINESS INTERRUPTION), WHETHER IN TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE), CONTRACT, OR OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH THE SITE IN ANY WAY, YOUR USE OR INABILITY TO ACCESS OR USE THE SITE, THE INPUT AND COLLECTION OF PERSONAL AND OTHER INFORMATION THROUGH THE SITE, OR THE RESULTS OF USE OF THE SITE (INCLUDING WITHOUT LIMITATION ACTIONS OR ACTIVITIES RESULTING FROM USE OF OR RELIANCE ON RESOURCES PRESENTED ON SITE CONTENT, ANY WEBSITES OR APPLICATIONS LINKED TO BY THE SITE, ANY MATERIAL ON SUCH WEBSITES OR APPLICATIONS, ANY USE OF ANY IDEA, OR ANY LOSS OR DAMAGE DUE TO VIRUSES THAT MAY AFFECT YOUR COMPUTER EQUIPMENT, SOFTWARE, DATA OR OTHER PROPERTY ON ACCOUNT OF YOUR ACCESS TO, USE OF, OR BROWSING THE SITE,  YOUR DOWNLOADING OF ANY MATERIAL FROM THE SITE OR ANY WEBSITE, OR APPLICATIONS LINKED TO THE SITE.
+
+YOUR EXCLUSIVE REMEDY WITH RESPECT TO ANY DISPUTE AND YOUR USE OF THE SITE IS TO DISCONTINUE YOUR USE OF THE SITE.
+
+WITHOUT LIMITING THE FOREGOING, IN NO EVENT WILL THE SUBWAY® GROUP PARTIES’ LIABILITY TO YOU EXCEED U.S.D. $10, EVEN IF THIS REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+13. Indemnification
+You agree to indemnify, defend and hold harmless the Subway® Group Parties from and against any and all claims (including but not limited to third-party claims), demands, complaints, actions, damages, losses, judgments, settlements, fines, costs, expenses, and liabilities (including reasonable legal fees) arising out of or in connection with: your violation of these Terms; your access to or use of the Site, including, without limitation, any claims arising from any unauthorized use you may make of the Site, our information, or any content accessed from the Site; your submission of information or other content (including personal information and User-Generated Content) through or using the Site; your order of any products or services through or using the Site; your violation of or noncompliance with any law or regulation; or your negligence or willful misconduct. We reserve, and you grant to us, the exclusive right to assume the defense and control of any matter subject to indemnification by you.
+14. Third-Party Websites and Applications
+The Sites may contain links to or be linked to third-party websites or applications. All such links are solely for your convenience and information. We do not control any third-party websites or applications, nor their privacy practices, which may differ from ours. Our Privacy Statement does not apply to third-party websites or applications. We do not endorse or make any representations or warranties about any third-party websites or applications, nor any products or services made available through third-party websites or applications. If you choose to provide personal or other information to or through a third-party website or application, that third party’s use and disclosure of that information is not covered by our Privacy Statement, even if that third party ultimately shares information that it collects with us. We encourage you to review the privacy policies and terms of use of any website or application through which you provide information. Some third parties may collect and share personal information with us, in which situation the sharing of that personal information is governed by the third party’s privacy practices and not our Privacy Statement.
+15. Linking to the Site
+If you operate a website and wish to include a link to the Site: the link must be clearly marked; the link and its use must be in connection with a website of appropriate subject matter; the link and its use must not, nor have the potential to, damage or dilute the goodwill associated with the Subway® Group’s names or trademarks; and the link and its use must not create the false appearance that any content, program, person, or entity is associated with, affiliated with, sponsored by, or endorsed by the Subway® Group. We reserve the right to revoke consent to link to the Site at any time in our sole discretion, whether by amending these Terms or through other notice.
+16. Supplemental Terms for Mobile Apps
+This section applies where the Site you are using is a mobile app.
+
+You are responsible for any telecommunications and data charges and rates incurred as a result of using the Site.
+
+From time to time, the Site may send you messages via push notifications, including transactional or promotional communications and system messages. You may opt out of push notifications if and to the extent permitted by the Site settings or your device settings.
+
+You will promptly download and install, or cause your device to automatically download and install, any and all available Site updates issued by us. You consent to receive updates or upgrades to the mobile app  automatically without providing further consent each time. The mobile app (including any updates or upgrades) may: (i) cause your device to automatically communicate with our servers to deliver the functionality described in the mobile app description or through new features as they are introduced, and to record usage metrics; (ii) affect preferences or data stored on your device; and (iii) collect personal information as set out in our Privacy Statement. We are not responsible if an update or upgrade affects how the mobile app works if this is caused by your own device not supporting the update or upgrade. You can withdraw consent at any time by uninstalling the mobile app or by contacting Guest Care: Guest Care (United States) or Guest Care (Canada). Any failure to use the latest version of the Site may result in the Site not operating properly.
+
+These Terms do not modify any agreement between you and the applicable mobile application marketplace, for example, Google Play and Apple’s App Store (each, an “App Marketplace”). You understand that these Terms are entered into between you and the Subway® Group and not between you and any App Marketplace. You further understand that solely the Subway® Group, and not any App Marketplace, is responsible for the Site, including its content, and for addressing any claims (yours or a third party’s) relating to the Site or your use of the Site. Apple has no obligation whatsoever to furnish any maintenance or support services with respect to the Site.
+
+The applicable App Marketplace(s) and their respective affiliates are third-party beneficiaries of these Terms. Accordingly, the applicable App Marketplace has the right to enforce these Terms against you.
+17. Governing Law
+If you are located in the United States, these Terms and access to and use of the Site are governed by the laws of the State of Connecticut, without giving effect to any conflicts of law or choice of laws principles thereof, and, as applicable, the federal laws of the United States.
+
+If you are located in the Province of Quebec, Canada, these Terms and access to and use of the Site are governed by the laws of the Province of Quebec, without giving effect to any conflicts of law or choice of laws principles thereof, and, as applicable, the laws of Canada.
+
+If you are located elsewhere in Canada, these Terms and access to and use of the Site are governed by the laws of the Province of Ontario, without giving effect to any conflicts of law or choice of laws principles thereof, and, as applicable, the laws of Canada.
+
+The United Nations Convention for the International Sale of Goods does not apply.
+18. ARBITRATION AGREEMENT, CLASS WAIVER, AND WAIVER OF TRIAL BY JURY
+PLEASE READ THIS ENTIRE SECTION CAREFULLY. EXCEPT WHERE PROHIBITED BY APPLICABLE LAW (WHICH, FOR CONSUMERS, MAY INCLUDE THE PROVINCE OF QUEBEC), IT REQUIRES BINDING ARBITRATION OF MOST DISPUTES INSTEAD OF LITIGATION IN COURT, AND AFFECTS LEGAL RIGHTS THAT YOU MAY OTHERWISE HAVE. IT ALSO INCLUDES A CLASS ACTION AND JURY TRIAL WAIVER.
+
+If you are located in the United States:
+
+Initial Dispute Resolution
+
+Before submitting a claim for arbitration in accordance with the provisions set forth in this Section 17, you and we agree to try, for thirty (30) days, to resolve any Dispute (defined below, under “Agreement to Binding Arbitration”) informally, upon giving written notice to the other party that identifies the specific violation alleged, any and all facts related to the alleged violation, and the specific monetary or other relief, if any, sought by the party. To minimize the cost and inconvenience to all parties, and to promote prompt resolution of Disputes, you and we agree that engaging in this initial dispute resolution process is a material term of this arbitration agreement and a requirement that must be fulfilled before commencing any arbitration.
+
+You and we further agree that any disagreements regarding compliance with this “Initial Dispute Resolution” provision shall be decided by a court, not an arbitrator; pending resolution of any such disagreements by a court, which may include requests to compel compliance with this provision, you and we agree that arbitration (as well as any obligation to pay arbitration fees) shall be stayed until the initial dispute resolution process set forth in this provision is complete. You and we acknowledge that either party’s failure to comply with the “Initial Dispute Resolution” provisions would irreparably harm the other, and you and we agree that a court may issue an order staying arbitration (and any obligation to pay arbitration fees) until the initial dispute resolution process in this provision is complete.
+
+Agreement to Binding Arbitration
+
+You and we hereby agree and consent that any claim, controversy, or dispute related to or arising out of access to and use of the Site or these Terms (including the breach hereof) or for any promotions offered by the Subway® Group, whether based in contract, tort, statute, or other legal theory (“Disputes”), will be resolved by binding arbitration before a single arbitrator as described below. The arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of this agreement to binding arbitration, including, but not limited to, any claim that all or any part of this arbitration agreement is void or voidable. The arbitrator shall be empowered to grant whatever relief would be available in a court under the law or in equity. If you are a California resident, requests for public injunctive relief, if any, shall be decided by a court, not an arbitrator, and that request for public injunctive relief shall be severed from any arbitration proceeding and stayed pending a final determination of the arbitration. Nothing in this arbitration agreement shall be construed as a waiver of either party’s right to seek public injunctive relief, and you and we agree to cooperate to effect the stay of any requests for public injunctive relief.
+
+Arbitration proceedings must be initiated within one (1) year after any Dispute arises; otherwise, the Dispute is permanently barred.
+
+Any and all actions taken under this arbitration agreement are confidential and must not be disclosed to any third party. Any arbitral award will be final and binding and may be enforced by any court of competent jurisdiction. This arbitration agreement applies to you and all Subway® Group Parties.
+
+Where the location of the applicable Subway® Group member is within the U.S.A., the arbitration will be administered by the American Arbitration Association (“AAA”) in accordance with the AAA Consumer Arbitration Rules, which are available at https://www.adr.org/Rules (Link open in new window). All AAA arbitration proceedings will be held virtually or in a location reasonably convenient to both parties, consistent with the AAA’s Consumer Arbitration Rules. Where the location of the applicable Subway® Group member is anywhere outside of the U.S.A., the arbitration will be administered by the International Chamber of Commerce (“ICC”) in accordance with its applicable rules. All ICC arbitration proceedings will be held within the region in which the applicable Subway® Group member is located and such location will be selected by the Subway® Group.
+
+Notwithstanding the foregoing, in the event of any actual, alleged, or threatened violation of confidentiality or violation of the Subway® Group’s intellectual property or other proprietary rights, or where appropriate to stop or prevent an imminent breach of these Terms, you and we may immediately resort to court proceedings in a court of competent jurisdiction in order to seek immediate injunctive relief without posting bond, proving damages, or meeting any similar requirement. Any Subway® Group institution of any action for injunctive relief will not constitute a waiver of the right or obligation of the Subway® Group to submit any claim seeking relief other than injunctive relief to arbitration.
+
+The parties understand that, absent this mandatory provision, they would have had a right or opportunity to litigate Disputes through a court, to have a judge or jury decide their case, and to participate in a class action or other proceeding involving multiple claimants, but they have instead chosen to have all Disputes decided through individual arbitration. The parties further understand that the right to discovery may be more limited in arbitration than in court.
+
+Class Action and Class Arbitration Waiver
+
+You and we further agree that any arbitration shall be conducted in our respective individual capacities only and not as a class action, and you and we each expressly waive our respective right to file a class action or seek relief on a class basis. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration agreement set forth in this section shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
+
+Exception – Small Claims Court
+
+Notwithstanding the parties’ agreement to resolve all disputes through arbitration, either party may seek relief in a small claims court for disputes or claims within the scope of that court’s jurisdiction.
+
+30-Day Right to Opt Out
+
+You have the right to opt out and not be bound by the arbitration and class action waiver provisions set forth in this section by sending written notice of your decision to opt out to the following address: arbitration@subway.com. The notice must be sent within thirty (30) days of your use of the Site, otherwise you shall be bound to arbitrate disputes in accordance with the terms set forth in this section. If you opt out of these arbitration provisions, we also will not be bound by them.
+
+Initiation of Mass Arbitration
+
+If ten (10) or more demands for arbitration are filed relating to the same or similar subject matter and share common issues of law or fact, and counsel for the parties submitting the demands are the same or coordinated, you and we agree that this will constitute a “Mass Arbitration.”
+
+If a Mass Arbitration is commenced, you and we agree that the arbitrator may, at the request of either party, consolidate two or more arbitrations into a single arbitration, but not as a class arbitration, where: (a) the parties have agreed to consolidation, (b) in accordance with Federal Rules of Civil Procedure standards and applicable law, or (c) all of the claims in the arbitrations are made under the same arbitration agreement or agreements. In deciding whether to consolidate, the arbitrator may take into account any circumstance the arbitrator considers to be relevant, including whether one or more arbitrators have been confirmed or appointed in more than one of the arbitrations and, if so, whether the same or different persons have been confirmed or appointed.
+
+If a Mass Arbitration is commenced and two or more arbitrations are consolidated into a single arbitration, you and we agree that any party may submit a request to the AAA, the arbitrator, or both that the fees to be assessed by the AAA (including, but not limited to, the case management fees, hearing fees, and the arbitrator fees) be adjusted and reduced based on consolidation of the arbitrations into a single arbitration. The parties shall also be free to agree on limitations on the fees to be paid to the arbitrator, to class-action counsel, or counsel in consolidated proceedings.
+
+Exclusive Venue for Litigation
+
+To the extent that the arbitration provisions set forth in this section do not apply or if you have opted out of arbitration, the parties agree that any litigation between them shall be filed exclusively in state or federal courts located in Connecticut (except for small claims court actions, which may be brought where you reside). The parties expressly consent to exclusive jurisdiction in Connecticut for any litigation other than small claims court actions. In the event of litigation relating to these Terms or the Site, the parties agree to waive, to the maximum extent permitted by law, any right to a jury trial, except where a jury trial waiver is not permissible under applicable law.
+
+Additional Terms
+
+Where the location of the applicable Subway® Group member is within the U.S.A., this arbitration agreement is made pursuant to a transaction involving interstate commerce and will be governed by the Federal Arbitration Act, 9 U.S.C. Sections 1-16.
+
+This arbitration agreement does not amend or modify any rights or obligations under any franchise agreement, development agent agreement, supplier agreement, vendor agreement, or any other contract between you and the Subway® Group. All disputes within the scope of those agreements will be resolved in accordance with their terms.
+
+If you are located in Canada:
+
+Except where prohibited by law, any controversy, claim or dispute arising out of, relating to, or in respect of these Terms, including their negotiation, validity, existence, breach, termination, construction or application, or the rights, duties or obligations of any party, or the rights, duties or obligations of any party derived from or associated with these Terms (a “Dispute”), shall be referred to and determined by a single arbitrator in a final and binding arbitration administered under the rules of ADR Institute of Canada, Inc.’s Arbitration Rules. If the parties have not agreed upon an arbitrator within fourteen (14) days, unless otherwise agreed by the parties in writing, the parties shall ask the ADR Institute of Canada, Inc. to appoint a single arbitrator.
+
+The seat of the arbitration shall be the same as the provincial or territorial law governing these Terms. The arbitration shall be heard in the capital of the seat, unless the parties agree otherwise. The costs and expenses of the arbitrator shall be shared equally between the parties. A party to the arbitration has no right of appeal from any award of the arbitrator, whether characterized as final, interim, interlocutory or partial.
+
+All Disputes referred to arbitration (including the scope of the agreement to arbitrate, the law relating to the enforcement of the agreement to arbitrate, any relevant limitation periods, the law governing the procedure of the arbitration, the law relating to available remedies, set-off claims, and conflict of laws rules) shall be governed by the law of the seat. Each party hereby irrevocably consents to venue in the capital of the seat, and to the jurisdiction of competent courts in the capital of the seat for all litigation that may be brought, however it is agreed and acknowledged that the intention of the parties is to arbitrate the Dispute without recourse to the courts.
+
+A party to these Terms may take such steps as are permitted or required to enforce an award made by an Arbitrator. Except as required by law, and only to the extent that such disclosure is reasonably necessary, or for the purposes of obtaining professional advice, the existence of the arbitration and any element of the arbitration, including any award, shall be confidential and shall not be disclosed to any non-party to the arbitration. No document or other evidence or information prepared for or produced by or on behalf of any party to the arbitration shall be disclosed to any non-party to the arbitration.
+19. Entire Agreement; Interpretation
+These Terms, including our Privacy Statement and any other terms or policies incorporated herein by reference, constitute the entire understanding between you and us with respect to your access to and use of the Site. Our failure to insist upon or enforce strict compliance with any provision of these Terms will not be construed as a waiver of any provision or right. Any waiver of any provision of these Terms will be effective only if in writing and signed by the Subway® Group.
+
+Your access to or use of certain features or functionality of the Site (including, for example, online ordering, rewards programs, promotions, and gift cards) may be subject to additional terms, conditions, rules, or policies, all of which are incorporated by reference into these Terms.
+
+You will not transfer or assign in any way these Terms or any of your rights or obligations under these Terms. Any such transfer or assignment will be null and void. We may transfer or assign our rights, obligations, or duties under these Terms at any time to any party without notice to you.
+
+The Subway® Group is an independent contractor. These Terms do not create any agency, partnership, joint venture relationship, other form of joint enterprise, employment, or fiduciary relationship between you and the Subway® Group. These Terms do not confer any rights, remedies, or benefits upon any person other than you and the Subway® Group, except that our affiliates are third-party beneficiaries of these Terms.
+
+These Terms and any other documentation, agreements, notices, or communications between you and the Subway® Group may be provided to you electronically (including, without limitation, by posting them on the Site or via email) to the extent permissible by applicable law. These Terms and any such other documentation, agreements, notices, or communications will have the same meaning and effect as if we had provided you with a paper copy. Please print or otherwise save a copy of these Terms and all documentation, agreements, notices, and communications for your reference.
+
+If any provision of these Terms or the application of any such provision to any person or circumstance is held invalid, illegal, or unenforceable for any reason whatsoever, the remaining provisions of these Terms and the application of such provisions will not be affected. To the fullest extent possible, the court finding such provision invalid, illegal, or unenforceable will modify and construe the provision so as to render it valid and enforceable as against all persons or entities and to give the maximum possible protection to persons subject to indemnification within the bounds of validity, legality, and enforceability.
+
+Any provisions of these Terms that are intended to survive termination (including, for example, any provisions regarding indemnification, limitation of our liability, or dispute resolution) will continue in effect beyond any termination of these Terms or of your access to or use of the Site.
+20. Contact Us
+If you have any questions and concerns regarding these Terms or the Site, please contact Guest Care: Guest Care (United States) or Guest Care (Canada).
+21. English Language
+It is the express wish of the parties that these Terms and all related documents be drawn up in English. C’est la volonté expresse des parties que la présente convention ainsi que les documents qui s’y rattachent soient rédigé en anglais.
+22. Text Messaging Terms of Use
+If you are located in the United States: These Text Messaging Terms of Use apply if you have opted in to receive text messages from the Subway® Group. If you agree to receiving text messages (including SMS or MMS) when prompted, you consent to receiving text messages, including those which may be automatically sent with an autodialer or other automation technology, from the Subway® Group, including but not limited to promotional messages, product offers, and transactional messages (e.g., pertaining to orders you have placed). Messaging and data rates may apply. Consenting to receiving text messages is not required to buy goods or services or to otherwise do business with us.
+
+Certain text message offers are only accessible on smartphone devices and we may change promotions offered via text message without notice. If you have entered your mobile # and your zip code and clicked “I’M IN” or “Sign Me Up” on our website or otherwise opt in when prompted, then you have agreed to receive recurring autodialed ads, marketing and other messages from us on your mobile number. If you need help with text messages, text HELP to 782929. Currently, AT&T, Verizon Wireless, Sprint, Virgin, T-Mobile, US Cellular, Cricket (Leap), MetroPCS, C Spire, Carolina West Wireless (CWW), CellCom, and Bandwidth are participating carriers, but these may change without notice. Text message may not be delivered to you if your phone is not in the range of a transmission site, or if sufficient network capacity is not available at a particular time. Even within coverage, factors beyond the control of the participating carriers Verizon and T-Mobile/MetroPCS may interfere with messages delivery for which the carrier is not responsible. T-Mobile/Metro PCS does not guarantee that any text message will be delivered. If you wish to opt out of receiving marketing text messages from us text STOP to 782929 or call (844) 788-7525. If you opt out, you will receive a text message confirming your decision to unsubscribe.
+
+These Text Messaging Terms of Use apply only to text marketing programs operated by the Subway® Group. Subway® restaurants or franchisees may operate separate promotions or text messaging programs, which are governed by any applicable agreements or terms in place between you and the applicable restaurant or franchisee.
+
+If you are located in Canada: The Subway® Group may send you order confirmations or other transactional text messages with your consent. Text STOP to opt out. Text HELP for help. Standard message and data rates may apply.
+
+If you are located in the United States or in Canada: You may also receive text messages directly from third-party vendors (DoorDash, EZ Cater, etc.) in providing us with order fulfillment services or other services that may be provided by us or by our third-party vendors. Such messages are subject to any applicable agreements or terms between you and the applicable vendor. If you opt out of receiving text messages from a third-party vendor, you will not be opted out of receiving text messages from the Subway® Group.
+--
+Order Terms
+Last Updated: Sept., 9, 2023
+
+These Order Terms (“Terms”), together with the terms governing your access to and use of our websites and mobile apps, as applicable, govern all Subway® restaurant orders placed using our websites or mobile apps. These Terms are between you and Franchise World Headquarters, LLC (together with its affiliates, the “Subway® Group,” “we,” “us,” or “our”). Our websites and mobile apps are, together, referred to as the “Site(s)”.
+
+By placing an order through our website or mobile app, you agree on behalf of yourself and any organization or company that you represent (together, “you”) that you have read and understand these Terms. If you do not agree to these Terms, do not place an order.
+
+These Terms include and are subject to the terms governing your access to and use of the applicable Site(s) (the “Site Terms”), for example and as applicable, our Terms of Use.
+
+While we operate the Sites, neither we nor any other member of the Subway® Group is responsible for the operation of Subway® restaurants. Instead, Subway® restaurants are owned and operated by independent franchisees. Each restaurant is solely and independently responsible for any issues relating to the sale of products to you.
+1. General Information and Requirements
+The Sites allow you to place orders from Subway® restaurants as a guest or using your Subway® account.  For information about Subway® accounts (including how to create or terminate a Subway® account), please refer to the applicable Site Terms or contact Guest Care: Guest Care (United States) or Guest Care (Canada).
+
+You represent and warrant that either you have reached the age of majority in your jurisdiction of residence or, if not, you have reviewed these Terms (including the Site Terms) with your parent or legal guardian and made sure that you and your parent or legal guardian understand and accept these Terms.
+
+You additionally represent and warrant that your primary residence is located in the United States or Canada.
+
+The Sites incorporates and integrates with certain Google products and services, to which certain additional terms apply. As a result, please refer to the Google Maps Terms of Service (Opens in new window) and the Google Privacy Policy (Opens in new window).
+2. Payment Methods
+The Sites may allow you to make order payments through certain credit and debit cards, but may not accept all payment cards. If and as available, the Sites may accept payment using the Subway® Card. The Subway® Card program is administered separately by a third party. Use of a Subway® Card is subject to separate terms and conditions, which are posted on the Site.
+
+If the first card you select is not accepted, please try another. Transactions consummated through the Sites are with the particular participating Subway® restaurant and not with us or any member of the Subway® Group. We have no responsibility or liability if your payment card is declined by your financial institution. For problems or disputes concerning any order or payment, contact that Subway® restaurant directly or your payment card issuer.The Sites may allow you to make order payments through certain credit and debit cards, but may not accept all payment cards. If and as available, the Sites may accept payment using the Subway® Card. The Subway® Card program is administered separately by a third party. Use of a Subway® Card is subject to separate terms and conditions, which are posted on the Site.
+
+If the first card you select is not accepted, please try another. Transactions consummated through the Sites are with the particular participating Subway® restaurant and not with us or any member of the Subway® Group. We have no responsibility or liability if your payment card is declined by your financial institution. For problems or disputes concerning any order or payment, contact that Subway® restaurant directly or your payment card issuer.
+3. Product Availability
+All products and services listed on the Sites are subject to availability and Subway® restaurant participation. Additionally, products and services may be limited in quantity. Some products and services may not be available in certain areas or through certain fulfillment channels. For example, certain products may be available for in-restaurant purchase but not for delivery or catering orders.
+
+The prices and availability of products and services may change at any time without notice to you. Prices remain valid while they are listed and offered on the applicable Site. The Subway® Group and the participating Subway® restaurant reserve the right to cancel, to terminate, or to not process orders (including accepted orders) where the price or other material information on the applicable Site is inaccurate, to revoke any stated price, and to correct any errors, inaccuracies, or omissions (including after a purchase has been made).
+4. Order Pick-Up
+After your pick-up order has been accepted, your order will be ready for pick-up approximately 15 minutes after checkout, unless you have ordered ahead and arranged for a separate pick-up time. Once your pick-up order has been accepted by the applicable Subway® restaurant, changes WILL NOT BE ACCEPTED, your order will be fulfilled as originally submitted, and YOU WILL BE RESPONSIBLE FOR PAYMENT OF THE TOTAL AMOUNT OF YOUR ORDER to the applicable Subway® restaurant. This section does not apply to catering orders. See below for more information on catering orders.
+5. Order Delivery
+Order delivery is subject to availability and Subway® restaurant participation. Delivery services may not be available in certain areas or during all restaurant operating hours. Where the option is available, you can place a Subway® Delivery order through the Sites. To determine if Subway® Delivery is available in your area, select ‘delivery’ as the fulfillment type on the Site when prompted and then enter the requested delivery address. If Subway® Delivery is available in that area at that time, a Subway® restaurant will be assigned to your order. If Subway® Delivery is not available, the Site will ask you to switch to a pick-up order.
+
+Subway® Delivery orders placed through the Sites can be placed beginning 30 minutes after opening, and up until 30 minutes before closing, of the applicable Subway® restaurant. Order delivery is available only at participating Subway® restaurant locations.
+
+Subway® Delivery orders are delivered through DoorDash. Please note that 100% of the tips you choose to give using Subway® Delivery will be forwarded to the delivery driver, not to the Subway® restaurant.
+
+Some items are not available for order via Subway® Delivery, such as, by way of example, fountain beverages, coffee/tea, and soup.
+
+Once your delivery order has been accepted by the applicable Subway® restaurant, changes WILL NOT BE ACCEPTED, your order will be fulfilled as originally submitted, and YOU WILL BE RESPONSIBLE FOR PAYMENT OF THE TOTAL AMOUNT OF YOUR ORDER to the applicable Subway® restaurant.
+
+Subway® Delivery Fee Disclosure: Where Subway® Delivery is used, additional fees may apply.  Additionally, the Subway® restaurant chosen by the Site to fulfill your order is based on multiple factors, including the delivery address, driver availability, participating restaurants, and approximate delivery time. As such, it is possible that the Subway® restaurant chosen is not the closest one to the delivery address and therefore subject to a higher delivery fee. The delivery fees disclosed on the Site at the time of sale will apply to your order. Delivery fees are subject to change at any time and do not include any applicable taxes. For more information on Subway® Delivery fees, please visit our FAQs.
+
+This section does not apply to catering orders. See below for more information on catering orders.
+
+Further, for clarification, this section does not apply to delivery orders placed directly with a third-party delivery service provider or through a third-party delivery service website or mobile application. Such third-party delivery orders are subject, as applicable, to the terms posted or displayed by that third party or on that third-party website or mobile application.
+6. Catering Orders
+Catering services (pick-up or delivery) are subject to availability and Subway® restaurant participation. Additionally, products and services available as part of catering orders may be limited in quantity.
+
+Catering orders may be placed online using Subway.com (United States) or Subway.ca (Canada), using third-party marketplaces if and as made available by us from time to time (which may be subject to separate or additional terms), or by contacting a Subway® restaurant directly. You must place your catering order at least 22 hours before the requested delivery or pick-up time. Lead times may vary by location.
+
+Catering Order Changes: If you are located in the United States, you may request a change to your online catering order by calling 1-800-488-1803. If you are located in Canada, you may request a change to your online catering order by calling 1-877-360-2283. To request a change to a catering order that was placed directly with a Subway® restaurant, please contact that restaurant directly. We will use commercially reasonable efforts to accommodate any catering order changes that you may reasonably request. Due to preparation time, however, requests to change catering orders within 22 hours of the originally requested fulfillment date and time may not be possible. To request a change to a catering order that was placed directly with a Subway® restaurant, please contact that restaurant directly.
+
+Canceling a Catering Order: If you are located in the United States, you may request to cancel your online catering order by calling 1-800-488-1803. If you are located in Canada, you may request to cancel your online catering order by calling 1-877-360-2283. To request to cancel a catering order that was placed directly with a Subway® restaurant, please contact that restaurant directly. Requests to cancel a catering order must be made at least 22 hours before the originally requested fulfillment date and time. After that time, you may cancel the catering order but, if canceled, you may be responsible for a cancellation fee equal to the total amount of your catering order.
+7. Disputes and Refunds
+If a billing error entitles you to a refund, you agree to accept the refund in the form of a credit on the method of payment used to place your order. Except if and as may be required by law, cash refunds will not be provided. If you are dissatisfied with the products or services received from a Subway® restaurant, please contact that Subway® restaurant directly.
+8. Subway® Account Records
+If you place an order on the Sites while logged into or otherwise using your Subway® account, we will update your Subway® account activity to reflect that order and the Site will provide you with a transaction confirmation. That confirmation will serve as your receipt. Except if and as may be required by law, you are solely responsible for (a) compiling and retaining permanent records of all transactions and other data associated with your Subway® account and your use of the Sites, and (b) reconciling all transactional information that is associated with your Subway® account. If you believe there is an error with your Subway® account, you agree to contact Guest Care immediately. If you believe there is unauthorized transaction activity associated with your Subway® account, please contact the applicable financial institution.
+9. Guest Care
+For questions or problems relating to placing an order, contact  Guest Care: Guest Care (United States) or Guest Care (Canada). Note that we are only responsible for customer service issues relating to your Subway® account. Problems with any order you place with a Subway® restaurant are the responsibility of that restaurant. Our Guest Care team may provide you with the necessary information to contact the applicable Subway® restaurant, but we disclaim any and all liability in connection with all orders.
+10. General
+These Terms, including the Site Terms, constitute the entire understanding between you and us with respect to the subject matter of these Terms.
+
+These Terms, the placement of orders using the Sites, and any claims, controversies, or disputes related to or arising therefrom are governed by the body of law specified in, and will be resolved in accordance with the dispute resolution provisions of, the Site Terms.
+
+We will not (nor will any third parties we engage to fulfill orders) be liable to you or to any third party for any delay or other failure to perform under these Terms that is due to causes beyond our control or the control of third-party fulfillment providers, including without limitation acts of God, terrorism, civil disorders, labor disputes, shortages, riot, war, strikes, acts of a public enemy, acts of any government, country, territory, political division thereof, or government agency, fires, floods, earthquakes, blizzards, other extraordinary elements of nature, epidemics, pandemics, acts or omissions of third parties, telecommunications failures, Internet failures, and similar causes and events.
+11. NO WARRANTIES
+EXCEPT TO THE EXTENT PROHIBITED BY APPLICABLE LAW (WHICH MAY INCLUDE THE PROVINCE OF QUEBEC) AND WITHOUT LIMITING THE GENERALITY OF THE DISCLAIMERS OF WARRANTIES OR CONDITIONS IN THE SITE TERMS, THE SITES ARE PROVIDED ON AN "AS IS" AND “AS AVAILABLE” BASIS WITHOUT ANY CONDITIONS, REPRESENTATIONS, OR WARRANTIES OF ANY KIND WHATSOEVER, WHETHER EXPRESSED, IMPLIED, STATUTORY, OR OTHERWISE.
+
+
+12. LIMITATION OF LIABILITY
+EXCEPT TO THE EXTENT PROHIBITED BY APPLICABLE LAW (WHICH MAY INCLUDE THE PROVINCE OF QUEBEC) AND WITHOUT LIMITING THE GENERALITY OF THE EXCLUSIONS AND LIMITATIONS OF LIABILITY IN THE SITE TERMS, IN NO EVENT WILL THE SUBWAY® GROUP HAVE ANY LIABILITY OR RESPONSIBILITY FOR ANY AMOUNT OR KIND OF LOSS OR DAMAGE THAT MAY RESULT TO OR BE INCURRED BY YOU OR A THIRD PARTY, ARISING OUT OF OR IN CONNECTION WITH YOUR PLACEMENT OF ORDERS (OR ANY INABILITY TO PLACE ORDERS) USING THE SITES.
+13. Indemnification
+You agree to indemnify, defend and hold harmless the Subway® Group from and against any and all claims (including but not limited to third-party claims), demands, complaints, actions, damages, losses, judgments, settlements, fines, costs, expenses, and liabilities (including reasonable legal fees) arising out of or in connection with your placement of orders through the Sites. We reserve, and you grant to us, the exclusive right to assume the defense and control of any matter subject to indemnification by you.
+14. Privacy
+Your personal information will be treated in accordance with our Privacy Statement. We may send you order confirmations or other transactional text messages with your consent. Text STOP to opt out. Text HELP for help. Standard message and data rates may apply.
+--
+Subway® Card Terms and Conditions
+Last Updated: Sept., 9, 2023
+
+The Subway® Card is issued by Subway Payment Services, LLC in the U.S. and by Subway Payment Services Canada, ULC in Canada (together, “SPS” and collectively with their respective affiliates, the “Subway® Group”). These Subway® Card Terms and Conditions, together with the terms governing your access to and use of our websites and mobile apps, as applicable (collectively, the “Site(s)), apply to the purchase, registration, and use of Subway® Cards and are agreement between you and SPS (these “Terms” or this “Agreement”). These Terms include and are subject to the terms governing your access to and use of the applicable Site(s) (the “Site Terms”) which can be found at our Terms of Use.
+
+ARBITRATION NOTICE: These Terms contain a binding arbitration provision set forth below in Section 4. EXCEPT WHERE PROHIBITED BY APPLICABLE LAW (WHICH MAY INCLUDE THE PROVINCE OF QUEBEC), these Terms require you to arbitrate disputes with us rather than resolve disputes through a jury trial or class action. By purchasing, using or registering a Subway® Card you hereby waive, any rights to participate in a class action lawsuit or representative action with respect to any disputes or claims arising out of or relating to these Terms or the Site except where otherwise limited or prohibited by applicable law.
+
+Registration or use of a Subway® Card constitutes acceptance of these Terms. If you do not agree to these Terms, do not register or use the Subway® Card. The Subway® Card can also be used in conjunction with the Subway® Rewards Program, which is administered separately subject to additional terms and conditions which can be found at Subway MVP Rewards.
+
+For clarity, SPS is only involved in the issuance of Subway® Cards and the administration of the Subway® Card program, and members of the Subway® Group operate the Sites. Neither SPS nor any other member of the Subway® Group owns or operates any Subway® restaurants. Instead, each Subway® restaurant is owned by an independent franchisee and operated as an independent business. Each restaurant is solely and independently responsible for any issues relating to the sale of products to you.
+
+The Subway® Card currently comes in two forms: (i) a physical Subway® Card; and (ii) an electronically-transmitted Subway® eGift Card. In these Terms, the term “Subway® Card” refers to both the physical version of the Subway® Card and the Subway® eGift Card, except where indicated otherwise. The Subway® Card may only be used to purchase goods or services at participating Subway® restaurants in the U.S. and Canada, and online at www.subway.com or through the Subway® App, as set forth below.
+1. About Your Subway® Card
+Purchasing a Subway® Card
+
+The physical Subway® Card may be purchased at participating Subway® restaurants in the U.S. and Canada, online at subway.com/gift-card and at other authorized retailers. The Subway® eGift Card may be purchased online at subway.com/gift-card and at other authorized retailer websites. Subway® Cards purchased through authorized retailers may be subject to additional terms and conditions as set forth by such third parties.
+
+Use of Subway® Cards
+
+The Subway® Card is usable up to its balance only to purchase goods or services at participating Subway® restaurants in the U.S. and Canada, and online at www.subway.com or through the Subway® App. Physical Subway® Cards may also be used in connection with the Subway® Rewards Program, as set forth below. Subway® eGift Cards may not currently be used in connection with the Subway® Rewards Program; however, the balance on a registered Subway® eGift Card may be transferred to a physical Subway® Card, and that Subway® Card may be used in connection with the Subway® Rewards Program, as set forth below.
+
+The Subway® Card can be used when you place an online order through the Sites (“Online Ordering”); however, the Subway® Card cannot be used for Online Orders placed through third party online ordering services. Online Orders may be subject to additional Order Terms.
+
+Participating Restaurants
+
+To find out if a particular Subway® restaurant is a participating restaurant, ask the applicable Subway® restaurant or call ahead to confirm it is a participating restaurant prior to placing your order. SPS cannot guarantee acceptance of your Subway® Card at all Subway® restaurants because Subway® restaurants operate as independent franchises.
+
+Restrictions
+
+The Subway® Card must be presented at the time of order to purchase goods or services. The Subway® Card may not be used to buy additional Subway® Cards and is not redeemable for cash except as required by law. The Subway® Card also may not be resold unless with give our prior consent. The Subway® Card is not a credit or debit card, and no credit card, overdraft protection, deposit account, or depository insurance is associated with it.
+
+Currency
+
+The Subway® Card currency is determined by the currency of the initial load. When a Subway® Card is loaded with USD and subsequently used to purchase goods or services at participating Subway® restaurants in Canada, the transaction amount will automatically be converted from CAD to USD and deducted from the remaining balance on the Subway® Card. Similarly, when a Subway® Card is loaded with CAD and subsequently used to purchase goods or services at participating Subway® restaurants in the U.S., the transaction amount will automatically be converted from USD to CAD and deducted from the remaining balance on the Subway® Card. In either case, the conversion will be performed using a currency conversion rate which is updated on daily basis. The Subway® Card Balance will always be maintained in the currency that was originally loaded to the Subway® Card.
+
+Expiration / Fees
+
+The Subway® Card prepaid dollar value balance never expires, nor does SPS charge any fees in connection with its use.
+
+Registration
+
+To create a Subway® account and register your Subway® Card, at Subway MVP Rewards or download the Subway® App. You must submit a valid email address.
+
+Each customer is permitted to maintain only one Subway® account. Once you have created a Subway® account and registered a Subway® Card, you may add other Subway® Cards by logging your into Subway.com account or the Subway® App.
+
+By creating a Subway® account, you will automatically be enrolled in the Subway® MVP Rewards Program, which is subject to additional terms and conditions. As a condition of membership in the Subway® MVP Rewards Program, you will be asked to provide a valid email when you enroll, which the Subway® Group or its designees will use to contact you about your account and as otherwise permitted by applicable law. The Subway® Group may also send you such communications via the Subway® App (as applicable) if you choose to receive push notifications. You can opt-out of receiving any such push notifications by changing your device settings. You may also receive a notification or message during the check process in a Subway® restaurant.
+
+You may also sign up to receive promotional messages and communications sent to you by email, SMS, or other computer electronic messaging such as Facebook Messenger on the Sites. You may unsubscribe from promotional commercial messages at any time by changing your preferences in your account or opting out via the unsubscribe link at the bottom of your email, or by following the opt-out instructions in the applicable SMS message or other computer electronic message as specified in the message. Even if you opt out of receiving promotional messages, you understand and agree that the Subway® Group may continue to send you messages concerning your account.
+
+Balance
+
+You can check the balance on a registered Subway® Card at participating Subway® restaurants, online by logging into your account Subway.com, or through the Subway® App. You can check the balance on an unregistered Subway® Card at participating Subway® restaurants.
+
+PIN
+
+Your Subway® Card has a Card Number and a Personal Identification Number (“PIN”) associated with it. On physical Subway® Cards, the PIN can be found by scratching off the silver box on the back of the Subway® Card. For Subway® eGift Cards, the PIN will be contained in the email in which the Subway® Card is delivered. The PIN is used to help identify you when checking account information online or when talking by telephone with customer service representatives.
+
+Reloading Your Subway® Card
+
+A Subway® Card that was initially loaded in one currency can be reloaded again in the that same currency. Additionally, a Subway® Card that was initially loaded with USD may also be loaded or reloaded with CAD, and vice versa.
+
+You can reload your Subway® Card dollar value balance in several ways. The physical version of the Subway® Card may be reloaded at participating Subway® restaurants in the U.S. and Canada, using cash or a credit card, and may also be reloaded online at www.subway.com using a credit card. Physical Subway® Cards need not be registered in order for them to be reloaded at Subway® restaurants, but they must be registered in order to be reloaded online at www.subway.com using a credit card. Subway® eGift Cards cannot currently be reloaded; however, the balance on a registered Subway® eGift Card may be transferred to a physical Subway® Card, and that Subway® Card may then be reloaded as described above.
+
+The maximum dollar value that can be associated with any one Subway® Card at any given time is $500.00. The maximum value that can be associated with a Subway® Card on any calendar day, between beginning balance and reload activity, is $500.00. No single individual may purchase Subway® Cards with a total value of more than $10,000.00 on any calendar day.
+
+Unauthorized Transactions / Replacement of Lost, Stolen, or Damaged Cards
+
+You are responsible for all transactions associated with your Subway® Card, whether authorized or unauthorized. You should, therefore, safeguard your Subway® Card.
+
+If you have registered a Subway® Card and believe someone has obtained unauthorized access to your account information, you should change your password immediately. You should ensure that that your password is unique to your Subway® account and has not been used for any other purpose. You should also reach out to your financial institution and follow its dispute resolution policy if you believe that charges were made to any credit or debit card on file without your authorization.
+
+If you have registered a Subway® Card and it is subsequently lost, stolen, damaged, or otherwise rendered non-functional, or if you believe that someone has copied your Subway® Card, complete the electronic Card Replacement Form and submit it along with proof of purchase of your Subway® Card. SPS will freeze the remaining unused balance on your Subway® Card as of the time the form is processed, and SPS will then issue a replacement Subway® eGift Card.
+
+Subway® Cards that have been lost, stolen, damaged, or otherwise rendered non-functional will be replaced only if the Subway® Card was previously registered and proof of purchase is provided.
+
+SPS is not responsible for any unauthorized use of your Subway® Card before your account balance is frozen. If you submit a proper request for replacement, a new Subway® eGift Card will be issued to you in the amount remaining at the time your balance was frozen.
+
+Fraud
+
+SPS reserves the right to refuse to accept or otherwise limit the use of any Subway® Card if SPS reasonably believes the use is unauthorized or unlawful.
+2. The Subway® MVP Rewards Program
+Subway® MyWay Rewards, LLC and Subway® MyWay Rewards of Canada, ULC administer the Subway® Rewards Program.
+
+If you are a Subway® MVP rewards member, you may choose to link your account to your Subway® Card. Once your account is linked to your Card, the Card can then be used as identification when earning and redeeming points and rewards at participating Subway® restaurants. If you use an unregistered Subway® Card at a participating Subway® restaurant, you can earn Points on the associated transaction provided you register the Card and connect it to your Member Account via the Sites or link the Card to your Member Account within 48 hours.
+
+To register your Subway® Card and be automatically enrolled in the Subway® MVP Rewards program please visit www.subway.com and register your Subway® Card. If you have registered your Subway® Card online but the email address you provided when registering your Subway® Card is no longer valid, visit the Subway® FAQ page pertaining to the Rewards Program for further information. To check your Subway® MVP Rewards balance, manage your account, or view available offers, log into your Subway® account.
+
+Participation in the Subway® MVP Rewards Program is subject to, and constitutes acceptance of, the Subway® MVP Rewards Program Terms of Use.
+3. NO WARRANTIES; LIMITATION OF LIABILITY
+EXCEPT TO THE EXTENT PROHIBITED BY APPLICABLE LAW AND WITHOUT LIMITING THE GENERALITY OF THE DISCLAIMERS OF WARRANTIES OR CONDITIONS IN THE SITE TERMS, THE SUBWAY® CARD IS PROVIDED ON AN "AS IS" AND “AS AVAILABLE” BASIS WITHOUT ANY CONDITIONS, REPRESENTATIONS, OR WARRANTIES OF ANY KIND WHATSOEVER, WHETHER EXPRESSED, IMPLIED, STATUTORY, OR OTHERWISE.
+
+EXCEPT TO THE EXTENT PROHIBITED BY APPLICABLE LAW AND WITHOUT LIMITING THE GENERALITY OF THE EXCLUSIONS AND LIMITATIONS OF LIABILITY IN THE SITE TERMS, IN NO EVENT WILL THE SUBWAY® GROUP HAVE ANY LIABILITY OR RESPONSIBILITY FOR ANY AMOUNT OR KIND OF LOSS OR DAMAGE THAT MAY RESULT TO OR BE INCURRED BY YOU OR A THIRD PARTY, ARISING OUT OF OR IN CONNECTION WITH YOUR PURCHASE, REGISTRATION, OR USE OF THE SUBWAY® CARD; EXCEPT THAT, IN THE EVENT THAT A SUBWAY® CARD IS NON-FUNCTIONAL, YOUR SOLE REMEDY AND SPS’ SOLE LIABILITY, SHALL BE THE REPLACEMENT OF SUCH CARD.
+4. Mandatory Binding Individual Arbitration
+THIS SECTION 4 APPLIES EXCLUSIVELY TO SUBWAY® CARDS ISSUED BY SPS.
+
+PLEASE READ THIS ENTIRE SECTION CAREFULLY. EXCEPT WHERE PROHIBITED BY APPLICABLE LAW (WHICH, FOR CONSUMERS, MAY INCLUDE THE PROVINCE OF QUEBEC), IT REQUIRES BINDING ARBITRATION OF MOST DISPUTES INSTEAD OF LITIGATION IN COURT AND AFFECTS LEGAL RIGHTS THAT YOU MAY OTHERWISE HAVE. IT ALSO INCLUDES A CLASS ACTION AND JURY TRIAL WAIVER.
+
+If you are located in the United States:
+
+Initial Dispute Resolution
+
+Before submitting a claim for arbitration in accordance with the provisions set forth in this Section 17, you and we agree to try, for thirty (30) days, to resolve any Dispute (defined below, under “Agreement to Binding Arbitration”) informally, upon giving written notice to the other party that identifies the specific violation alleged, any and all facts related to the alleged violation, and the specific monetary or other relief, if any, sought by the party. To minimize the cost and inconvenience to all parties, and to promote prompt resolution of Disputes, you and we agree that engaging in this initial dispute resolution process is a material term of this arbitration agreement and a requirement that must be fulfilled before commencing any arbitration.
+
+You and we further agree that any disagreements regarding compliance with this “Initial Dispute Resolution” provision shall be decided by a court, not an arbitrator; pending resolution of any such disagreements by a court, which may include requests to compel compliance with this provision, you and we agree that arbitration (as well as any obligation to pay arbitration fees) shall be stayed until the initial dispute resolution process set forth in this provision is complete. You and we acknowledge that either party’s failure to comply with the “Initial Dispute Resolution” provisions would irreparably harm the other, and you and we agree that a court may issue an order staying arbitration (and any obligation to pay arbitration fees) until the initial dispute resolution process in this provision is complete.
+
+Agreement to Binding Arbitration
+
+You and we hereby agree and consent that any claim, controversy, or dispute related to or arising out of access to and use of the Site or these Terms (including the breach hereof) or for any promotions offered by the Subway® Group, whether based in contract, tort, statute, or other legal theory (“Disputes”), will be resolved by binding arbitration before a single arbitrator as described below. The arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of this agreement to binding arbitration, including, but not limited to, any claim that all or any part of this arbitration agreement is void or voidable. The arbitrator shall be empowered to grant whatever relief would be available in a court under the law or in equity. If you are a California resident, requests for public injunctive relief, if any, shall be decided by a court, not an arbitrator, and that request for public injunctive relief shall be severed from any arbitration proceeding and stayed pending a final determination of the arbitration. Nothing in this arbitration agreement shall be construed as a waiver of either party’s right to seek public injunctive relief, and you and we agree to cooperate to effect the stay of any requests for public injunctive relief.
+
+Arbitration proceedings must be initiated within one (1) year after any Dispute arises; otherwise, the Dispute is permanently barred.
+
+Any and all actions taken under this arbitration agreement are confidential and must not be disclosed to any third party. Any arbitral award will be final and binding and may be enforced by any court of competent jurisdiction. This arbitration agreement applies to you and all Subway® Group Parties.
+
+Where the location of the applicable Subway® Group member is within the U.S.A., the arbitration will be administered by the American Arbitration Association (“AAA”) in accordance with the AAA Consumer Arbitration Rules, which are available at https://www.adr.org/Rules (Opens in New Window) All AAA arbitration proceedings will be held virtually or in a location reasonably convenient to both parties, consistent with the AAA’s Consumer Arbitration Rules. Where the location of the applicable Subway® Group member is anywhere outside of the U.S.A., the arbitration will be administered by the International Chamber of Commerce (“ICC”) in accordance with its applicable rules. All ICC arbitration proceedings will be held within the region in which the applicable Subway® Group member is located and such location will be selected by the Subway® Group.
+
+Notwithstanding the foregoing, in the event of any actual, alleged, or threatened violation of confidentiality or violation of the Subway® Group’s intellectual property or other proprietary rights, or where appropriate to stop or prevent an imminent breach of these Terms, you and we may immediately resort to court proceedings in a court of competent jurisdiction in order to seek immediate injunctive relief without posting bond, proving damages, or meeting any similar requirement. Any Subway® Group institution of any action for injunctive relief will not constitute a waiver of the right or obligation of the Subway® Group to submit any claim seeking relief other than injunctive relief to arbitration.
+
+The parties understand that, absent this mandatory provision, they would have had a right or opportunity to litigate Disputes through a court, to have a judge or jury decide their case, and to participate in a class action or other proceeding involving multiple claimants, but they have instead chosen to have all Disputes decided through individual arbitration. The parties further understand that the right to discovery may be more limited in arbitration than in court.
+
+Class Action and Class Arbitration Waiver
+
+You and we further agree that any arbitration shall be conducted in our respective individual capacities only and not as a class action, and you and we each expressly waive our respective right to file a class action or seek relief on a class basis. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration agreement set forth in this section shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
+
+Exception – Small Claims Court
+
+Notwithstanding the parties’ agreement to resolve all disputes through arbitration, either party may seek relief in a small claims court for disputes or claims within the scope of that court’s jurisdiction.
+
+30-Day Right to Opt Out
+
+You have the right to opt out and not be bound by the arbitration and class action waiver provisions set forth in this section by sending written notice of your decision to opt out to the following address: arbitration@subway.com. The notice must be sent within thirty (30) days of your use of the Site, otherwise you shall be bound to arbitrate disputes in accordance with the terms set forth in this section. If you opt out of these arbitration provisions, we also will not be bound by them.
+
+Initiation of Mass Arbitration
+
+If ten (10) or more demands for arbitration are filed relating to the same or similar subject matter and share common issues of law or fact, and counsel for the parties submitting the demands are the same or coordinated, you and we agree that this will constitute a “Mass Arbitration.”
+
+If a Mass Arbitration is commenced, you and we agree that the arbitrator may, at the request of either party, consolidate two or more arbitrations into a single arbitration, but not as a class arbitration, where: (a) the parties have agreed to consolidation, (b) in accordance with Federal Rules of Civil Procedure standards and applicable law, or (c) all of the claims in the arbitrations are made under the same arbitration agreement or agreements. In deciding whether to consolidate, the arbitrator may take into account any circumstance the arbitrator considers to be relevant, including whether one or more arbitrators have been confirmed or appointed in more than one of the arbitrations and, if so, whether the same or different persons have been confirmed or appointed.
+
+If a Mass Arbitration is commenced and two or more arbitrations are consolidated into a single arbitration, you and we agree that any party may submit a request to the AAA, the arbitrator, or both that the fees to be assessed by the AAA (including, but not limited to, the case management fees, hearing fees, and the arbitrator fees) be adjusted and reduced based on consolidation of the arbitrations into a single arbitration. The parties shall also be free to agree on limitations on the fees to be paid to the arbitrator, to class-action counsel, or counsel in consolidated proceedings.
+
+Exclusive Venue for Litigation
+
+To the extent that the arbitration provisions set forth in this section do not apply or if you have opted out of arbitration, the parties agree that any litigation between them shall be filed exclusively in state or federal courts located in Connecticut (except for small claims court actions, which may be brought where you reside). The parties expressly consent to exclusive jurisdiction in Connecticut for any litigation other than small claims court actions. In the event of litigation relating to these Terms or the Site, the parties agree to waive, to the maximum extent permitted by law, any right to a jury trial, except where a jury trial waiver is not permissible under applicable law.
+
+Additional Terms
+
+Where the location of the applicable Subway® Group member is within the U.S.A., this arbitration agreement is made pursuant to a transaction involving interstate commerce and will be governed by the Federal Arbitration Act, 9 U.S.C. Sections 1-16.
+
+This arbitration agreement does not amend or modify any rights or obligations under any franchise agreement, development agent agreement, supplier agreement, vendor agreement, or any other contract between you and the Subway® Group. All disputes within the scope of those agreements will be resolved in accordance with their terms.
+
+If you are located in Canada:
+
+Except where prohibited by law, any controversy, claim or dispute arising out of, relating to, or in respect of these Terms, including their negotiation, validity, existence, breach, termination, construction or application, or the rights, duties or obligations of any party, or the rights, duties or obligations of any party derived from or associated with these Terms (a “Dispute”), shall be referred to and determined by a single arbitrator in a final and binding arbitration administered under the rules of ADR Institute of Canada, Inc.’s Arbitration Rules. If the parties have not agreed upon an arbitrator within fourteen (14) days, unless otherwise agreed by the parties in writing, the parties shall ask the ADR Institute of Canada, Inc. to appoint a single arbitrator.
+
+The seat of the arbitration shall be the same as the provincial or territorial law governing these Terms. The arbitration shall be heard in the capital of the seat, unless the parties agree otherwise. The costs and expenses of the arbitrator shall be shared equally between the parties. A party to the arbitration has no right of appeal from any award of the arbitrator, whether characterized as final, interim, interlocutory or partial.
+
+All Disputes referred to arbitration (including the scope of the agreement to arbitrate, the law relating to the enforcement of the agreement to arbitrate, any relevant limitation periods, the law governing the procedure of the arbitration, the law relating to available remedies, set-off claims, and conflict of laws rules) shall be governed by the law of the seat. Each party hereby irrevocably consents to venue in the capital of the seat, and to the jurisdiction of competent courts in the capital of the seat for all litigation that may be brought, however it is agreed and acknowledged that the intention of the parties is to arbitrate the Dispute without recourse to the courts.
+
+A party to these Terms may take such steps as are permitted or required to enforce an award made by an Arbitrator. Except as required by law, and only to the extent that such disclosure is reasonably necessary, or for the purposes of obtaining professional advice, the existence of the arbitration and any element of the arbitration, including any award, shall be confidential and shall not be disclosed to any non-party to the arbitration. No document or other evidence or information prepared for or produced by or on behalf of any party to the arbitration shall be disclosed to any non-party to the arbitration.
+5. General
+These Terms, including the Site Terms, constitute the entire understanding between you and us with respect to the subject matter of these Terms. These Terms, the purchase, registration, or use of the Subway® Card, and any claims, controversies, or disputes related to or arising therefrom are governed by the body of law in, and will be resolved in accordance with the dispute resolution provisions of, this Agreement. Any claims, controversies, or disputes related to or arising from the Site Terms are governed by the body of law in, and will be resolved in accordance with the dispute resolution provisions of, the Site Terms.
+
+SPS will not be liable to you or to any third party for any delay or other failure to perform under these Terms that is due to causes beyond our control or the control of third-party fulfillment providers, including without limitation acts of God, terrorism, civil disorders, labor disputes, shortages, riot, war, strikes, acts of a public enemy, acts of any government, country, territory, political division thereof, or government agency, fires, floods, earthquakes, blizzards, other extraordinary elements of nature, epidemics, pandemics, acts or omissions of third parties, telecommunications failures, Internet failures, and similar causes and events.
+
+In the case of Subway® Cards issued in the U.S., the laws of the Commonwealth of Virginia, without regard to principles of conflict of laws, apply to this Agreement and the purchase, registration, and/or use of your Subway® Card. In the case of Subway® Cards issued in Canada, the laws of the Province of Alberta, without regard to principles of conflict of laws, apply to this Agreement and the purchase, registration, and/or use of your Subway® Card.
+
+SPS reserves the right to change this Agreement from time to time in its discretion, which changes SPS may provide to you by any reasonable means, including without limitation, by posting the revised version of this Agreement at https://www.subway.com/en-us/legal/subway-card.
+
+Another party, including any successor or designee of SPS may be substituted as the Subway® Card issuer and sole obligor without the cardholder’s consent. If a new party becomes the Subway® Card issuer, the former Subway® Card issuer is released from all liability to the Subway® Card holder or any other party.
+6. Privacy
+Your personal information will be treated in accordance with our Privacy Statement. SPS may send you order confirmations or other transactional text messages with your consent. Text STOP to opt out. Text HELP for help. Standard message and data rates may apply.
+7. Contact Us
+For questions or problems relating to your Subway® Card, contact: Guest Care (United States) or Guest Care (Canada). Note that SPS is only responsible for customer service issues relating to your Subway® Card account. Problems with the use of a Subway® Card at a Subway® restaurant are the responsibility of that restaurant.
+--
+Subway® MVP Rewards Terms
+Last Updated: Sept., 9, 2023
+
+These Subway® MVP Rewards Terms (“Terms”), together with the terms governing your access to and use of our websites and mobile apps, as applicable, govern your participation in the Subway® MVP Rewards program. These Terms form a binding contract between you and Subway MyWay LLC, if you are located in the United States Territory (as defined below) or, if you are located in Canada, between you and Subway MyWay of Canada, ULC (as applicable, “Subway®,” “we,” “us,” or “our”). Our websites and mobile apps are, together, referred to as the “Site(s)”.
+
+By clicking “SIGN UP” or by otherwise participating in Subway® MVP Rewards, you (agree that you have read and understand these Terms.
+
+These Terms include and are subject to the terms governing your access to and use of the applicable Site(s) (the “Site Terms”), for example and as applicable, our Terms of Use.
+
+While we operate the Sites and administer the Subway® MVP Rewards program, neither we nor any of our affiliates is responsible for the operation of Subway® restaurants. Instead, Subway® restaurants are owned and operated by independent franchisees. Each restaurant is solely and independently responsible for any issues relating to the sale of products to you.
+
+Except where prohibited by applicable law, we reserve the right to modify these Terms at any time. All changes will be effective immediately upon posting to the Site and, by accessing or using the Site after changes are posted, you agree to those changes. Material changes will be prominently posted on the Site.
+1. Geographic Scope & General Requirements
+The Subway® MVP Rewards program (“Subway® MVP Rewards” or the “Program”) is operated by us on behalf of participating Subway® restaurants in the United States, District of Columbia, Puerto Rico, Guam, Northern Mariana Islands, and on certain international U.S. military installations, which includes certain Army & Air Forces Exchange Service (“AAFES”) and Navy Exchange Service Command (“NEXCOM”) locations (AAFES and NEXCOM locations, together, “international U.S. military locations”); (together, the “United States Territory”), and in Canada.
+
+We reserve the right to change, modify and/or eliminate Subway® MVP Rewards, and/or all or any portion of FAQ, or guideline pertaining to Subway® MVP Rewards at any time and at our sole discretion. Any changes or modifications will be effective immediately upon posting the changes which may be accessed through the Site. Your continued participation in or access to Subway® MVP Rewards confirms your acceptance of these Terms and any changes or modifications to these Terms. You should review these Terms and our policies and FAQs frequently to understand the terms and conditions that apply to your enrollment and participation in Subway® MVP Rewards.
+
+Subway® MVP Rewards is intended for individual use only. Commercial use is prohibited. To participate you must be a legal resident of either the United States Territory or of Canada. Subway® MVP Rewards is not targeted toward, nor intended for use by, anyone under the age of 18. If you register for Subway® MVP Rewards you must be 18 years of age or older to participate. Enrollment and participation in Subway® MVP Rewards is complimentary.
+2. Subway® MVP Rewards Account
+Your Subway® MVP Rewards account is personal to you, and you can only have one Subway® MVP Rewards account. Your Subway® MVP Rewards account and any associated Points, Subway® Cash, and other Rewards cannot be sold, transferred, assigned to, or shared with, family, friends, or others.
+
+If we discover that you have more than one account, we reserve the right to terminate any and all of your accounts, and you shall immediately forfeit all Points, Subway® Cash, and Rewards upon such termination. You are responsible for ensuring that no unauthorized person has access to your Subway® MVP Rewards account or your Subway® Card (“Card”). You are responsible for all activity on your Subway® MVP Rewards account.
+
+Without notice to you and in our sole discretion, we reserve the right to suspend or terminate your Subway® MVP Rewards account or access to your account if we determine that you have violated these Terms or the Site Terms, that there has been fraudulent, deceptive, or unlawful activity on your account, or for the performance of routine or non-routine maintenance, error correction or for any other purpose. If we terminate your Subway® MVP Rewards account, you shall immediately forfeit all associated Points, Subway® Cash, and Rewards.
+3. Availability
+Subway® MVP Rewards availability is subject to Subway® restaurant participation. Some Subway® restaurants may not participate in Subway® MVP Rewards. Ask prior to placing your order or call ahead to the applicable Subway® restaurant to confirm if you can earn Points or redeem Subway® Cash and other Rewards at that specific Subway® restaurant. Some features of Subway® MVP Rewards, such as the ability to scan your account information via the via the Subway® App, may not be available in certain countries or locations.
+4. How to Enroll & Communications
+To begin earning Points and other Rewards when ordering any of the food items or other products at a participating Subway® restaurant that are eligible (“Eligible Items”), you can enroll in the Program through the Site(s) (including, as applicable, through the Subway® App). You will not be able to enroll through any other means and you will need to agree to these Terms to enroll and participate in Subway® MVP Rewards. Please note that Eligible Items may change depending on availability and at the discretion of the specific participating Subway® restaurant and that we have no control over the availability of any Eligible Items.
+
+As a condition of membership in Subway® MVP Rewards, you will be asked to provide a valid email when you enroll, which we, our affiliates, and our and their respective designees and service providers will use to contact you about your account, Points balance, available Subway® Cash and Rewards, and as otherwise permitted by applicable law. We may also send you such communications via the Subway® App if you choose to receive push notifications. You can opt out of receiving any such push notifications by changing your device settings. You may also receive a push notification or email during the checkout process in a Subway® restaurant.
+5. Linking Your Card: Digital and Plastic
+Once you have successfully enrolled in Subway® MVP Rewards you will be assigned a Program account (“Member Account”) that is accessible via the Sites upon login. You may choose to link your Member Account to your Card, which can be obtained from any participating Subway® restaurant, subject to availability. Once your Member Account is linked to your Card, the Card can then be used as identification when earning and redeeming Points and Rewards at participating Subway® restaurants. If you use an unregistered Card at a participating Subway® restaurant, you can earn Points on the associated transaction provided you register the Card and connect it to your Member Account via the Sites or link the Card to your Member Account within 48 hours.
+6. Earning Points and Rewards; Membership Levels
+As a Subway® MVP Rewards member, you can earn Points on all Eligible Items that you purchase at participating Subway® restaurants, both in-restaurant and through placing an order through the Sites (“Online Ordering”). Online Orders are subject to additional Order Terms. To earn Points in restaurant, you must identify yourself at the participating Subway® restaurant as a Subway® MVP Rewards member by either providing the phone number associated with your Member Account, scanning your Member Account information via the QR code available in the Subway® App, or swiping your Card (if already registered and connected to your Member Account) before completing a purchase. Subway® MVP Rewards has three membership levels – Pro, Captain, and All-Star. Membership status is based on how much you spend annually. Members start out at Pro status. Members who spend two-hundred dollars ($200) annually will obtain Captain status. Members who spend four-hundred dollars ($400) annually will obtain All-Star status. A member must meet the qualifying spend threshold for a particular tier level each year in order to maintain their membership status the following year.
+
+For members at the Pro membership level: For every one dollar ($1) you spend at a participating Subway® restaurant in the Territory on Eligible Items, you will be awarded ten (10) Points.
+
+For members at the Captain membership level: For every one dollar ($1) you spend at a participating Subway® restaurant in the Territory on Eligible Items, you will be awarded eleven (11) Points.
+
+For members at the All-Star membership level: For every one dollar ($1) you spend at a participating Subway® restaurant in the Territory on Eligible Items, you will be awarded twelve (12) Points.
+
+In some instances, you may earn Points through a promotion or campaign that we sponsor (“Eligible Campaigns”). Your eligibility to earn Points through an Eligible Campaign (if applicable and only as available) is dependent on your acceptance and compliance with the applicable Eligible Campaign’s terms and conditions. Except for Points earned through Eligible Campaigns, Points are automatically added to your account within twenty-four (24) hours. Points are awarded based on your total purchase (less the exclusions listed below) and are rounded up or down to the nearest dollar, prior to sales and discounts.
+
+Some exclusions apply. You cannot earn Points on purchases of alcoholic beverages or of gift cards (including gift card purchases, activations, reloads, transfers, or any other card-to-card transaction). Taxes, tips, donations, fees, (including, for example, delivery fees), bottle and can deposits, and bag fees (or bag taxes, as applicable) are also excluded and ineligible for Points awards. Online Orders placed through third party ordering services are not eligible for Points awards. We reserve the right to place limits on the number of Points you can earn on a daily and/or monthly basis.
+
+Bonus Points may be awarded based on your purchase of or participation in a promotional offer. Bonus Points will be awarded as described in a promotional offer and may be subject to additional terms that are stated in the applicable promotional offer.
+
+Once your balance reaches four hundred (400) Points, you can choose to convert the Points into $2 Subway® Cash (in either USD or CAD, as applicable, depending on where your Member Account was established), which is a discount coupon that can be used for two dollars ($2.00) off a future purchase at a participating Subway® restaurant (“Subway® Cash”). Points can also be accumulated and converted into larger amounts of Subway® Cash later. For example, 1200 Points can be accumulated and converted into $6 Subway® Cash. Subway® Cash is unique, associated solely with your Member Account, and for your use only.
+
+IMPORTANT NOTE: Subway® Cash is not a gift certificate. All Points, Subway® Cash, and all other Rewards are promotional, have no cash value, and cannot be exchanged for cash or converted to a gift card balance. Except for redeeming Points for Subway® Cash in accordance with these Terms, Points have no value and may not be exchanged for cash or otherwise. You will lose any extra balance on a $2 Subway® Cash redemption that exceeds the bill amount. For example, if you use $4 Subway® Cash on a subtotal amount of $3.50, you will lose the remaining $0.50 from the second $2 applied in Subway® Cash. All Points, Subway® Cash, and other Rewards will expire on termination of your enrollment in Subway® MVP Rewards (whether terminated by you or by us) or termination of the Subway® MVP Rewards altogether, subject only to notice that is required by applicable law, if any.
+7. How to Redeem Subway® Cash and other Rewards
+To redeem Subway® Cash or other Rewards at a participating Subway® restaurant, you must identify yourself as a Subway® MVP Rewards member by either providing the phone number associated with your Member Account, scanning your Member Account information via the Subway® App, or swiping a registered Card before completing your purchase.
+
+You can choose whether you want to apply the Subway® Cash or other Reward (if available) to your current purchase or not. Even if you choose not to redeem Subway® Cash or other Reward, identify yourself as a Subway® MVP Rewards member so you can earn more Points and so that the participating Subway® restaurant can check to see if there are any other promotional offers you might be eligible for (subject to availability) instead of, or in addition to, your Subway® Cash or other Reward.
+
+To redeem your Subway® Cash or other Reward using Online Ordering through the Sites, you will be able to apply your Subway® Cash or other Reward prior to submitting your order. You may apply up to $50 in Subway® Cash to cover your subtotal balance (after discount is applied but before sales tax). Rewards cannot be used for catering orders placed through a third-party services (e.g. EZ Cater).
+
+If Subway® Cash or other Reward has been redeemed, it will no longer be valid for future purchases.
+
+Once you have converted Points into Subway® Cash or are notified that you have received a Reward, you are eligible to use your Subway® Cash or Reward for any future qualifying purchase (prior to its expiration, as specified in these Terms) at a participating Subway® restaurant in the Territory.
+
+A notification may be sent to your email or noted within your Member Account through the Sites to inform you when you have been awarded a Reward that you can use on a future qualifying purchase.
+
+In addition to earning Points, you may also be eligible to receive other Rewards on occasion (if applicable and subject to availability). These are not Points-based offers and may be subject to additional terms and conditions that must be accepted or met in order to redeem the applicable promotional offer which will be stated in the Reward.
+8. Void Points and Rewards
+Any Points or Rewards you were awarded from a transaction that is later voided for any reason, shall be deducted from your Subway® MVP Rewards account balance.
+9. Suspension & Cancellation
+Without notice to you, all earning, and redemption activities shall be suspended on Subway® MVP Rewards accounts that have been “frozen” due to actual or suspected fraudulent activity, as determined by us in our sole discretion.
+
+To cancel your membership at any time, please contact Guest Care using the link below. Your membership in Subway® MVP Rewards will be terminated within thirty (30) days and, subject only to any notice that may be required by law, all Points, Subway® Cash, and all other Rewards will expire and become void upon the date of termination.
+10. Missing Points
+If you forget to identify yourself as a Subway® MVP Rewards member prior to checkout in restaurant you can utilize our missing Points process, as detailed in these Terms below.
+
+You may be able submit a “Missing Points” request form via the Sites for a purchase that has occurred within the preceding thirty (30) days. While filling out this form, you will be prompted to provide details from your purchase receipt. If you cannot provide the relevant details from your purchase receipt as necessary, you cannot submit a Missing Points request.
+
+After you have submitted this form, check your Member Account on the Sites 48 hours after you submitted the form to learn if your request has been granted. We reserve the right to limit the amount of missing Points requests that you may submit.
+11. Expiration of Points Subway® Cash and other Rewards; Termination of Account
+Points earned through Subway® MVP Rewards Member Account transactions expire after six (6) months if there has been no activity on the Member Account in that six (6) month period. As used herein, “activity” is defined as any positive change to your Member Account balance, the earning of any Points, or any Subway® Cash or other Reward redemption. If your account shows any activity within that period of six (6) months, the expiration date of all your Points will be reset.
+
+Other Rewards, obtained through promotional offers, may be subject to additional terms and conditions, including a shorter expiration date, which will be stated in the applicable promotional offer.
+
+If you don’t redeem your Reward by the pre-identified expiration date, the Reward will expire; it will no longer be valid; and it will be deducted from your account.
+
+Without notice to you, we reserve the right to terminate or suspend your account in the event that your account is inactive for more than twelve (12) months.
+12. Combining Reward Offers
+Multiple Rewards cannot be combined and used on the same item.
+
+Subway® Cash may be combined with other Rewards or offers (as applicable and subject to availability).
+13. NO WARRANTIES; LIMITATION OF LIABILITY
+EXCEPT TO THE EXTENT PROHIBITED BY APPLICABLE LAW AND WITHOUT LIMITING THE GENERALITY OF THE DISCLAIMERS OF WARRANTIES OR CONDITIONS IN THE SITE TERMS, THE SITES AND SUBWAY® MVP REWARDS ARE PROVIDED ON AN "AS IS" AND “AS AVAILABLE” BASIS WITHOUT ANY CONDITIONS, REPRESENTATIONS, OR WARRANTIES OF ANY KIND WHATSOEVER, WHETHER EXPRESSED, IMPLIED, STATUTORY, OR OTHERWISE.
+
+EXCEPT TO THE EXTENT PROHIBITED BY APPLICABLE LAW AND WITHOUT LIMITING THE GENERALITY OF THE EXCLUSIONS AND LIMITATIONS OF LIABILITY IN THE SITE TERMS, IN NO EVENT WILL WE OR ANY OF OUR AFFILIATES HAVE ANY LIABILITY OR RESPONSIBILITY FOR ANY AMOUNT OR KIND OF LOSS OR DAMAGE THAT MAY RESULT TO OR BE INCURRED BY YOU OR A THIRD PARTY, ARISING OUT OF OR IN CONNECTION WITH YOUR ENROLLMENT IN OR USE OF THE SITES OR SUBWAY® MVP REWARDS.
+14. Indemnification
+You agree to indemnify, defend and hold harmless us and our affiliates from and against any and all claims (including but not limited to third-party claims), demands, complaints, actions, damages, losses, judgments, settlements, fines, costs, expenses, and liabilities (including reasonable legal fees) arising out of or in connection with your enrollment in or use of the Sites or Subway® MVP Rewards. We reserve, and you grant to us, the exclusive right to assume the defense and control of any matter subject to indemnification by you.
+15. Privacy
+Your personal information will be treated in accordance with our Privacy Statement. We may send you order confirmations or other transactional text messages with your consent. Text STOP to opt out. Text HELP for help. Standard message and data rates may apply.
+16. General
+You have no ownership interest in Points, Subway® Cash, or any other Rewards. Use of the word "earn" in marketing materials in relation to Subway® MVP Rewards shall mean "collect" and shall not infer that the Points, Subway® Cash, or any other Rewards have any value until they are redeemed. Points may not be purchased or sold and are not transferable except as otherwise stated herein. Despite our efforts to ensure accuracy, errors occasionally occur. We reserve the right to correct such errors at any time even if it affects pending Points, Subway® Cash, or other Rewards or balance in your account.
+
+In the event of any inconsistency or discrepancy between these Terms and other statements contained in any related materials or advertising, these Terms shall prevail, govern, and control.
+
+These Terms, including the Site Terms, constitute the entire understanding between you and us with respect to the subject matter of these Terms. These Terms, the enrollment in or use of the Subway® MVP Rewards, and any claims, controversies, or disputes related to or arising therefrom are governed by the body of law in, and will be resolved in accordance with the dispute resolution provisions of, the Site Terms.
+
+We will not be liable to you or to any third party for any delay or other failure to perform under these Terms that is due to causes beyond our control or the control of third-party fulfillment providers, including without limitation acts of God, terrorism, civil disorders, labor disputes, shortages, riot, war, strikes, acts of a public enemy, acts of any government, country, territory, political division thereof, or government agency, fires, floods, earthquakes, blizzards, other extraordinary elements of nature, epidemics, pandemics, acts or omissions of third parties, telecommunications failures, Internet failures, and similar causes and events.
+17. Contact Us
+For questions or problems relating to Subway® MVP Rewards, contact Guest Care (United States) or Guest Care (Canada). Note that we are only responsible for customer service issues relating to your Subway® MVP Rewards account. Problems with the use of Subway® MVP Rewards at a Subway® restaurant are the responsibility of that restaurant.

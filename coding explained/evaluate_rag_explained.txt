@@ -1,0 +1,15 @@
+This Python script evaluates a Retrieval-Augmented Generation (RAG) system. At a high level:
+
+What it is:
+
+It's an automated evaluation script. It takes a RAG system (which retrieves relevant information and then uses it to generate an answer to a question) and assesses its performance using several metrics. These metrics measure the correctness, faithfulness (how well the generated answer aligns with the retrieved context), and relevance of the generated answers.
+
+Why you would use it:
+
+You'd use this script to objectively measure how well your RAG system is working. Instead of manually judging the quality of the answers, this script automates the process, providing quantitative results based on predefined metrics. This helps:
+
+Identify weaknesses: Pinpoint areas where the RAG system is struggling (e.g., retrieving irrelevant information, generating inaccurate answers).
+Compare different approaches: Test variations of your RAG system (different retrieval methods, different language models, etc.) and compare their performance based on the metrics.
+Track progress: Monitor improvements in your RAG system over time as you make changes and refinements.
+Gain confidence: Provides objective evidence supporting the claim that your RAG system performs well.
+The script uses the deepeval library, which is specifically designed for evaluating large language models (LLMs) and, in this case, extended to evaluate RAG systems. It loads questions and their corresponding ground truth answers from a JSON file (queriesResponses.json), runs the RAG system to generate answers, and then compares the generated answers to the ground truth using the chosen metrics. The final output will be a report showing the scores for each metric, offering a comprehensive evaluation of the RAG system's performance.

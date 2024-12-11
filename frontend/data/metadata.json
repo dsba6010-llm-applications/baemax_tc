@@ -1,0 +1,174 @@
+[
+    {
+        "title": "Amazon",
+        "filename": "amazon.txt"
+    },
+    {
+        "title": "Apple",
+        "filename": "apple.txt"
+    },
+    {
+        "title": "Audi",
+        "filename": "audi.txt"
+    },
+    {
+        "title": "BJ's",
+        "filename": "bjs.txt"
+    },
+    {
+        "title": "BMW",
+        "filename": "bmw.txt"
+    },
+    {
+        "title": "Belk",
+        "filename": "belk.txt"
+    },
+    {
+        "title": "Best Buy",
+        "filename": "bestbuy.txt"
+    },
+    {
+        "title": "Burger King",
+        "filename": "burgerking.txt"
+    },
+    {
+        "title": "Burlington",
+        "filename": "burlington.txt"
+    },
+    {
+        "title": "Chick-fil-A",
+        "filename": "chickfila.txt"
+    },
+    {
+        "title": "Chipotle",
+        "filename": "chipotle.txt"
+    },
+    {
+        "title": "Costco",
+        "filename": "costco.txt"
+    },
+    {
+        "title": "Dillard's",
+        "filename": "dillards.txt"
+    },
+    {
+        "title": "Discord",
+        "filename": "discord.txt"
+    },
+    {
+        "title": "Dunkin' Donuts",
+        "filename": "dunkindonuts.txt"
+    },
+    {
+        "title": "Ford",
+        "filename": "ford.txt"
+    },
+    {
+        "title": "FreeTax USA",
+        "filename": "freetaxusa.txt"
+    },
+    {
+        "title": "General Motors Gm",
+        "filename": "general motors gm.txt"
+    },
+    {
+        "title": "Google Maps",
+        "filename": "googlemaps.txt"
+    },
+    {
+        "title": "Home Depot",
+        "filename": "homedepot.txt"
+    },
+    {
+        "title": "Instagram",
+        "filename": "instagram.txt"
+    },
+    {
+        "title": "JC Penney",
+        "filename": "jcpenny.txt"
+    },
+    {
+        "title": "KFC",
+        "filename": "kfc.txt"
+    },
+    {
+        "title": "LinkedIn",
+        "filename": "linkedin.txt"
+    },
+    {
+        "title": "Lowe's",
+        "filename": "lowes.txt"
+    },
+    {
+        "title": "Lululemon",
+        "filename": "lululemon.txt"
+    },
+    {
+        "title": "Macy's",
+        "filename": "macys.txt"
+    },
+    {
+        "title": "Mcdonald's",
+        "filename": "mcdonald's.txt"
+    },
+    {
+        "title": "Mettler Toledo",
+        "filename": "mettler_toledo.txt"
+    },
+    {
+        "title": "Motorola",
+        "filename": "motorola.txt"
+    },
+    {
+        "title": "Office Depot",
+        "filename": "officedepot.txt"
+    },
+    {
+        "title": "OnStar",
+        "filename": "onstar.txt"
+    },
+    {
+        "title": "Qdoba",
+        "filename": "qdoba.txt"
+    },
+    {
+        "title": "SHEIN",
+        "filename": "shein.txt"
+    },
+    {
+        "title": "Sam's Club",
+        "filename": "samsclub.txt"
+    },
+    {
+        "title": "Samsung",
+        "filename": "samsung.txt"
+    },
+    {
+        "title": "Slack",
+        "filename": "slack.txt"
+    },
+    {
+        "title": "Starbucks",
+        "filename": "starbucks.txt"
+    },
+    {
+        "title": "Subway",
+        "filename": "subway.txt"
+    },
+    {
+        "title": "TJ Maxx",
+        "filename": "tjmaxx.txt"
+    },
+    {
+        "title": "Taco Bell",
+        "filename": "tacobell.txt"
+    },
+    {
+        "title": "Vivo",
+        "filename": "vivo.txt"
+    },
+    {
+        "title": "Zara",
+        "filename": "zara.txt"
+    }
+]

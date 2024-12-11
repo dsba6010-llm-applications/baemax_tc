@@ -1,0 +1,790 @@
+BMW Terms
+Last updated: July 15, 2024
+Table of Contents
+1. You agree to these Terms.
+2. We may revise these Terms.
+3. You authorize us to access your information.
+4. Your personal information is subject to our privacy policy.
+5. We may provide you with BMW CarData.
+6. You make representations to us.
+7. You may qualify to participate in the ChargeForward Program.
+8. We disclaim all warranties to you.
+9. We limit our liability to you.
+10. We prohibit certain illegal conduct.
+11. You are responsible for your use and account.
+12. You are responsible for your Materials.
+13. You agree to indemnify us.
+14. You agree to respect our intellectual property rights.
+15. You agree to protect our intellectual property.
+16. You agree not to use our intellectual property without our permission.
+17. You agree not to use any Site Content without our permission.
+18. Site Content is informational and may be revised.
+19. You may submit a copyright infringement notification.
+20. We grant you a license to use the Site.
+21. We grant you a license to use our mobile applications.
+22. You can change your mobile application preferences.
+23. Our mobile applications are not intended to be used while driving.
+24. Our mobile applications may use GPS.
+25. Our mobile applications may require wireless or cellular data access.
+26. We do not endorse Third Parties.
+27. You authorize payments and those payments are final.
+28. You must comply with applicable laws.
+29. We may contact you using email, text, or call.
+30. We may terminate these Terms without notice.
+31. We may provide you with notice using various methods.
+32. Your access to the Site is permitted in our discretion.
+33. You waive any jury trial and class action rights.
+34. You agree to arbitration.
+35. Some provisions survive termination.
+36. These Terms state our entire agreement.
+37. You may not assign these Terms.
+
+38. You agree to New Jersey governing law and venue.
+39. Our rights are not waived by our failure to exercise a right.
+40. We are located in the United States.
+41. English is the controlling language for the Site.
+42. We reserve our rights.
+43. You may contact us with your questions or concerns.
+1. You agree to these Terms.
+BMW of North America, LLC and its affiliates, subsidiaries, service providers, authorized third parties and
+its agents (collectively, “BMW NA,” “we,” “our,” and “us”) provide the websites, mobile applications,
+products, and services offered by or through BMW NA (“Site”) subject to these BMW Terms (“Terms”).
+These Terms apply to Sites posted by BMW NA. We may provide you with additional legal notices or
+correspondence, which may add to or replace these Terms.
+Please read these Terms carefully before you access or use any part of this Site. When you access or use
+this Site, you are agreeing to be bound by these Terms, as amended from time to time, as well as the
+BMW NA Privacy Policy and the ConnectedDrive Terms, which are incorporated by reference into these
+Terms. In the event of a conflict between these Terms and the ConnectedDrive Terms, the
+ConnectedDrive Terms govern with respect to its subject matter. By agreeing to be bound by these
+Terms, you agree to be bound by the jury trial and class action waiver below. If you do not wish to agree
+to these Terms, do not access or use any part of this Site. You accept these Terms by creating a BMW
+account, through your use of the BMW Site, or by continuing to use the Site after being notified of a
+change to these Terms.
+The term “Site Content,” as used herein, includes the materials, delivery of the Site, or other
+information provided on, or available through, the Site by BMW NA. The term “Materials,” as used
+herein, refers to any material, information, content, or opinions uploaded, expressed, or submitted to
+our Site, other than Site Content.
+These Terms include a mandatory binding arbitration provision and trial by jury and class action
+waivers, which limit your rights in the event of a dispute related to the Site. Please refer to the “You
+waive any jury trial and class action rights” and “You agree to arbitration” sections below for more
+information.
+2. We may revise these Terms.
+BMW NA may change these Terms at any time by posting changes to this Site, or on a website or app
+that replaces the Site, prior to the change becoming effective, or by notifying you via your BMW
+account, through an app, or by email prior to the effective date of the change. You agree to be bound by
+any changes to these Terms thirty days after they are revised or when you use the Site after any such
+change is posted, whichever is sooner.
+BMW NA may at any time and for any reason change, suspend, or discontinue all or any portion of the
+Site, Site Content, its features, scope, availability, or the third-party services, apps, or integrations that
+are available through the Site by posting on this Site about those changes.
+If you disagree with these Terms (as amended from time to time) or are dissatisfied with this Site, your
+sole remedy is to discontinue using this Site. You may review the current version of these Terms, which
+supersedes all previous versions, by clicking on the Terms hyperlink on our Site.
+
+3. You authorize us to access your information.
+Subject to your applicable data privacy rights that are further described under our Privacy Policy, you
+grant to BMW NA an irrevocable, worldwide, royalty-free license to any information, data, passwords,
+usernames, PINs, personal information, Materials, or other content you provide through the Site. You
+authorize BMW NA to use this information, content, Materials, or other content that we retrieve
+through third-party sites on your behalf to provide the Site and Site Content or for other permissible
+business purposes, at no cost to BMW NA. Except as otherwise provided herein, BMW NA may store,
+use, change, or display this information or create new content or derivative works using this
+information.
+BMW NA is under no obligation to post or use any submission you may provide. BMW NA may remove
+any submission at any time in its sole discretion but is under no obligation to do so.
+Depending on the use case and if you have permitted us to do so, you hereby authorize BMW NA to
+access third-party sites or apps, as your agent, to retrieve or disclose your information, where
+appropriate, as part of the Site. Unless and until these Terms are terminated, you grant BMW NA the
+right to access information at third-party sites or apps on your behalf. Third-party sites or apps may rely
+on the authorizations granted by you or through your account.
+You grant BMW NA the right to access third-party sites or apps to retrieve or use your information or
+Materials, as described herein, for the delivery of the Site, for the Site Content, and for other purposes
+described in these Terms. The licenses, user obligations, and authorizations described herein are
+ongoing.
+4. Your personal information is subject to our privacy policy.
+We will process your personal information in accordance with our Privacy Policy.
+5. We may provide you with BMW CarData.
+Depending on the capabilities of each vehicle, among other reasons, BMW NA may offer its customers
+the opportunity to use BMW CarData, a BMW NA ConnectedDrive service, to view selected information
+about their BMW vehicles (“Vehicle Data”), in accordance with these Terms, the BMW NA Privacy
+Policy, and the ConnectedDrive Terms. BMW CarData may offer BMW NA customers (referred to as
+Primary Subscribers under the ConnectedDrive Terms) the option of releasing (and subsequently
+modifying or canceling the release of) the data for transmission to third parties. Only the Primary
+Subscribers may use the BMW CarData in this manner. Please note that canceling or modifying
+transfers of CarData may adversely impact your agreements or arrangements with third parties that
+you have agreed to release your BMW CarData.
+In order to use BMW CarData, you must have executed a Subscriber Agreement and the vehicle must
+be linked to that Subscriber Agreement account. You may only use, access, or release BMW CarData
+during the term of the Subscriber Agreement. If the Subscriber Agreement for a particular vehicle is
+cancelled or terminated, further data transfers to third parties may stop. You are responsible for any
+third parties to which you release BMW CarData.
+The quality and validity of the Vehicle Data provided via BMW CarData depends, among other things,
+on the vehicle model, the control devices installed, internet availability and the frequency with which
+the customer makes use of BMW ConnectedDrive services.
+6. You make representations to us.
+You represent that:
+a. you have the power and authority to agree to these Terms;
+
+b. all information you provide to BMW NA in connection with the Site, Site Content, or Materials is
+accurate, current, and complete and you have all necessary rights, permissions, or authority to
+provide it;
+c. you will not misrepresent your identity, account information, or Materials (including information
+relative to our providing you services);
+d. you will keep account information secure, up to date, and accurate;
+e. you are not located in any country or exporting Site Content to any person or place to which the
+United States has embargoed goods; and
+f. if you provide BMW NA with credentials relating to third-party sites, you are a legal owner, or an
+authorized user, of the accounts at third-party sites that you include or access through the Site, and
+you have the authority to (i) designate BMW NA as your agent, (ii) use the services, and (iii) give
+BMW NA the passwords, usernames, and all other information you provide.
+If you access the Site or Site Content on behalf of any organization, your organization will be bound to
+these Terms and liable for any breach by you.
+7. You may qualify to participate in the ChargeForward Program.
+a. Program Description. You may qualify or have the opportunity to participate in the ChargeForward
+Program (“ChargeForward” or “Program”). The Program involves BMW NA partnering with utilities
+to share renewable energy data and using this as a basis for vehicle charging optimizations.
+b. Participation Requirements. In order to participate in the Program, you agree to meet the following
+requirements:
+i. You shall possess and drive on a regular basis an eligible BMW Group electric or plug-in
+hybrid vehicle;
+ii. You shall maintain active connected vehicle services provided by BMW NA, at all times
+during the Program;
+iii. You shall notify BMW NA if your primary residence changes at any time during the Program,
+regardless of whether your new residence is in the same or a different zip code;
+iv. You shall notify BMW NA if you change utility providers during the program;
+v. You shall maintain access to the BMW ChargeForward phone application, provided by BMW
+NA, on your smart phone at all times during the Program;
+vi. You shall authorize BMW NA and its partners to access and use electricity usage, billing and
+service information about you;
+vii. You shall allow BMW NA and its partners to have access to vehicle data and energy usage
+data throughout the Program. If you revoke access to this data during the Program, BMW
+NA and its partners may remove you from the Program;
+c. Program Requirements. During the course of the Program, you agree to meet the following
+requirements:
+i. Charging Events. During the course of the Program, you may be asked to identify your
+charging needs and preferences to BMW NA through the Site, including the desired
+departure time and participation in a particular charging event. Based on such information,
+you shall then participate in Charging Events during which BMW NA, its affiliates, or
+subsidiaries may manage the charging of your vehicle. Your participation in each Charging
+Event may be automatic unless you override it by charging immediately. As part of this
+Program, BMW NA may give you additional instructions for short-term bonus events.
+Participation in some events may result in higher charging costs or higher electricity bill
+costs for you. While BMW NA is not responsible for these costs, the participation incentives
+are intended to compensate customers for part of this cost.
+ii. BMW Electric Vehicle Software. If it is necessary to upgrade your BMW Group vehicle to a
+more recently released version of vehicle software, you shall bring your BMW Group electric
+vehicle into your preferred dealership for software update.
+iii. Feedback. During the course of the Program, you shall provide feedback as requested by
+BMW NA, utility provider, ChargeForward program, governmental agency, service providers,
+partners, or other entity. You may be requested to provide such feedback to BMW NA or its
+partners, their affiliates or subsidiaries, and the partners of the Program. The form of the
+feedback may include participation in an in-person or telephone interview, answering
+questions online to discuss your experience with the BMW electric or plug-in hybrid vehicle
+and the Site, or other topics related to the Program.
+d. Program Termination. Should you fail to meet any of the above-referenced requirements at any
+time during the course of the Program, BMW NA may, in addition to its other termination rights in
+the Terms, terminate these Terms with regard to your access to the Program in its sole discretion.
+e. Withdrawal from Program. You may withdraw from participation in the Program by contacting
+BMW ChargeForward by email at bmwchargeforward@bmwna.com.
+f. Participation Incentives. Subject to these Terms, BMW NA may offer and you may earn
+participation incentives depending on the requirements of the local utility provider,
+ChargeForward program, governmental agency, service provider, partners, or other entity.
+Additional details relating to how you may earn and receive your incentives may be included in
+your program enrollment information. Incentives, credits, or rebates are not guaranteed. BMW
+NA may share information relating to your use of vehicle charging (such as VIN, address, charging
+activity, and others) as required or permitted by applicable government or other incentive
+program, including with the local utility provider, ChargeForward program, governmental agency,
+service provider, partners, or other entity, in order to provide you with the services relating to the
+Program. You hereby direct us to disclose this information in this manner.
+8. We disclaim all warranties to you.
+The Site and Site Content are provided as is or as available. BMW NA, including any person associated
+with BMW NA, disclaims all warranties of any kind about the Site or Site Content, including relating to
+their quality, accuracy, or availability.
+BMW NA disclaims all warranties of any kind, either expressed or implied. This includes, but is not
+limited to, any warranties of merchantability, fitness for a particular purpose, title, non-infringement,
+security, or accuracy with regard to any website or application owned or operated by a third party to
+which or from which the Site is linked (“Linked Website”). BMW NA does not endorse and is not
+responsible for the capabilities, quality, content, or reliability of any product or service obtained from
+a Linked Website. Your use of Linked Websites is at your own risk and subject to the terms for such
+websites or services.
+Without limiting the foregoing, neither BMW NA nor anyone associated with BMW NA, warrants or
+represents that the Site or Site Content provided on or through this Site will be accurate, reliable,
+error-free, timely, secure, complete, available, or uninterrupted or meet your requirements; that
+defects will be corrected; that the Site or the server that makes it available are free of viruses or other
+harmful components; that the Site, including the quality of any products, services, information, or
+other material, will otherwise meet your needs or expectations; or that any errors will be corrected.
+Any Site Content downloaded or otherwise obtained through the use of the Site or a Linked Website is
+done at your own risk, and you are solely responsible for any damages, including, without limitation,
+to your vehicle, device, or loss of data that may result.
+BMW NA has no obligation to update any Site Content and may change the Site at any time without
+notice. BMW NA does not endorse and is not responsible for the accuracy or reliability of any opinion,
+advice, or statement made through the Site.
+BMW NA makes no warranty or guarantee as to the accuracy or reliability of the maps, routes, or
+estimated arrival times, charging times, or availability of charging equipment. BMW NA makes no
+warranty or guarantee as to the accuracy, reliability, quality, and validity of the BMW CarData Vehicle
+Data or third-party vehicle charging data or equipment.
+Some jurisdictions do not allow the exclusion of certain warranties; therefore, some of the above
+exclusions may not apply to you.
+9. We limit our liability to you.
+BMW NA does not assume any liability for the Site, Site Content, or Materials. Reliance on the Site or
+Site Content is entirely at your own risk.
+To the extent permitted by law, in no event will BMW NA or its licensors, service providers, partners,
+employees, agents, officers, directors, or contractors be liable for any damages of any kind, under any
+theory of law or equity, arising out of or in connection with your use of, or inability to use, the Site,
+the Site Content, or any Linked Website, including any direct, indirect, incidental, special,
+consequential, exemplary, or punitive damages.
+To the extent permitted by law, this limitation of liability includes, without limitation, death, personal
+injury, property damage, lost profits, goodwill, data or other losses, costs of obtaining substitute
+service or lost opportunity, or damages resulting from delay, interruption in service, mechanic or
+electronic equipment failure, failure of communication lines, telephone, or other interconnects,
+unauthorized use or access to or alteration of your transmission of data, theft, operational errors,
+strikes or other labor problems, statements or conduct of anyone on the Site, any force majeure
+event, viruses, deletion of files or electronic communications, or errors, omissions or other
+inaccuracies in the Site or the Site Content, or your interaction with service providers for BMW NA or
+Linked Websites, whether or not BMW NA has been negligent or been advised of the possibility of any
+such damages.
+BMW NA has no responsibility or liability for any loss or damage of any kind that you may suffer as a
+result of your interaction with service providers for BMW NA or Linked Websites.
+To the extent permitted by law, regardless of the limitation of liability disclaimers in this section, if
+BMW NA is found to be liable, our liability to you or any third party is limited to $100.
+Some jurisdictions do not allow the exclusion of certain liabilities; therefore, some of the above
+exclusions may not apply to you.
+10. We prohibit certain illegal conduct.
+You agree to use the Site only for lawful purposes and only as permitted under the Terms.
+BMW NA, in its sole discretion, may determine which uses of this Site are improper or unauthorized.
+BMW NA may take any appropriate action in response to improper or unauthorized uses of this Site,
+including, but not limited to, blocking any user of this Site. The Site is not intended for children under
+the age of 13.
+You agree not to do any of the following:
+a. anything illegal or that violates a contractual obligation;
+b. attempt to derive or use source code from the Site or Site Content (including, for example, selling or
+modifying or preparing derivative works from it), unless otherwise specifically permitted;
+c. copy, translate, disassemble, decompile, adapt, modify, or attempt to reverse-engineer the Site or
+Site Content or any software or programs used in connection therewith;
+d. take any action to circumvent or defeat the Site’s security or content usage rules or that permits
+unauthorized entry or access to computer systems;
+e. engage in activity that infringes upon the rights of others, including BMW NA’s or any third party’s
+intellectual property rights or rights pertaining to privileged, confidential, proprietary, or tradesecret information;
+f. publicly display or use the Site to share inappropriate content or material (involving, for example,
+material that is defamatory, derogatory, indecent, harassing, violent, or otherwise objectionable or
+which is contrary to BMW NA’s Privacy Policy or otherwise injurious to BMW NA or third parties);
+g. use the Site, Site Content, or Materials to engage in activity that is harmful to you, the Site, Site
+Content, or others (for example, transmitting viruses or corrupted data, transmitting files that
+invoke malicious software code, unsolicited electronic mass mailings, advocating violence, stalking
+or harassing others, violating the legal rights or a legal duty to others, or violating national or
+international laws);
+h. engage in activity that violates the privacy of others (including intercepting or attempting to
+intercept electronic mail not intended for you or collecting information about others without their
+consent);
+i. engage in activity that is fraudulent, false, misleading, or involves the sale of counterfeit or stolen
+items (including impersonating another or misrepresenting an affiliation with any person or
+organization);
+j. circumvent any restrictions on access to or use or availability of the Site, Site Content, or Materials
+(including uploading to or transmitting on the Site any advertisements or solicitations of business, or
+restricting or inhibiting the use of the Site by others);
+k. post “spam” or statements political in nature, use the Site to transmit commercial solicitations
+(except those BMW NA pre-approves), post chain letters or engage in other similar activities;
+l. use the Site, Site Content, or Materials in a way that creates liability for BMW NA or causes BMW NA
+to lose the services of our service providers;
+m. use the Site, Site Content, or Materials to access the information and content programmatically by
+macro or other automated means;
+n. use the Site, Site Content, or Materials for any purpose other than personal purposes, including,
+without limitation, for commercial purposes;
+o. use any deep-link, page-scrape, robot, crawl, index, spider, click spam, macro programs, internet
+agent, or other automatic device, program, algorithm, or methodology that serves similar purposes
+to use, access, copy, acquire information, generate impressions or clicks, input information, store
+information, search, generate searches, or monitor any portion of the Site;
+p. use the Site in any way that slows the transferring or loading of any web page or app or interferes
+with the normal operation of the Site; or
+q. engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of the Site, or
+which, as determined by BMW NA, may harm BMW NA or users of the Site or expose them to
+liability.
+Although this Site and the Site Content may be accessible worldwide, any Site is void where prohibited
+by law. Accessing the Site from territories where its contents are illegal or unlawful is prohibited.
+11. You are responsible for your use and account.
+You are solely responsible for your use or access to the Site and your account. You are solely responsible
+for the security and confidentiality of your login credentials, preventing unauthorized access to your
+information or your use of the Site, and all activities that occur under your account. Your failure to
+comply with the provisions of the Terms may result in the termination of your access to the Site or
+account and may expose you to civil or criminal liability.
+12. You are responsible for your Materials.
+Materials are solely the opinions and responsibility of the person or entity submitting them and do not
+necessarily reflect the opinions of BMW NA.
+Where an email address is required to upload a Material, you agree to use a valid email address and
+represent that you are the individual identified by the address. If you wish to provide Materials to the
+Site, you are prohibited from impersonating any other individual or entity, or otherwise misleading
+anyone as to the origination of your Materials. You understand and acknowledge that you are
+responsible for whatever content you submit, and you, not BMW NA, have full responsibility for such
+Materials, including, without limitation, its legality, reliability, accuracy, completeness, and
+appropriateness.
+You may not provide Materials that improperly use or share the personal information about others
+(such as full name, postal address, email address, telephone number, or any other personal attribute
+which would constitute harassment or an invasion of privacy) or that infringe in any manner on the
+copyright, trademark, or other intellectual property rights of any person or entity, or that contain
+privileged, confidential, proprietary, or trade-secret information of any individual or entity, or that may
+violate the legal rights of any person or entity in any jurisdiction or locale.
+By uploading or otherwise transmitting Materials to any area of the Site, you warrant that the Material
+is your own, is in the public domain, is otherwise free of proprietary or other restrictions, and that you
+have the right to post it to the Site. You grant BMW NA a nonexclusive, royalty-free, perpetual,
+irrevocable, transferable, sub-licensable, assignable right to use, copy, display, edit, modify, perform,
+publish, adapt, translate, incorporate into other Materials, make a derivative work from, or reformat
+your submissions as necessary, and for any purpose, anywhere in the world, including into those forms
+that may constitute advertising. BMW NA is not obligated to keep the content or existence of the
+Materials confidential. BMW NA is not liable for any use or disclosure of the Materials.
+BMW NA may attribute to you any Materials used, displayed, or propagated by BMW NA or others
+licensed by BMW NA to use such Materials. BMW NA reserves the right to select among Materials for
+the most appropriate Materials to be used, in its sole discretion. BMW NA may, but is not required to,
+(1) remove any Materials posted on the Site in its sole discretion; or (2) suspend or terminate any user’s
+access to all or part of the Site, without notice, for any reason whatsoever. BMW NA is not liable for any
+action or inaction regarding transmissions, communications, or content provided by third parties. BMW
+NA may take any action it deems necessary to protect the safety, security, or privacy of users of this Site
+and the public. BMW NA has no liability or responsibility to anyone for performance or nonperformance
+of the activities described in this section.
+BMW NA reserves the right to disclose any Materials or related information BMW NA deems necessary
+to satisfy any applicable law, regulation, legal process, or governmental request, or to edit, refuse to
+post or remove any information or Materials, in whole or in part, in BMW NA's sole discretion.
+You agree not to redistribute or reproduce elsewhere user submissions in any manner or in any media,
+including the re-submission or republishing of any user submissions on any other website or app not
+affiliated with BMW NA.
+BMW NA may deny you access and use of the Site, Site Content, or Materials if you violate (as BMW NA
+may determine in its sole discretion) the Terms. BMW NA reserves the right to seek all other remedies
+available at law or in equity.
+13. You agree to indemnify us.
+You agree, at your own expense, to defend, indemnify and hold BMW NA, its third party-service
+providers, and their officers, directors, employees, and agents, harmless from any claim or demand
+(including reasonable legal fees) arising out of or relating to (i) your access to, or use of the Site, (ii) Site
+Content, or (iii) Materials. This includes your breach of these Terms or the ConnectedDrive Terms, your
+violation of applicable laws, your infringement, or infringement by any other user of your account, of
+any intellectual property or other right of anyone, or your violation of any rights of any third party.
+14. You agree to respect our intellectual property rights.
+You may not use the names, logos, colors, trademarks, service marks, photographs, trade dress, or other
+identifying features of BMW NA (the “BMW NA Marks”) without obtaining the specific prior written
+consent of BMW NA as to the specific use in order to avoid infringement of BMW NA’s intellectual
+property rights.
+You agree that the BMW NA Marks are the valid, unique, and exclusive property of BMW NA, its parent,
+affiliates, or subsidiaries. You may not produce or create, or authorize others to produce or create, the
+BMW NA Marks for any purpose whatsoever, including, but not limited to, in any communications,
+marketing, advertising or other promotional materials (including, but not limited to, brochures, flyers,
+invitations, or email messages) that utilize the BMW NA Marks, without BMW NA’s prior written
+consent.
+You may print one copy and may download extracts of any page from the Site for your personal
+reference. You may not modify the paper or digital copies of any materials you have printed or
+downloaded in any way, and you may not use any illustrations, photographs, video or audio sequences,
+or any graphics separately from any accompanying text. You must always acknowledge BMW NA’s
+status (and that of any identified contributors) as the author of material on this Site. You may not use
+any part of the Site Content for commercial purposes without BMW NA’s prior written consent.
+15. You agree to protect our intellectual property.
+The Site and Site Content, including all information, software, text, displays, images, audio files,
+animation files, video files and the design, selection and arrangement thereof, in addition to any other
+content including customer input and their arrangement in the Site, are proprietary to BMW NA or its
+licensors and are protected by United States and international laws regarding copyrights, trademarks,
+service marks, trade secrets, international treaties, or other proprietary rights. You agree to abide by all
+applicable proprietary rights and laws, as well as any additional trademark or copyright notices or
+restrictions contained in these Terms. You agree that BMW NA retains all ownership and proprietary
+rights in the Site and Site Content. These Terms grant you no right, title, or interest in BMW NA
+Intellectual Property and create no relationship between you and BMW NA. You are not granted a
+license to use any intellectual property of BMW NA. You may not assert any claim or ownership to BMW
+NA Intellectual Property.
+BMW NA is licensed to use all intellectual property in the content of this Site and, notwithstanding
+anything to the contrary herein, reserves the right to pursue any intellectual property infringement in
+the courts of the country where BMW NA suffers damage.
+16. You agree not to use our intellectual property without our permission.
+The BMW name is a trademark and the BMW logo, model names, and all related product and service
+names, designs, logos, trade dress, slogans, and other identifiers on our Site are trademarks of BMW NA
+or its affiliates, unless otherwise disclosed (“BMW NA Intellectual Property”). You may not modify, use,
+download, copy, transmit or distribute BMW NA Intellectual Property for any purpose (including, but not
+limited to, use on other materials, in presentations, as domain names, or as metatags) without BMW’s
+prior written consent. All other names, brands, and marks not owned by BMW NA are used for
+identification purposes only and may be trademarks or registered trademarks of their respective
+owners.
+17. You agree not to use any Site Content without our permission.
+You are prohibited from modifying, copying, distributing, transmitting, displaying, publishing, selling,
+licensing, creating derivative works from, or using any Site Content available on or through the Site for
+commercial or public purposes, without the prior written consent of BMW NA.
+18. Site Content is informational and may be revised.
+Site Content is for informational purposes only and in no way constitutes an offer to buy or sell BMW
+vehicles. BMW NA may at any time and for any reason revise, change, suspend, or discontinue all or
+any portion of the Site Content by posting on this Site about those changes. The purchase of any BMW
+vehicle is subject to the legal terms under an applicable sale, lease, or financing contract.
+BMW NA may in its sole discretion, subject to legal requirements, determine the Model Year
+designation of its vehicles. The Model Year designation on any particular model may be longer or
+shorter than twelve months. Some vehicles pictured may contain non-U.S. equipment. Some models
+may be shown with optional equipment.
+19. You may submit a copyright infringement notification.
+If you are a copyright owner or an agent thereof of a work protected by a United States copyright that
+has been linked to, posted, or stored on the Site without authorization and you believe that any
+content on the Site infringes upon your copyrights, you may submit a notification pursuant to the
+Digital Millennium Copyright Act ("DMCA") by providing our Copyright Agent with the following
+information in writing (see 17 U.S.C. 512(c)(3) for further detail):
+• A physical or electronic signature of a person authorized to act on behalf of the owner of an
+exclusive right that’s allegedly infringed;
+• Identification of the copyrighted work claimed to have been infringed, including a URL (if
+applicable). If multiple copyrighted works at a single online site or app are covered by a single
+notification, please provide a representative list of such works on that site;
+• Identification of the material that is claimed to be infringing or to be the subject of infringing
+activity and that is to be removed (or access to which is to be disabled). Please provide information
+reasonably sufficient to permit the service provider to locate the material;
+• Information reasonably sufficient to permit the service provider to contact the complaining party,
+such as an address, telephone number, and email address;
+• A statement that you have a good faith belief that use of the material in the manner complained of
+is not authorized by the copyright owner, its agent, or the law; and
+• A statement that the information in the notification is accurate (under penalty of perjury) and that
+you’re authorized to act on behalf of the owner of an exclusive right that’s allegedly infringed.
+Please direct copyright infringement notifications to:
+bmwdmca@bmwusa.com or write to BMW of North America, LLC, Attn: DMCA, PO Box 1227,
+Westwood NJ 07675-1227
+You acknowledge that if you fail to comply with all of these requirements, your DMCA notice may not be
+valid.
+If you believe that your content that was removed, or to which access was disabled, from the Site is not
+infringing, or that you have the authorization from the copyright owner, the copyright owner's agent, or
+pursuant to the law, to post and use the material in your content, you may send a counter-notice
+containing the following information to the Copyright Agent:
+• Your physical or electronic signature;
+• Identification of the content that has been removed (or to which access has been disabled) and the
+location where the content appeared before it was removed or disabled;
+• A statement that you have a good faith belief that the content was removed or disabled as a result
+of a mistake or a misidentification of the content;
+• Your name, address, telephone number and email address;
+• A statement that you consent to the jurisdiction of the federal court in Newark, New Jersey; and
+• A statement that you will accept service of process from the person who provided notification of the
+alleged infringement.
+If a counter-notice is received by the Copyright Agent, BMW NA may send a copy of the counter-notice
+to the original complaining party informing them that BMW NA may replace the removed content or
+cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order
+against the content provider, member, or user, BMW NA may, in its sole discretion, replace or restore
+content, and such action may take longer than 10 business days.
+19. We grant you a license to use the Site.
+Intellectual property laws protect BMW NA’s Site and Site Content. We hereby grant you a nonexclusive,
+nontransferable, limited, and revocable-at-any-time license to use the Site solely for your personal, nonpublic, legitimate use purposes related to your role as a current or prospective customer, service
+provider, or other authorized user of BMW NA Sites.
+You may not copy, modify, create derivative works from, publicly display or perform, republish, store,
+transmit, frame, sell, resell, translate, broadcast, or distribute any Site Content without the prior written
+consent of BMW NA, except to: (a) store copies of such Site Content temporarily on your device, (b)
+store files that are automatically cached by your web browser for display enhancement purposes, or (c)
+print a reasonable number of pages of the Site; provided in each case that you do not alter or remove
+any copyright or other proprietary notices included in such Site Content. The title and any intellectual
+property rights to Site Content remain with BMW NA or the applicable owner of such content. Except as
+expressly authorized by BMW NA in writing, you may not reproduce, sell, or exploit for any commercial
+purposes or for public use (i) any part of this Site, (ii) access to this Site, or (iii) use of this Site or Site
+Content available through this Site. Except as expressly provided above, all rights are reserved.
+Except as expressly provided above, no portion of the Site, the Site Content, or BMW NA Intellectual
+Property displayed on the Site or on any of the Site Content may be reproduced, altered, removed,
+transmitted, published, or distributed (whether electronically, mechanically, by photocopy, recording, or
+otherwise), without prior written consent from BMW NA. Use of any BMW NA’s trademarks as metatags
+on any third-party website is strictly prohibited. You may not co-brand the Site or display the Site in
+frames (or any of the Site Content through inline links) without prior written consent from BMW NA. Cobrand includes your display of any of the BMW NA Intellectual Property (or your taking of other means
+of attribution or identification of BMW NA) in such a manner reasonably likely to give a third party the
+impression that you or such third party has the right to display, publish, or distribute the Site or any of
+its Site Content. You agree to cooperate with BMW NA in causing any unauthorized co-branding,
+framing, or linking to immediately cease.
+20. We grant you a license to use our mobile applications.
+If you are using an iOS or Google Android version of one of our mobile applications (“App”), this section
+also applies to you.
+Apple and Google are not parties to these Terms. They
+• do not own and are not responsible for the App;
+• do not provide any warranty for the App; and
+• are not responsible for maintenance or other support services for the App and are not be
+responsible for any claims, losses, liabilities, damages, costs, or expenses with respect to the App,
+including, without limitation, any third-party claims (including intellectual property claims), product
+liability claims, claims that the App fails to conform to any applicable legal or regulatory
+requirements, claims arising under consumer protection, privacy or similar legislation, or claims
+relating to intellectual property infringement.
+We grant you a nonexclusive, non-transferable, limited, and revocable-at-any-time license to access and
+use the App in accordance with the Apple Media Terms of Service, Google Play Terms of Service, and
+other applicable terms—as updated from time to time. Apple, Google, and their subsidiaries are third
+party beneficiaries of these Terms. They may have the right to enforce the Terms against you. BMW NA
+may enter into, rescind, or terminate these Terms, vary them, waive them, or settle under these Terms
+without the consent of any third party.
+You are responsible for complying with applicable third-party agreements. You are responsible for
+checking with your mobile carrier to determine if the App is available for your mobile devices, what
+restrictions may be applicable to your use of the App, and how much such use will cost you. You shall
+use the App in accordance with these Terms.
+You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government
+embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and
+(ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+You may direct any questions, concerns, or complaints about the App to BMW NA by using the contact
+information in the “You may contact us with your questions or concerns” section of these Terms.
+21. You can change your mobile application preferences.
+You may review and change your settings at any time in any mobile application under the settings
+menu. Depending on the vehicle model, you can also access certain menu settings in your vehicle to
+change vehicle related settings.
+22. Our mobile applications are not intended to be used while driving.
+Our mobile applications are intended to be launched while the user is not operating the motor vehicle.
+Do not use a mobile application while operating a motor vehicle unless the mobile application is
+connected to the infotainment display and can be used in a hands-free manner. You agree to use our
+mobile applications responsibly and to avoid any interaction with mobile devices while driving the
+vehicle. Using a mobile device while driving can distract the driver and may cause loss of vehicle control
+resulting in an accident, serious injury, or death.
+23. Our mobile applications may use GPS.
+Our mobile applications may use GPS to estimate destination arrival times or routes. Please note that
+continued use of GPS running in the background can dramatically decrease battery life of your device.
+Standard data rates may apply, depending on your mobile service provider and plan. Arrival times and
+routes are estimates only. A number of factors may impact actual arrival time or routes, including traffic
+and weather.
+24. Our mobile applications may require wireless or cellular data access.
+Our mobile applications may require utilization of wireless or cellular data access. You are solely
+responsible for securing the necessary data access service. The provider of such access to your mobile
+device may charge you data access fees in connection with use of the App. You are solely responsible for
+all such charges payable to third parties.
+25. We do not endorse Linked Websites.
+From time to time, by or through its websites, apps, services, products, vehicles, or in vehicle iDrive,
+BMW NA may link or refer to Linked Websites (as defined in Section 8 above). Linked Websites are
+controlled and operated by third parties, not BMW NA. BMW NA does not endorse, authorize, sponsor,
+or affiliate with respect to Linked Websites, its owners, sponsors, or providers. BMW NA may remove
+any Linked Websites at its sole discretion.
+We may offer mapping services from HERE. By using HERE’s service, you accept HERE’s terms of service.
+We may offer mapping services from Apple. By using Apple’s services, you accept Apple’s privacy policy
+and terms.
+We may offer mapping services from Google. By using Google’s services, you accept Google’s privacy
+policy and terms.
+We may offer Stripe’s payment processing services. By processing payments from BMW NA systems that
+use Stripe, you consent to Stripe’s privacy policy and terms.
+We may offer PayPal’s payment processing services. By processing payments from BMW NA systems
+that use PayPal, you consent to PayPal’s privacy policy and terms.
+We may offer Electrify America’s electric charging or location services. By charging your vehicle or
+obtaining charging data through Electrify America, you consent to Electrify America’s privacy policy and
+terms.
+26. You authorize payments and those payments are final.
+Where your interactions with BMW NA require you to make a payment, you hereby authorize us to bill
+you using the payment information you provided to us along with any sales, uses, or similar tax and any
+other applicable, required fees. You represent that you have the legal right to use any credit or debit
+card or other payment method you provide us.
+We may place a temporary payment authorization hold on your payment method at the start of, or in
+preparation for, the delivery for our Site (for example as subscription services or electric vehicle charging
+services), which may not be the final amount charged to you. We ordinarily release the authorization
+when the fee for the Site is charged (for example when your subscription services are billed or when
+your electric vehicle charging session is complete and successfully paid) or in about a week if the
+authorization hold is not used.
+Prices, fees, tariffs, or amounts shown on the Site, including those relating to electric vehicle charging,
+may be delayed and not accurate. However, you should always be charged (and are responsible to pay)
+the accurate amount for any charging session. Prices may vary due to various factors, including demand,
+time of day, location, and others. Please check the charging station screen for the correct pricing.
+You are responsible for keeping your payment information up to date and may update it through the
+Site or your BMW NA account. We may cancel your order, subscription, service, or Site if we are unable
+to successfully charge your payment method.
+We may use available card information updater services from card associations, payment service
+providers, or issuers to update any outdated or incorrect credit card or other payment information to
+continue to bill you under an existing order, subscription or service. You expressly authorize us to: (a)
+verify your credit card or other payment information either ourselves or through a service provider; (b)
+receive updated account information from the entities issuing your credit card or otherwise involved in
+any other forms of payment; (c) charge all amounts for which you are responsible to the credit card you
+submitted or process the amount due using another payment option you have provided. You remain
+responsible for any uncollected amounts you owe us.
+We may terminate or suspend your access to the Site or any part thereof, without notice, if your credit
+or debit card provider refuses a charge from us (assessed to you) or if such card has otherwise expired.
+Even if we terminate or suspend your access to the Site (entirely or in part), you will nonetheless be held
+responsible for any charges due at the time of such termination or suspension.
+Unless otherwise required by applicable law or otherwise specifically provided by BMW NA, where your
+interactions with BMW NA require a payment, those payments are final and nonrefundable. You may
+not obtain any available credits on your account as a refund.
+27. You must comply with applicable laws.
+You are responsible for compliance with all applicable laws, including all federal, state, and local laws,
+and regulations. You access the Site on your own initiative and own risk.
+28. We may contact you using email, text, or call.
+BMW NA, its service providers, and partners may contact you via email, text, or voice call to provide you
+with their products or services. When you access or use the Site, you agree to communicate with us
+electronically and consent to receive communications from us electronically.
+BMW NA may offer email, text, or messaging services to provide various types of information or services
+to you. You may receive customer service, security-related, or marketing email, text, or voicemail
+messages.
+By using the Site, you agree to receive emails, text messages, or calls from BMW NA, its service
+providers, and partners at the email addresses and phone number you may have provided to us. By
+providing us your phone number, you confirm that you are the owner or primary user of the phone
+number. You agree to receive automated texts or calls to confirm your phone number. Frequency may
+vary and message and data rates may apply. Consent to receiving calls or text messages is not a
+condition of service from BMW NA. We may use an automatic telephone dialing system or prerecorded
+voice messages to communicate with you.
+If your email address or phone number changes, you are responsible for updating your information. You
+may do so by logging onto your account and changing your contact information. If you discontinue your
+phone service, you must unenroll from the text messaging services. If you want to opt out of receiving
+text messages from BMW NA, please respond by texting STOP to the number you received a message
+from. We may send a confirmation message that validates your desire to unsubscribe.
+29. We may terminate these Terms without notice.
+Unless otherwise required by applicable law, BMW NA may terminate these Terms or suspend or limit
+your account, the Site, Site Content, Materials, or use of the Site, Site Content, or Materials
+immediately, without prior notice or additional liability, under our sole discretion, for any reason
+whatsoever, including, without limitation, your breach of these Terms. Upon termination, you will cease
+use of the Site and Site Content and destroy all Site Content you have downloaded from the Site.
+30. We may provide you with notice using various methods.
+Where we are required by these Terms or applicable law, BMW NA may provide you with notice (i) by
+posting changes to this Site, or on a website or app that replaces the Site; (ii) by notifying you via your
+account, the Site, or email; or (iii) by providing you with notice via mail or private courier.
+You shall provide notice to BMW NA in writing to BMW of North America, LLC, Attn: Customer Relations,
+PO Box 1227, Westwood NJ 07675-1227.
+31. Your access to the Site is permitted in our discretion.
+Your access to the Site is permitted at BMW NA’s discretion. BMW NA may withdraw, amend, or restrict
+the Site without notice. Situations that could limit or reduce availability of the Site include, but are not
+limited to, inappropriate or unauthorized use, system maintenance, breach of Terms, or termination of a
+lease or retail account held with BMW Financial Services NA, LLC. Additional terms may apply to your
+use of use of BMW FS account, including, without limitation, the BMW FS Online Services Agreement.
+32. You waive any jury trial and class action rights.
+With respect to any dispute with BMW NA or our service providers, arising out of or relating to your
+use of the Site, Site Content, Materials, or these Terms, you hereby (i) give up your right to have a trial
+by jury; and (ii) give up your right to serve as a representative, as a private attorney general, or in any
+other representative capacity, or to participate as a member of a class of claimants, in any lawsuit
+involving such dispute. Neither an arbitrator nor an arbitration provider shall have the authority to
+hear, arbitrate, or administer any class action or to award relief to anyone but the individual in
+arbitration, except as provided in the “You agree to arbitration” section below.
+33. You agree to arbitration.
+A. In General.
+You and BMW NA hereby agree that any dispute, claim, or controversy arising out of relating to the
+Site, Site Content, Materials, or these Terms will be settled in binding arbitration between you and
+BMW NA—not in a court of law (“Agreement to Arbitrate”). The Federal Arbitration Act governs the
+interpretation and enforcement of this Agreement to Arbitrate.
+You and BMW NA hereby waive the right to a trial by jury or to participate as a plaintiff or class
+member in any purported class action or representative proceeding. Unless both you and BMW NA
+otherwise agree in writing, any arbitration will be conducted only on an individual basis and not in a
+class, collective, consolidated, or representative proceeding. Notwithstanding the foregoing, both you
+and BMW NA retain the right to bring an individual action in small claims court (if your claims qualify
+and so long as the matter remains in such court and advances only on an individual, non-class, nonrepresentative basis) and the right to seek injunctive or other equitable relief in a court of competent
+jurisdiction to prevent the actual or threatened infringement, misappropriation, or violation of either
+party's copyrights, trademarks, trade secrets, patents, or other intellectual property rights.
+You and BMW NA agree that each individual claim for arbitration must set out the identity of the
+plaintiff and the plaintiff’s counsel, a detailed description of the legal claims being asserted and the
+requested relief, including a good-faith calculation of the specific amount in dispute.
+You and BMW NA agree that each of us may bring claims against the other only on an individual basis
+and not as a plaintiff or class member in any purported class or representative or private attorney
+general action or proceeding. Unless both you and BMW NA agree otherwise, the arbitrator may not
+consolidate or join more than one person's or party's claims and may not otherwise preside over any
+form of a consolidated, representative, class, or private attorney general action or proceeding. Also,
+the arbitrator may award relief (including monetary, injunctive, and declaratory relief) only in favor of
+the individual party seeking relief and only to the extent necessary to provide relief necessitated by
+that party's individual claims. Any relief awarded cannot affect other users.
+The arbitration will be conducted by the American Arbitration Association ("AAA" or “arbitration
+provider”) under its rules and procedures, including the AAA's Consumer Arbitration Rules (as
+applicable), as modified by this Agreement to Arbitrate. Please review the AAA's rules. The use of the
+word "arbitrator" in this provision shall not be construed to prohibit more than one arbitrator from
+presiding over an arbitration; rather, the AAA's rules will govern the number of arbitrators that may
+preside over an arbitration conducted under this Agreement to Arbitrate.
+A party who intends to seek arbitration must first send to the other, by certified mail, a completed
+form notice of dispute. If you and BMW NA are unable to resolve the claims described in the notice
+within thirty (30) days after the notice is sent, you or BMW NA may initiate arbitration proceedings. A
+form for initiating arbitration proceedings is available on the AAA's website. In addition to filing this
+form with the AAA in accordance with its rules and procedures, the party initiating the arbitration
+must mail a copy of the completed form to the opposing party.
+The arbitration hearing will be held in a location agreed between you and us. If we cannot agree,
+either party may request an arbitrator to decide the location of the hearing. If the value of the relief
+sought is $10,000 or less, you or BMW NA may elect to have the arbitration conducted by telephone
+or based solely on written submissions, which election will be binding on you and BMW NA, subject to
+the arbitrator's discretion to require an in-person hearing, if the circumstances warrant. In cases
+where an in-person hearing is held, you or BMW NA may attend by telephone, unless the arbitrator
+requires otherwise.
+The arbitrator will decide the substance of all claims in accordance with applicable law, including
+recognized principles of equity, and will honor all claims of privilege recognized by law. The arbitrator
+is not bound by rulings in prior arbitrations involving different users. The arbitrator's award is final
+and binding. Judgment on the award rendered by the arbitrator may be entered in any court having
+jurisdiction thereof.
+Payment of all filing, administration, and arbitrator fees will be governed by the AAA's rules. Unless
+otherwise determined by the arbitrator, each party will be responsible for their own fees.
+B. Opting Out of Arbitration.
+Notwithstanding anything to the contrary in this section, you may choose to pursue your claim in
+court and not by arbitration if you opt out of this Agreement to Arbitrate within 30 days from the
+earlier of: (1) the date you accept these Terms, or (2) the date you first agreed or assented to an
+agreement with BMW NA that contained an arbitration provision. The opt-out notice must be
+postmarked no later than the applicable deadline and mailed to BMW of North America, LLC, Attn:
+Customer Relations, PO Box 1227, Westwood NJ 076751227. The opt-out notice must state that you
+do not agree to this Agreement to Arbitrate and must include your name, address, phone number and
+email address. This procedure is the only way you can opt out of this Agreement to Arbitrate, and
+failure to comply strictly with this procedure and the applicable deadline automatically will render the
+opt-out notice null and void. If you opt out of the Agreement to Arbitrate, all other parts of these
+Terms, including but not limited to the “You waive any jury trial and class action rights” section
+regarding waiver of jury trial and class action rights, will continue to apply. Opting out of this
+Agreement to Arbitrate has no effect on any previous, other, or future arbitration agreements that
+you may have with us.
+C. Mass Action Waiver.
+Except as otherwise provided herein, you acknowledge and agree that any and all disputes, claims, or
+controversies between the parties shall be resolved only in individual arbitration. The parties
+expressly waive the right to have any dispute, claim, or controversy brought, heard, administered,
+resolved, or arbitrated as a mass action, and neither an arbitrator nor an arbitration provider shall
+have any authority to hear, arbitrate, or administer any mass action or to award relief to anyone but
+the individual in arbitration, except as provided in subsection D below. The parties also expressly
+waive the right to seek, recover, or obtain any non-individual relief (“Mass Action Waiver”). The
+parties agree that the definition of a “Mass Action” includes, but is not limited to, instances in which
+you or BMW NA are represented by a law firm or collection of law firms that has filed 50 or more
+arbitration demands of a substantially similar nature against the other party within 180 days of the
+arbitration demand filed on your or BMW NA’s behalf, and the law firm or collection of law firms
+seeks to simultaneously or collectively administer or arbitrate all the arbitration demands in the
+aggregate. Notwithstanding anything else in the Terms, this Mass Action Waiver does not prevent you
+or BMW NA from participating in a mass settlement of claims.
+If the arbitrator or panel of arbitrators determines that you have violated the Mass Action Waiver
+described above, the parties shall have the opportunity to opt out of arbitration within 30 days of the
+arbitrator’s or panel of arbitrator’s decision in this regard. You may opt out of arbitration by providing
+written notice of your intention to opt out to the arbitration provider and to BMW of North America,
+LLC, Attn: Customer Relations, PO Box 1227, Westwood NJ 07675-1227, via USPS Priority Mail or hand
+delivery. This written notice must be signed by you, and not any attorney, agent, or other
+representative of yours. BMW NA may opt out of arbitration by sending written notice of its intention
+to opt out to the arbitration panel and to you or your attorney, agent, or representative, if you are
+represented. If a court decides that applicable law precludes enforcement of any of this paragraph's
+limitations as to a particular claim for relief, then that claim (and only that claim) must be severed
+from the arbitration and may be brought in court, subject to your and BMW NA's right to appeal the
+court's decision. All other claims will be arbitrated.
+D. Batching.
+To increase efficiency of resolution in the event a Mass Action is filed and neither party exercises its
+right to opt out of arbitration as described above, the following procedure shall apply.
+At the request of either party, an arbitrator shall be selected according to the applicable arbitration
+provider’s rules to act as a special master (“Special Master”) to resolve threshold disputes regarding
+the propriety of some or all the arbitration demands submitted in the Mass Action (“Mass Arbitration
+Demands”) at the discretion of the Special Master.
+Any such request shall be made within 15 days following the expiration of the opt-out period
+described above and may be made by providing written notice to the arbitration provider. Upon the
+request of either party to appoint a Special Master to resolve the foregoing issues, the applicable
+arbitration provider shall refrain from further processing any of the Mass Arbitration Demands to
+which a dispute has been raised. No further payment for filing fees, administrative costs, or arbitrator
+fees shall be deemed due with respect to any of the Mass Arbitration Demands as to which a dispute
+has been raised until after the disputes have been resolved by the Special Master. BMW NA shall be
+responsible for the applicable arbitration provider’s and Special Master’s fees and costs related to the
+proceedings before the Special Master.
+A Special Master appointed pursuant to this procedure shall have no authority to consolidate cases.
+After proceedings before the Special Master have concluded, to the extent any of the Mass
+Arbitration Demands are permitted to proceed, the parties shall group the Mass Arbitration Demands
+into batches of no more than 100 demands per batch by state of residence, and then alphabetically by
+last name and shall inform the arbitration provider of the batches and their compositions within 14
+days of the conclusion of proceedings before the Special Master. The arbitration provider shall treat
+each batch of claims as one case, with each case having one demand for arbitration, one appointed
+arbitrator, and one set of administrative documents and administrative and filing fees per batch.
+The parties agree to cooperate in good faith with each other and the arbitration provider to
+implement such a batch approach to resolution and fees.
+34. Some provisions survive termination.
+Provisions that by their nature should survive termination of these Terms must survive termination,
+including without limitation, sections relating to limitation of liabilities, disclaimer of warranties, waiver,
+severability, intellectual property, entire agreement, and governing law and venue.
+35. These Terms state our entire agreement.
+Except to the extent otherwise set forth herein, the Terms set forth the entire understanding between
+BMW NA and you with respect to your access to and use of the Site and Site Content. The Terms replace
+all prior understandings between us.
+36. You may not assign these Terms.
+You may not assign or transfer these Terms. BMW NA may assign its rights or obligations without your
+consent or without notice. These Terms inure to the benefit of BMW NA’s successors, assigns, licensees,
+and sublicensees. Any assignment or transfer in violation of these Terms is void.
+37. You agree to New Jersey governing law and venue.
+These Terms are governed by the laws of the State of New Jersey, without regard to its conflicts of law
+principles. Except with respect to disputes subject to arbitration, exclusive jurisdiction over any cause of
+action arising out of these Terms or your use of the BMW NA Site is in the state or federal courts located
+in Newark, New Jersey ; provided, however, that we retain the right to bring proceedings against you for
+
+breach of these Terms in your country of residence or any other relevant country. You submit to the
+jurisdiction of such courts.
+38. Only unenforceable terms are severed.
+If any portion of the Terms is found to be unenforceable, the remaining Terms remain in effect. The
+unenforceable provision will be deemed superseded by a valid, enforceable provision that most clearly
+matches the intent of the original provision.
+39. Our rights are not waived by our failure to exercise a right.
+If BMW NA fails to exercise any of its rights under these Terms, any such failure does not constitute a
+waiver of such right or any other rights under the Terms.
+40. We are located in the United States.
+BMW NA is based in the United States. BMW NA makes no representation that the Site is appropriate or
+available for use in other locations. If you access the Site from other locations, you are responsible for
+complying with local laws.
+41. English is the controlling language for the Site.
+English is the controlling language with respect to your interactions with the Site and prevails in case of
+inconsistencies with translated versions, if any. All offers or information provided in any other language
+other than English are provided for convenience only.
+42. We reserve our rights.
+Any rights not expressly granted herein are reserved and retained by BMW NA or its licensors, suppliers,
+or other service providers.
+43. You may contact us with your questions or concerns.
+If you have any questions or concerns about the Terms, you may contact us at
+customerrelations@bmwusa.com or write to BMW of North America, LLC, Attn: Customer Relations, PO
+Box 1227, Westwood NJ 07675-1227. For questions or concerns regarding ConnectedDrive matters, you
+may contact the BMW ConnectedDrive Customer Care Center at 888-333-6118 or by email at
+customercare@bmwassist.com.

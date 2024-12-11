@@ -1,0 +1,255 @@
+Motorola Mobility Website Privacy Statement
+
+About this statement
+Motorola recognizes that privacy is of great importance to individuals everywhere—our customers, website visitors, product users… everyone. This is why the responsible use and protection of personal and other information under our care is a core Motorola value. To learn more about our privacy practices, please click any of the links below. If you live in the US, please also view Supplemental Privacy Notice for US Residents.
+
+This statement was last updated on 2/9/2024.
+
+What this statement applies to
+Your privacy is important to Motorola. This privacy statement applies to data collected through websites owned and operated by Motorola Mobility LLC, a Lenovo company, (“Motorola”) and certain offline services maintained by Motorola or our service providers and partners. This statement describes the information practices for Motorola websites including, but not limited to, www.motorola.com and support.motorola.com This privacy statement describes the information practices for Motorola websites, including what types of information are collected, how Motorola uses information and for what purposes; with whom information is shared; and how Motorola protects information. It also describes your choices regarding use, access, correction and deletion of your personal information, among other topics. In addition, this statement addresses personal information collection and use by Motorola in certain other (including offline) contexts, such as marketing, newsletters, events, and customer service and support.
+
+What this statement does not apply to
+Motorola websites may contain links to other websites, some of which are not owned or controlled by Motorola. Motorola is not responsible for the privacy practices or the content of those other websites. Some of our web pages use framing techniques to serve content from suppliers or partners while preserving the look and feel of our site. Furthermore, certain Motorola-branded websites are operated by suppliers or partners and, when a “powered-by” logo is present, the privacy statements and terms of use of those suppliers and partners govern such sites or experiences.
+
+Please also note that this statement does not apply to information collected via Motorola and Lenovo products and software or other sources. Learn about our product privacy practices.
+
+To learn more about Lenovo Product privacy practices, please navigate to the applicable Lenovo product privacy statement via your local Lenovo website, or your Lenovo product or service experience.
+
+Changes to this statement
+If we make a change to this statement, we will make previous versions available so that you can see when changes occurred and what they are. If we make any material changes to this statement, we will notify you by means of a notice on our website or by an email (sent to the email address specified in your account) at the time the change becomes effective. Where applicable data protection laws require us, we will also seek your consent to any material changes that affect how we use or transfer your personal information. We encourage you to review this page periodically for the latest information on our privacy practices.
+
+Our website privacy statement below was recently updated.Review previous version.
+
+What information does Motorola collect; how is the information used; and is any personal information shared with third parties?
+Motorola collects information about you when you interact with our websites and certain offline services maintained by Motorola or our service providers and partners. We use this information in order to provide you with a product or a service that you have requested; to provide you with customer service or support; to send you news, updates or offers; when you participate in events; to improve our websites, products and services; and to make sure that they are performing at their best; among other reasons.
+
+Motorola does not use or disclose sensitive personal information of consumers. For consumers residing in California, United States, Lenovo adheres to Section 7027(m) of the California Consumer Privacy Act Regulations. Motorola does not use sensitive personal information to infer characteristics about consumers.
+
+Please note that, in certain circumstances, if you do not provide us with personal information where needed, we may not be able to provide you with the products, experiences or functionalities that you have requested. The following describes how we collect, use and share information, including personal information, in certain online and offline contexts.
+
+Browsing our websites
+Our web server logs collect the domain names and certain related data of visitors to our websites automatically (such as IP addresses or device identifiers). This information is used to measure the number of visits, average time spent on a Motorola website, pages viewed and website usage information. We use this information to meet legal or regulatory requirements; to maintain the security and integrity of our websites; to measure the use of our sites; to improve the content of our sites; to enable personalized features and content; to display and inform advertisements and marketing; and to enable third-party advertising companies to assist us in serving ads specific to your interests across the Internet. We may collect this information using cookies and other technologies, as explained below under the section “Does Motorola use cookies, tags, pixels, web beacons, analytics and related technologies for online advertising and other purposes?”. This information may be shared with service providers of Motorola, including third party data hosting, data processing and website services so that they may support the functionality, security, integrity and improvement of our websites and marketing efforts.
+
+Motorola also conducts research on our users' demographics (for example, age and gender), interests, and behavior based on the information you provide to us when making a purchase, during a promotion, from surveys and from our server log files. We do this to better understand and serve you. Motorola sometimes supplements this information with additional data supplied by third parties. Motorola may share this data with our service providers so that they may provide data hosting, processing, analysis, and related services to Motorola.
+
+Your user profile
+Your user profile may consist of information, including personal information, you provide while interacting with Motorola, such as your use of certain areas of our websites; your Lenovo ID, My Account, Passport or Motorola ID account; your contact with our customer service representatives; Motorola Product(s) registration information; and from certain Motorola Products and services that you use. Your user profile allows Motorola to:
+
+Give certain Motorola Products and services the information they need to function
+Troubleshoot problems you may have with a Motorola Product, service or website;
+Suggest ways to make your Motorola Products, services and our websites work better;
+Provide you with news, updates, and information about your Motorola Products and services; and
+If you choose to receive marketing communications, provide you with information about additional Motorola Products or services that you may be interested in.
+Artificial Intelligence
+Certain Lenovo and Motorola products, applications, and services may use technologies and tools that are powered by machine learning and artificial intelligence. The purpose of these technologies and tools is to deliver and improve our products and services in an ethical way. If a particular Lenovo or Motorola product, application, or service uses artificial intelligence to process personal data of our customers, consumers or users, we will describe those practices to the extent applicable and as required by law. Additionally, Lenovo may use data collected from products, applications, and services to train machine learning and artificial intelligence models.
+
+The following sections describe in further detail the types of information that may be contained within a user profile, how Motorola uses that information, whether that information is shared with any third parties, and certain choices you may have regarding the information. For further details on other types of information that could be included in your user profile, please see the Motorola privacy statement for your product.
+
+Lenovo ID, Motorola ID and Motorola product registration
+When you choose to create a Lenovo ID, a Motorola ID, register your Motorola Product, or create an account through My Account or Passport, we will collect information, including personal information, about you and your Motorola Product(s). We use your Lenovo ID or Motorola ID and related registration and account information to identify you including when you use certain of our software applications (such as Lenovo Vantage) and our interactive services (like our online stores and customer support sites).
+
+If you choose to create a Lenovo ID or Motorola ID or to register your products, we will need to collect certain information from you such as your name, address, email address, language, region/country, product type/model, product serial number, date of product registration, and activation data about your operating system. We will use this information in order to administer your account or profile; provide services that you have requested; and to provide you with communications, including marketing messages that you choose to receive from Motorola. The information collected and retained by Motorola for these purposes may be shared with our service providers so that they may provide data hosting, processing and marketing services to and on behalf of Motorola.
+
+To change your Lenovo ID password or deactivate your Lenovo ID account visit account.lenovo.com and navigate to “My Profile” or submit a request. To manage your Motorola ID account, visit accounts.motorola.com or submit a request.
+
+Retail and e-commerce
+We will collect personal information from you when you choose to place an order with Motorola. This may include your name, email address, billing and shipping address, phone number, payment information (such as credit or debit card), age/date of birth, information to personalize a Motorola product or service, and in limited circumstances where such information is strictly required for such order processing, social security number or other national identification number. Motorola uses this information to facilitate the processing of your order and to enable us to contact you if a problem arises with your order. Additionally, if you purchase a product requiring service, your personal information may be used to obtain a credit report, if necessary.
+
+We may share this information with service providers and partners who are involved in our e-commerce and retail fulfillment activities, such as data hosting companies; payment processors; financial institutions; shipping companies; and wireless carriers (if carrier services are ordered or activated via our site).
+
+Customer service, quality monitoring, and repair
+Certain Motorola product and service support activities may also involve you contacting Motorola or Motorola contacting you, including by phone, email or chat. Please note that, in these cases, we may record calls and chat session transcripts for staff training and quality assurance purposes. To provide you with the service or support that you have requested, such as requesting technical support or repair under a warranty for your Motorola product, Motorola or Lenovo customer service personnel may also collect and access personal information about you, such as your user profile, account information, contact information, Motorola product and service identifiers, and information about how you use your Motorola product and service.
+
+Some Motorola and Lenovo customer service personnel work for service providers that supply such services to Motorola and its customers and may have access to information about you in this context. Motorola and Lenovo use data hosting, processing and communications service providers, such as online, automated, and AI-powered chat tools, to support these activities.
+
+In addition, authorized Motorola distributors, resellers or repair providers for Motorola products may also have access to certain customer service, quality assurance and product information described herein to support your product or to provide a service that you have requested, such as repair services under a warranty for your Motorola product.
+
+Marketing, promotions, surveys, and events
+If you receive marketing, advertising or promotional communications from Motorola, Lenovo and/or their partners - such as via email or in-product push notifications - or if you choose to participate in an event, contest or survey, we will collect personal and non-personal information about you to help us manage these campaigns and communications, or to facilitate your participation. In particular, we may collect your name, address, email address, phone number, age/date of birth, Motorola product information, your user profile data, and additional personal information you choose to provide. We may also use this information to send to you product support notices; announcements; newsletters; and, when allowed by applicable laws, invitations to complete customer satisfaction surveys.
+
+Motorola, Lenovo and selected service providers or partners – including marketing, advertising, surveys and events companies - may also use the information you provide to conduct promotional, customer satisfaction or product support activities on our behalf or as part of a joint event or promotion between Motorola and that company. Motorola and Lenovo may also use data hosting and processing service providers to support these activities, as well as external tools to help us learn more about consumer trends, marketing email open/click rates, and so forth. In addition, we may acquire data from third party sources, such as consumer research firms, in order to supplement the information that we collect from you. For further information on how our websites may use third party cookies and related technologies to support its marketing and advertising activities online, please see the section below entitled “Does Motorola use cookies, tags, pixels, web beacons, analytics and related technologies for online advertising and other purposes?”.
+
+You may also receive transactional communications from Motorola such as order confirmations and service or software updates. You are not required to subscribe to receive Motorola marketing communications to purchase a product from Motorola. You may choose to unsubscribe by following the instructions included in those communications; by navigating to the Motorola unsubscribe or opt-out mechanism; by changing your preferences in your account settings; or you can submit a request.
+
+Loyalty programs
+Motorola may offer its customers the opportunity to participate in loyalty programs that offer discounts, coupons, or other incentives. While these programs are entirely optional and participation is not a requirement for purchasing from Motorola, they require the collection of certain personal information from you if you do choose to participate.
+
+The information collected for purposes of enrolling and participating in a Motorola loyalty program may include your name, address, email address, phone number, age/date of birth, Motorola product information, your user profile data, purchase history, and additional personal information you choose to provide. This information may be shared with service providers or partners of Motorola to manage loyalty programs on our behalf. Motorola may also use data hosting and processing service providers to support these activities. You may end your participation in a Motorola loyalty program by following any steps set forth by the applicable loyalty program rules.
+
+Lenovo Family Hub
+Lenovo Family Hub offers parents a user-friendly interface on Lenovo’s website to authorize their teenage children to make purchases on lenovo.com. You must have a Lenovo ID to create a Family Hub account. Each Family Hub must have a designated Head of Household who serves as the Family Manager. By selecting 'Create Family Hub with Lenovo' within your Lenovo ID account, you will be the Head of Household for your Family Hub account.
+
+Individuals can only become a member of a Family Hub account through an invitation. This invitation is generated by Lenovo and sent to the family member to their email address. The Family Manager must obtain the consent of other family members before submitting to Lenovo their email addresses; the address will be used by Lenovo only to send the invitation email. Lenovo will delete the recipient's email address when the Family Manager deletes the invitation. Lenovo notifies the Family Manager when an invitation is accepted.
+
+Accounts associated with a Family Hub account are either Adult accounts or Teen accounts (that is, accounts intended for use by family members aged 13 to 17). Adult accounts operate as individual Lenovo accounts, will be associated with the Family Hub account, and will have additional features. Adult profiles require only name and email address. Each member of the Family Hub account may select their own photos for use in the Family Hub account and can change or delete the photo. The Photo will be made part of each member’s Lenovo ID. Photos will be visible to all members of the Family Hub account.
+
+Teen account holders can make purchases on Lenovo.com subject to the Family Manager’s oversight and approval. Teen profiles require the individual’s name, email, and month/year of birth. The Family Manager provides for the Teen account the default payment method and shipping address. Family Hub will make visible to the Teen the name on the payment card, the card issuer, and the last four digits of the card as well as the shipping address for any purchases. Only the Family Manager can modify payment card details or shipping addresses associated with Teen accounts. Orders made by Teen account holders will be shipped in the teen’s name. After a teen reaches the age of 18, (a) the Family Manager can decide whether to keep or remove the Teen account from the Family Hub, and (b) the teen can opt-in to changing their teen account into an adult account. Teen account holders can close their account and leave the Family Hub at any time.
+
+Lenovo notifies the Family Manager via email when a Teen places an order and the order details are made available to the Family Manger, including the product, quantity, payment method, and shipping address. After the Family Manager reviews and responds to the order request, the status will be updated on the Order Details page and conveyed through an email notification. If the Family Manager leaves a comment, it will be visible on the order details and included in the email notification to the owner of the order. Lenovo provides order status information to the owner of the order and the Family Manager.
+
+The Family Manager can assign the role of Family Manager to other members of the Family Hub Account. The newly assigned member will be notified via email once this change is completed. The Family Manager is able to see all orders made in the Family Hub and their status information. The Family Manager can choose (a) to either review all orders made by a teen before approving or rejecting the order, or (b) to allow teens to place orders without the need for review. Lenovo will send to Family Managers transactional emails about all orders placed by family members using Family Hub including requests to approve purchases made by teens and other order notifications. When approving or denying a purchase request, the Family Manager can leave a comment for the teen explaining the decision; this comment is retained as part of the order information and is retained while the Family Hub account is active. Only the Family Manager can update the payment method and shipping address for a Teen account. The Family Manager also determines whether to remove Teen accounts from the Family Hub account; Lenovo will send email confirmation to the Family Member and the teen being removed.
+
+Family members can add to the Family Hub account information about the Lenovo and Motorola devices they use. Device management information includes: device owner’s name, device serial number, date the device was added to the Family Hub account, the device’s warranty status, and a nickname assigned by the family member to the device. This information is made available to the Family Manager for the manger’s own use Lenovo uses the device serial number to look up warranty status information and display it to members of the Family Hub account and will register the device with Lenovo’s customer data systems. Lenovo will send email notification to each family member who is assigned to a device. Family members can remove from the Family Hub account devices assigned to them.
+
+Wishlist Sharing: Family members can create private wishlists or share them with others in the Family Hub account. Lenovo may alert wishlist owners about price drops.
+
+The Family Manager can choose to deactivate the Family Hub account; all members of the Family Hub account will be notified via email of the deactivation. The Family Manager can also remove from the Family Hub account any linked account; when this occurs, the member being removed is informed via email of the change, but their individual Lenovo account remains active.
+
+Family Hub will maintain a record of all orders placed by members of the account. This order history includes date the order was placed, the products purchased, the amounts paid, who placed the order (“order owner”), and store name. The history of orders placed by members of the Family Hub is visible to the Family Manager. Any orders made by a member through the Family Hub will continue to be displayed in the Family Hub Order History, even after their account has been removed from the Family Hub.
+
+Social media
+Some of our websites include social media features and links, such as a social bar with icons that link to the Motorola presence on particular sites (for example, the Motorola page on Facebook, the Motorola feed on Twitter). These features may collect your IP address and information on which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets either are hosted by another company or are hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+You may also be able to access certain Motorola website experiences and account information by signing on through various social media sites such as Facebook, Google, Microsoft, Twitter, etc. If you choose to sign on using these services, Motorola may collect certain information from your social media account, including your public profile, email address, age/date of birth, contact lists, interests, likes, and current city. Motorola may link to, or otherwise include this information in your Motorola user profile and we may use this information for marketing-related purposes. The specific types of information provided may depend on the privacy settings of your social media account. Please see the privacy statements of your applicable social media services for further details.
+
+Community sites, blogs and discussion forums
+If you choose to participate in a Motorola blog, chat room, discussion forum, or community site (each a “Discussion Forum”), the information you provide there will be made available to others, inside and outside Motorola, who have access to that Discussion Forum. By posting information to a Discussion Forum, you represent that you are authorized to post such information and acknowledge that Motorola (a) is not obligated to handle the information as confidential and (b) is free to use such information for any purpose.
+
+Discussion forums may be hosted by non-Motorola organizations and may have additional rules. Each participant's opinion is their own and does not reflect the opinion of Motorola.
+
+Testimonials
+Motorola sometimes displays product reviews, testimonials and other endorsements of satisfied customers on our sites. Our service providers often manage these reviews and related website features. With your consent, we may post your comments along with your name. If you want to update or delete your comments, you can submit a request.
+
+Employment applications
+You may choose to provide Motorola or Lenovo with personal information when you express an interest in employment opportunities at Motorola or Lenovo, such as by submitting an application or resume through our websites. The information we collect from you will be made apparent at the time you are submitting your application and will include such things as name, contact information, background, education, employment history and other information normally used to evaluate candidates for employment opportunities. We will use this information only to evaluate your employment candidacy, and will share it only with those service providers who support these activities, such as candidate search firms working on behalf of Motorola and Lenovo; and background screening companies to help vet a candidate’s application. Motorola and Lenovo may use service providers to help process and manage the information it collects in this context, including other Motorola and Lenovo business and corporate services. We may also supplement an employment application received with additional information found via publicly available resources, such as LinkedIn profiles.
+
+Business partner relationships
+If you represent a Motorola business partner (that is, a distributor or reseller of Motorola products), you may visit a Motorola website intended specifically for Motorola business partners. These sites may be governed by separate privacy statements and terms of use. We may use personal information you choose to provide via such sites to administer and develop our business relationship with you, and the company you represent. For instance, this may involve using your information to send you details of Motorola business partner programs. It may also include sharing certain information with other business partners (subject to any confidentiality obligations that may exist), or Motorola customers or prospects. In connection with a particular transaction or program, we may also contact you as part of customer satisfaction surveys or for market research purposes. The information used for this purpose may be shared with service providers who help us administer these sites or relationships, such as data hosting and processing companies; and advertising, marketing, events and survey partners so that they may execute sales, promotional campaigns or survey research on our behalf.
+
+Supplier administration
+If you represent a Motorola supplier, you may visit a Motorola website intended specifically for use by Motorola suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of Motorola, our business partners, customers, shipping companies, financial institutions, postal or government authorities involved in the fulfillment of a transaction. It may also be used to administer and develop our relationship with you, the supplier you represent and/or other Motorola suppliers generally.
+
+Mergers and acquisitions
+Circumstances may arise when Motorola decides to sell, buy, merge, or otherwise reorganize businesses in some countries. You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers.
+
+Legal requirements and to enforce our rights
+It is possible that personal information will be subject to judicial or other government subpoenas, warrants, orders, or criminal and anti-fraud investigations. Therefore, when we believe in good faith that the law requires it, we may disclose personal or other information to regulatory or government bodies, courts of law, tribunals, and law enforcement agencies. We may also need to disclose personal or other information to protect our rights, protect your safety or the safety of others, or to investigate theft or fraud. In addition to the above, there may be circumstances that require us to disclose your personal information to other parties, including, but not limited to, legal advisers or debt collection agencies.
+
+Does Motorola use cookies, tags, pixels, web beacons, analytics and related technologies for online advertising and other purposes?
+As is true of most websites, we use and allow specific partners to use cookies, clickstream capture, pixels, web beacons, web collection forms and other similar technologies (collectively, “Automated Collection Tools”) on Motorola website experiences to collect certain information automatically. We use these tools and the information they collect to, among other purposes, help us provide better customer service, improve the quality of our website experiences, and deploy and understand the effectiveness of our advertising and marketing efforts.
+
+For example, we keep track of the domains from which visitors come to our website, and we also measure visitor activity on Motorola websites. Motorola or others on our behalf may use this data to analyze trends and statistics, to improve our websites and to serve advertising.
+
+Cookies, pixels, and online advertising
+To offer and provide a customized website experience, Motorola may use Automated Collection Tools such as cookies, pixels, tags and scripts to store and help track information about you. Where required by applicable law, Motorola will acquire consent from you prior to using non-essential cookies during your Motorola website experience and/or will offer you the opportunity to choose which types of cookies to enable or disable. Cookies are small pieces of data that are sent to your browser from a web server and stored on your computer's hard drive. Motorola uses cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies enable us to save preferences and shopping cart contents for you so you will not have to re-enter them each time you visit.
+
+Motorola uses these Automated Collection Tools for the following purposes:
+
+Essential (that is, strictly necessary) cookies: These are necessary for the website to function properly and securely and, therefore, cannot be switched off. Without these, the website or service you are requesting would not be able to provide essential functionalities (such as secure log-in, completing checkout, or allowing you to select cookie preferences) or display appropriate content.
+Analytics (for example, performance) cookies: These collect statistical information that helps Lenovo to measure, optimize and improve the content, quality and performance of its websites.
+Social media & advertising cookies: These are set by Lenovo and Motorola and select partners and are used to build a profile to deliver targeted advertising on non-Lenovo websites that is more relevant and useful to you. These cookies also collect data about your activities on Lenovo and Motorola websites so that, for example, we may retarget to you across partner sites with offers and promotions related to pages you visited. Lenovo and Motorola may link data collected by these cookies to other data you have already submitted to us (for example, your email address).
+Session replay tools: These allow website operators to gather user experience research to show how sites are being used, and what improvements should be made to the sites and users’ experiences on them. They basically record or recreate a user’s journey through the website. These tools are designed and implemented so that they either do not collect or instead mask personal information of users.
+We also use Automated Collection Tools to determine relevant interest-based advertisements to serve the user. For this purpose, Lenovo and Motorola may use services hosted by companies such as Google Analytics for Display Advertisers, Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Campaign Manager, Adform, and Google Analytics Demographic and Interest Reporting, Facebook, Snapchat, LinkedIn, and Tiktok to help us understand our customers' use of our websites and products; to match certain data about our customers, uses of our websites, and social media engagement; and to deliver and manage interest-based advertisements. These services may collect information, such as an IP address, sent by your browser or via cookies. Motorola may also share certain limited (often hashed) information with our ad partners so that they may provide these services to Lenovo and Motorola.
+
+In addition, Automated Collection Tools allow us to measure website trends and traffic patterns, such as which areas of the Lenovo or Motorola site you visited and which site you came from; to reduce customer frustration and simplify site navigation; to help design our site to make it more efficient and enjoyable; to make product recommendations; to deliver a Lenovo and/or Motorola product advertisement while browsing a website including on non-Lenovo or non-Motorola websites, and to prevent fraud. Lenovo, Motorola, and our service providers, including Google and DoubleClick, use cookies to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. If you do not want to have this information used for serving you interest-based ads, you may opt-out by following the steps below.
+
+Automated Collection Tools can be managed in various ways. Opt out of interest-based ads by following these steps:
+
+Disabling cookies via browser controls: Most browsers are initially set up to accept cookies by default. However, if you prefer not to store cookies, you can choose to do the following, but note that some features of Lenovo and Motorola websites may not work if you do not accept cookies:
+
+Not use our sites
+Set your browser to notify you when you receive a cookie
+Set your browser to refuse to accept cookies
+Utilize the cookie consent and control options offered by a Motorola website (if available and as required by applicable law)
+Delete our cookies after visiting our site
+Browse our site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Edge, “Private Browsing” in Firefox and Safari, etc.)
+Due to the lack of industry standards for handling Do-Not-Track signals sent by browsers, Lenovo and Motorola websites may not respond to such requests.
+
+Opting out using tools provided by Motorola: To exercise your rights to opt-out of Lenovo or Motorola selling or sharing your personal data for cross-context behavioral advertising purposes and/or processing it for targeted or personalized advertising purposes, take the following steps: (1) Visit the Cookie Consent Tool for the Lenovo or Motorola website and toggle off the Social Media & Advertising cookie categories and (2) complete and submit Lenovo’s Privacy Request form or Motorola's Privacy Request form.
+Opting out using tools provided by third parties: For guidance on how to control or delete cookies, or how to opt-out of receiving certain targeted ads based on your browsing history, we recommend that you visit the following resources:
+
+Network Advertising Initiative (www.networkadvertising.org/choices/)
+Your Ad Choices, powered by Digital Advertising Alliance (www.aboutads.info)
+All About Cookies (www.allaboutcookies.org)
+Your Online Choices (www.youronlinechoices.eu)
+If you would like to opt-out of Google Analytics for Display Advertisers and/or opt out of the customized Google Display Network, you may do so by visiting Google's Ads Preferences Manager. You may also wish to utilize the Google Analytics Opt-out Browser Add-on to opt-out of Google Analytics. For information on how to do this on the browser of your product or mobile device you will need to refer to your browser's or mobile device's help menu or product manual.
+
+Effect of opting-out. Your cookie selections are specific to the device, website, and browser you are using, and are deleted whenever you clear your browser’s cache. If you use another device or browser, you will need to opt out on each device and browser. Blocking or clearing cookies from your browser may remove your opt out settings, requiring you to opt-out again. After you have opted out, you may still see advertisements for Lenovo or Motorola products because not all advertisements are placed using cookies or personal information. For example, you may see contextual ads online such as those based on the topic and content of a webpage you visit. Other advertisements are published to third party websites and are visible to all visitors of that website.
+
+Local Storage Objects
+Additionally, some Motorola website experiences may use local storage objects (LSOs) such as HTML5 provided by service providers and partners of Motorola to store content information and preferences on your device. Various browsers may offer their own management tools for removing HTML5 LSOs.
+
+Web beacons and other technologies
+Some Motorola websites also use web beacons or other technologies such as JavaScript to better tailor those sites to provide better customer service. These technologies may be in use on several pages across Motorola websites. When a visitor accesses these pages, a non-identifiable notice of that visit is generated. This may be processed by us or by our service providers. These web beacons usually work in conjunction with cookies. If you turn off cookies, web beacons and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded.
+
+Personalized URL links
+On occasion, we may personalize and customize websites for certain visitors. If you visit one of these sites, you may find it customized with references to products and/or services that we believe may be of interest to you, based on your previous interactions with Motorola and information you have provided to us. While you are visiting these websites, we may collect information about your visit to better tailor the site to your interests. An invitation to visit one of these websites can be presented as a personalized URL in an email, a notice on a website registration page, or as a response to you logging on to a certain website.
+
+Does Motorola sell my personal information?
+Motorola does not sell (as “sell” is traditionally defined) personal information of customers of any age. Some privacy laws, however, classify certain sharing of personal information for advertising purposes as a “sale” even though recipients of the data are subject to contract terms with Lenovo that severely limit their rights to use and retain the information that Lenovo shares with them. In the 12 months prior to the publication of this Statement, Lenovo has shared to advertisers, ad networks, advertising partners, and advertising measurement providers, pursuant to written contracts, the following categories of personal information:
+
+Identifiers including, device identifiers, IP addresses, browser cookies, and other unique online identifiers;
+Internet activity information including data about a consumer’s interaction with an Internet website, application, service, or advertisement;
+User Profile information including email address and location information;
+Inferences drawn from Personal Information, including preferences, interests, and other data used to personalize a consumer’s experience.
+Motorola shares these categories of personal information with Motorola's and Lenovo's third-party service providers and partners for cross contextual behavioral advertising purposes, to target ads, to provide analytics and reporting related to the effectiveness of advertising, to support our products and websites, and/or to provide additional services to Motorola and its customers and product users. In doing so, Motorola takes appropriate steps to ensure that these service providers and partners are meeting our standards of robust privacy and strong security.
+
+Does Motorola transfer my personal information internationally?
+Lenovo and Motorola are global organizations with legal entities, business processes, management structures, and technical systems that cross borders. Therefore, where permitted by law, we may share your personal information within Motorola and Lenovo (including to subsidiaries, affiliates and parent companies) or our service providers and business partners and may transfer it to countries in the world where we do business (including, but not limited to, the United States of America and China). Regardless of where your information is transferred to and resides, our privacy and security practices are designed to provide protection for your personal information globally.
+
+Some countries have privacy laws that are not equivalent to privacy laws in your own country and your data could be requested by law enforcement agencies in those jurisdictions. In such countries, Motorola and Lenovo will still handle information in the manner we describe here and will take such measures as are necessary to comply with applicable data protection laws when transferring and processing your information. Where required, Motorola and Lenovo will also maintain agreements between Motorola and Lenovo group companies or with Motorola and Lenovo partners or service providers to govern the transfer, processing and protection of personal information.
+
+Motorola and Lenovo use Standard Contractual Clauses as one means to help effectuate transfers of personal information including from and within the European Union, European Economic Area, Switzerland and United Kingdom.
+
+How long will my personal information be retained?
+Motorola intends to retain information, including personal information, only as long as necessary for business or other compelling purposes; and to securely delete personal information when those purposes of use have been satisfied. We will retain your information, including personal information, for as long as any of the following circumstances apply:
+
+Your account or subscription is active
+To provide you with services or support that you may have requested
+To ensure required functionality and performance of Motorola Products and websites, including responsibilities under our product warranties
+To comply with applicable laws, including for tax and audit purposes
+To enforce our rights, including litigation and debt collection
+How is my information protected?
+We use standard technical and organizational measures when we transmit information from our websites to our servers, when we store data, and when we share it with third parties. For example, we use encryption as necessary while transmitting sensitive information to keep your information secure. When sharing your information with third parties, we will take reasonable and appropriate steps to contractually require that such parties will protect and use your information responsibly.
+
+However, please remember that no website, service, or data transmission can be guaranteed to be one-hundred percent secure. As a result, while we have taken appropriate steps to protect your information, Motorola cannot ensure or otherwise warrant the security of our websites or any information you provide to us. By using our websites, you do so at your own risk.
+
+What about my child’s privacy?
+Our websites are intended for adults and children aged 16 and over, or equivalent minimum age in the relevant jurisdiction, who have permission from their parents or legal guardians to use them.
+
+Motorola does not knowingly collect data from children under the age of 16, or equivalent minimum age in the relevant jurisdiction, as defined by applicable law without the prior consent of their parents or legal guardians or as otherwise permitted by law. If Motorola learns that a child submitted personal information to Motorola, we will delete the personal information as soon as possible and not use it. Motorola encourages parents to take an active role in their children’s use of interactive resources and to inform them of the potential dangers of providing personal information.
+
+What are my data protection rights?
+Applicable data protection laws may give you the right to control our use and processing of your personal information. These may include the right to:
+
+Request confirmation, access to and a copy of your personal information
+Request rectification or erasure of your personal information
+Object to processing of your personal information
+Restrict processing or to opt-out of any sale of your personal information
+Data portability
+Where we use your personal information with your consent, you can withdraw your consent at any time, though this will not affect our use of your personal information prior to the withdrawal of your consent. You may review, correct or delete certain personal information via your Motorola account if you have one.
+
+To exercise your rights as described above, submit a privacy request. We will review, respond to and act upon any such requests in accordance with applicable data protection laws.
+
+Please note that we will take steps in accordance with applicable law and our privacy and security standards to verify your identity before granting you access to your personal information or otherwise complying with your request. If you have a Motorola account, we may verify your identity by requiring you to sign in to your account. If you do not have a Motorola account, or an email address on file with us, then we may request additional limited information from you in order to verify your identity. Please note that if you do not have an account with Motorola, or an email address on file, or if we are unable to verify your identity in our records, we may deny your request.
+
+You may also use an authorized agent to submit a request under this section on your behalf. If you choose to have an authorized agent submit such a request on your behalf, Motorola will require: (i) You to provide the authorized agent written permission to do so; and (ii) your agent to verify their identity directly with Motorola. Motorola may deny a request from an agent that does not meet these requirements.
+
+In addition, you have the right to raise questions or complaints with your applicable national data protection authority at any time. You also have the right to not be discriminated against for exercising your privacy rights.
+
+How may I contact the Motorola Privacy Program?
+To exercise your rights as described above submit a privacy request.
+
+If you have additional questions about this privacy statement you can contact Motorola at privacy@motorola.com, or the following addresses:
+
+United States:
+Motorola Mobility LLC
+Attn: Privacy Program
+222 West Merchandise Mart Plaza, Suite 1800
+Chicago, Illinois, USA 60654.
+
+Brazil:
+Lenovo Tecnologia (Brazil) Ltda.
+Acc: Brazilian Privacy and Data Protection Team
+Rua Werner Von Siemens, 111
+Lapa de Baixo, São Paulo/SP
+CEP 05069-900
+Data Protection Officer: Diogo Manganelli
+
+China:
+Legal Department
+Lenovo West Zone, No.10, Xibeiwang East Road, Haidian District, 100094 Beijing, China
+
+Additional Motorola customer service information, including phone and chat contacts, may be found at support.motorola.com/contactus.
+
+Our website privacy statement was recently updated. Review previous version.

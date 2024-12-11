@@ -1,0 +1,43 @@
+name: Code Quality and Tests
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+jobs:
+  code-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install black isort bandit
+          pip install "black[jupyter]"
+          
+      - name: Check Black formatting
+        run: |
+          if ! python -m black . --check; then
+            echo "::error::❌ Black formatting check failed! Please run 'black .' locally to fix formatting issues."
+            exit 1
+          fi
+        
+      - name: Check Import sorting
+        run: |
+          if ! python -m isort . --check-only --diff; then
+            echo "::error::❌ Import sorting check failed! Please run 'isort .' locally to fix import ordering."
+            exit 1
+          fi
+
+      - name: Run Bandit security checks
+        run: |
+          if ! python -m bandit -r . -c pyproject.toml; then
+            echo "::error::❌ Bandit security checks failed! Please review the security issues reported above."
+            exit 1
+          fi

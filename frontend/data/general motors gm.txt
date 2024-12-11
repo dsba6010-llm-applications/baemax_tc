@@ -1,0 +1,1165 @@
+User Terms
+Mobile User Terms
+myChevrolet, myBuick, myGMC, myCadillac Mobile Apps:
+
+User Terms for Application Services
+Last Updated November 14, 2022
+This software application (the “Application”) is provided by General Motors Holdings LLC and its
+affiliates (“GM” or “we” or “us”) and, subject to these User Terms, makes services made available to you
+(the “Application Services”), via the authorized Apple or Android device that you own or control (your
+“Device”), which may include the ability to view diagnostic and location information of your OnStar
+equipped eligible vehicle (your “Vehicle”), to receive promotions and offers from participating retailers,
+and to issue commands to your Vehicle, such as door lock/unlock and remote engine start commands.
+The Application Services may be available while your Vehicle is connected to our systems via a service
+trial period that we may offer from time to time, a service plan made available to you at no additional
+charge (e.g., the OnStar Basic Plan), or through a paid service plan. Some of the Application Services may
+not be available for your Vehicle unless you are participating in a paid service plan for that Vehicle.
+Further details and limitations of the Application Services are available at www.onstar.com/mobileapp.
+When you click to accept the following terms (these “Terms”) or when you access or use the Application
+Services on your Device, you agree to the following:
+• These Terms incorporate the User Terms for Connected Vehicle Services located at
+onstar.com/terms (the “Connected Vehicle Service Terms”). Together, these Terms and the
+Connected Vehicle Service Terms are binding between you and us and govern your access and
+use, including any access or use that you authorize or permit, of the Application Services. For
+this purpose, the term “Services” of the Connected Vehicle Service Terms includes the
+Application Services, “Connected Device” includes your Device, “Agreement” includes these
+Terms, and “Software” includes the Application. You should carefully review the Agreement
+before accessing or using the Application Services;
+• It is your responsibility to ensure that all users of your Vehicle know that anyone with access
+to the Application Services through your Device may be able to access information about your
+account and your Vehicle, including the location of your Vehicle;
+• You will not attempt to breach any security measures of the Application Services;
+• You will not copy, reproduce, distribute, decompile, reverse engineer, disassemble, remove,
+alter, circumvent, or otherwise tamper with any security technology, convert to any use not
+authorized by us or claim ownership in the Application Services or our or any other party’s
+information or materials associated with the Application Services;
+• You will only use the Application Services when it is safe to do so, in compliance with the law
+and these Terms, and you will not use the Application Services offered through your Device
+while driving;
+• You will not use the Application Services to harass or harm any person, or for any improper,
+unlawful, or unauthorized purpose (including the unauthorized uses described in Sections 18
+and 20 of the Connected Vehicle Service Terms);
+• You may cancel the Application Services at any time by contacting us at 1-888-4-ONSTAR. You
+cannot cancel Application Services simply by Uninstalling the Application from your Device;
+• If you sell or transfer your Vehicle, you must notify us by pressing the blue OnStar button in
+your Vehicle or by calling us at 1-888-4-ONSTAR and you must stop using Services for that
+Vehicle;
+• We may collect, use, and share information about you, including the location of your Device or
+your Vehicle as described in the Privacy Statement for Application Services available at
+www.onstar.com/privacy;
+• If a dispute arises, you will resolve it with us through individual arbitration;
+• You are required to keep your account and password secure and not disclose them to any
+third parties. We are not responsible for the acts of third parties who may access the Application
+Services and information through your Device. You should use all security features of your
+Device, including any password, locking, or encryption features, to protect against unauthorized
+access and use of the Application Services and your information. In addition, you will ensure
+that any third party that you authorize or permit to access the Application Services through your
+Device or your account agrees (i) to be bound by these Terms, and (ii) that GM may pursue any
+available legal actions or technical measures directly against such third parties (a) in order to
+ensure compliance with these Terms, or (b) where GM otherwise believes such actions or
+measures are appropriate to address actual or potential safety, security, privacy, or compliance
+issues that may impact you, your Vehicle, or us;
+• Your use of the Application Services may involve services made available to you by third
+parties, such as the wireless services provided for your Device by your wireless carrier, and map
+and data services. Any map or data services that are provided by Telenav, Inc. are governed by
+terms posted at http://www.telenav.com/legal/terms/gm/. Any map or data services that are
+provided by HERE North America, LLC and its affiliates are governed by terms posted at
+https://legal.here.com/. Use of services made available by third parties may involve you sharing
+your location, search query, and other data. You can disable sharing of your Device location in
+your Device settings. You may also receive promotions and offers from participating third party
+retailers through the Application Services. These third party services, promotions and offers, and
+any related transactions you enter into, are solely between you and the third party. We cannot
+guarantee their performance, reliability or security, and we are not responsible for any losses or
+damages they may cause, such as any loss of personal information through third party network
+services;
+• GM grants you a non-commercial, non-exclusive, non-transferable, limited, terminable license
+to use the Application and the Application Services solely with your Device, throughout the
+United States, subject to your compliance with the Agreement. The Application is licensed, not
+sold, to you, solely for your personal use. GM retains all right, title, and interest in and to the
+Application, the Application Services and all related data and information, including intellectual
+property and proprietary rights and interests;
+• In the event that you or any third party authorized by you uses software that accesses,
+collects, or analyzes data, interfaces, or services (“Tools”) from or related to the Application or
+the Application Services, GM reserves the right to audit and review the underlying materials and
+source code for such Tools to fully understand how such Tools operate, including to assess any
+potential interference such Tools may present to the integrity and security of the Application,
+the Application Service or any Vehicle, and to determine whether such Tools conduct activities
+not authorized by these Terms and the license granted to you hereunder. In furtherance of the
+foregoing, you grant, and grant on behalf of any third party authorized by you to use Tools on
+the Application or the Application Services, GM a nonexclusive, fully-paid, irrevocable, royaltyfree license to reverse engineer, dissemble, decompile, access, use and otherwise exploit the
+Tools, without liability to GM and without waiving any of GM’s rights or remedies. Furthermore,
+GM and its agents reserve the right to obtain the Tools on GM’s own behalf, with any
+downloading, installation and use of the Tools to be governed exclusively by these Terms with
+respect to the collection or analysis of data from the Application or the Application Services
+irrespective of any terms and conditions generally applicable to use of the Tools;
+• In the event of any conflict between these Terms and the Connected Vehicle Service Terms,
+these Terms will govern for any access or use of the Application Services. The reference to
+“Connected Device” in Section 15.2 and in the last subsection of Section 18 of the Connected
+Vehicle Service Terms does not apply to your Device; and
+• If your Device is an Apple device, then the following paragraph applies: You are entering into
+the Agreement, including these Terms, with GM and not with Apple Inc. (“Apple”). However,
+Apple and its subsidiaries are third party beneficiaries of the Agreement, and Apple may enforce
+the Agreement. We are solely responsible, as provided in these Terms, for the Application and
+its associated information; Apple makes no warranty with respect to the Application or the
+information and has no obligation whatsoever to furnish any maintenance and support services
+for the Application. Apple is not responsible for addressing any claims relating to the Application
+or its associated information or your possession or use of the Application, including but not
+limited to: (i) product liability claims, (ii) any claims that the Application fails to conform to any
+legal or regulatory requirement, and (iii) claims arising under consumer protection and similar
+legislation. If a third party claims that the Application, its associated information, or your
+possession or use of the Application or associated information infringes a third party’s
+intellectual property rights, Apple is not responsible for the investigation, defense, settlement
+and discharge of any such intellectual property infringement claim. You acknowledge that you
+have reviewed the App Store Terms located online at
+http://www.apple.com/legal/itunes/us/terms.html#APPS and that you shall comply with such
+terms.
+If you have any questions, comments or complaints regarding the Application Services, feel free to
+contact us at any time by pressing the blue OnStar button in your OnStar equipped vehicle, emailing us
+at TTY@OnStar.com, mailing us at OnStar Subscriber Services, PO Box 1027, Warren, MI 48090-1027, or
+calling us at 1.888.4.ONSTAR (1.888.466.7827), or for TTY users (hearing/speech impaired):
+1.877.248.2080.
+
+OnStar Guardian App – English
+
+User Terms for OnStar Guardian
+Last Updated March 26. 2024
+
+This software application (the “Application”) and the services made available to you through the Application (the “Application Services”) are provided by General Motors Holdings LLC (when offered in the United States) or General Motors of Canada Company (when offered in Canada) and their respective affiliates (“GM” or “we” or “us”) via the authorized Apple or Android smartphone (“Device”) that you own or are authorized to use. The Application Services may include detection of a crash event in a vehicle in which you are traveling. The Application Services may also include the ability to initiate a call to OnStar Advisors, request and receive roadside assistance services, and view location and other information of the Devices owned by or authorized to be used by the members of your “My Family” group. The Application is available to OnStar Members with select OnStar service plans, but an OnStar service plan is not required to create an Application account or to use the Application Service.
+
+These terms (“Terms”) govern your use of and access to the Application Services on your Device and are in addition to any terms you may have accepted for OnStar and connected services. Please review these Terms carefully.
+
+IMPORTANT: THESE TERMS CONTAIN A MANDATORY ARBITRATION PROVISION THAT, AS FURTHER SET FORTH IN PARAGRAPH I, BELOW, REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES. THIS MEANS THAT YOU ARE GIVING UP THE RIGHT TO SUE IN COURT OR IN CLASS ACTIONS OF ANY KIND.
+
+When you click to accept the following terms or when you access or use the Application Services on your Device, you agree to the following Terms.
+
+A. USE OF APPLICATION SERVICES
+You may only use the Application when it is safe to do so, in compliance with all applicable laws and regulations and these Terms, including laws and regulations regarding use of Devices while driving.
+
+The Application Services are subject to limitations, including:
+
+The Application will not detect all crashes (for example, if your vehicle is stationary for an extended period of time). The vehicle must be moving at a sufficient speed (approximately 5 miles per hour) for a certain amount of time (approximately 10 seconds) before it can begin to detect a crash event. If a crash is detected, the Application can connect a call from an OnStar Advisor automatically on Android smartphones only; all other Devices require you to answer the call.
+The Application may not connect to an OnStar Advisor in all instances. Dial “911” in case of an emergency.
+A cellular signal, GPS signal, and sufficient battery life on your Device are required for the Application Services to operate properly.
+You must provide all requested Application and Device permissions for the Application Services to operate properly.
+The Application Services use and rely upon your Device’s sensors and functionality, including GPS signal and cellular signal, and are subject to any inaccuracy and other limitations thereof
+Updates made to your Device may impact the ability of the Application to provide the Application Services.
+Once you log into the Application, it will continue to run in your Device’s foreground or background until you log out, even if you close the Application.
+Failure to download available updates to the Application may limit access to the Application Services.
+Application Services may be limited if the Application is archived in your Device’s operating system.
+IF YOU PROVIDE AN EMERGENCY CONTACT, YOU CONSENT TO US CONTACTING THAT PERSON ON YOUR BEHALF AND PROVIDING THAT PERSON WITH INFORMATION ABOUT YOU IN CONNECTION WITH THE APPLICATION SERVICES, INCLUDING YOUR DEVICE’S LOCATION. YOU MUST ALSO OBTAIN PRIOR CONSENT FROM THAT PERSON BEFORE PROVIDING THAT EMERGENCY CONTACT. YOU MUST ALSO NOTIFY YOUR SELECTED EMERGENCY CONTACT THAT YOU HAVE SHARED HIS/HER/THEIR PERSONAL INFORMATION WITH US AND WE WILL USE THAT INFORMATION TO CONTACT HIM/HER/THEM ON YOUR BEHALF. BY PROVIDING THE EMERGENCY CONTACT YOU REPRESENT THAT YOU AND THE EMERGENCY CONTACT HAVE CONSENTED TO SUCH NOTIFICATIONS.
+Roadside assistance services are provided by a third-party provider and are only intended for passenger vehicles and motorcycles (a two-wheeled motorized vehicle with a saddle or seat that can attain speeds greater than 30 mph on a level surface and can be operated legally on public roads). Heavy duty vehicles and vehicles that require a commercial driver’s license to legally operate are expressly excluded from roadside assistance services. Other limitations on the number and type of roadside assistance services may apply.
+We may collect, use, and share information about you, including the location of your Device as described in the Privacy Statement for OnStar Guardian available at: https://www.onstar.com/us/en/privacy_statement/ (when offered in the United States) or https://static-content.onstar.com/OnStarMobilePrivacy/OnStarMobilePrivacy.htm (when offered in Canada).
+You may not use the Application Services to harass or harm any person, or for any improper, unlawful, or unauthorized purpose.
+You are responsible for maintaining the security of your Device. We are not responsible for the acts of third parties who may access the Application Services and information through your Device. You are required to keep your account and password secure and not disclose them to any third parties. We are not responsible for the acts of third parties who may access the Application Services and information through your Device. You should use all security features of your Device, including any password, locking, or encryption features, to protect against unauthorized access and use of the Application Services and your information. In addition, you will ensure that any third party that you authorize or permit to access the Application Services through your Device or your account agrees (i) to be bound by these Terms, and (ii) that GM may pursue any available legal actions or technical measures directly against such third parties (a) in order to ensure compliance with these Terms, or (b) where GM otherwise believes such actions or measures are appropriate to address actual or potential safety, security, privacy, or compliance issues that may impact you, your Vehicle, or us;
+You are responsible for ensuring that all members of your “My Family” group know that anyone with access to the Application Services through your Device (or through the Device of another member of your “My Family” group) may be able to access information about their Device, including the location of their Device. You can disable sharing of your Device location to the other members of your “My Family” group in the Application’s settings, but if you disable sharing of your Device location in your Device settings, some of the Application Services will not function properly.
+By using the Application Services, you affirm that you are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms, and to abide by and comply with these Terms. If you violate or do not agree to these Terms, then your access to and use of the Application Services is unauthorized. You also represent and warrant that You (a) have reached the age of majority in your jurisdiction of residence and have full legal capacity to enter into binding contracts, or (b) are at least 13 years of age and possess legal parental or guardian consent and are fully able and competent to enter into and abide by this Terms. If You do not satisfy these eligibility requirements, then You should decline this Terms using the mechanism we make available to You. You are not permitted to use any of the Services until such time as You satisfy these eligibility requirements and agree to all of the terms of the Terms.
+GM grants you a non-commercial, non-exclusive, non-transferable, limited, terminable license to use the Application and the Application Services solely with your Device, throughout the United States and Canada, subject to your compliance with these Terms. The Application is licensed, not sold, to you, solely for your personal use. GM retains all right, title, and interest in and to the Application, the Application Services and all related data and information, including intellectual property and proprietary rights and interests.
+You agree not to modify, copy, alter, reverse engineer, disassemble, remote, alter, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained through the Application and Application Services without GM’s prior written permission. You agree not to use any robot, spider, other automatic device, or manual process to monitor, access, or copy the Application or the content contained in it or for any other unauthorized purpose without GM’s prior written permission. You agree not to use any device, software or routine to interfere with or attempt to interfere with the proper working of the Application or any activities conducted through the Application. You will use the Application and Application Services only for your personal, noncommercial use.
+You will not copy, reproduce, distribute, decompile, reverse engineer, disassemble, remove, alter, circumvent, or otherwise tamper with any security technology, convert to any use not authorized by us or claim ownership in the Application Services or our or any other party’s information or materials associated with the Application Services;
+You will not attempt to breach any security measures of the Application Services;
+In the event that you or any third party authorized by you uses software that accesses, collects, or analyzes data, interfaces, or services (“Tools”) from or related to the Application or the Application Services, GM reserves the right to audit and review the underlying materials and source code for such Tools to fully understand how such Tools operate, including to assess any potential interference such Tools may present to the integrity and security of the Application, the Application Service or any Vehicle, and to determine whether such Tools conduct activities not authorized by these Terms and the license granted to you hereunder. In furtherance of the foregoing, you grant, and grant on behalf of any third party authorized by you to use Tools on the Application or the Application Services, GM a nonexclusive, fully-paid, irrevocable, royaltyfree license to reverse engineer, dissemble, decompile, access, use and otherwise exploit the Tools, without liability to GM and without waiving any of GM’s rights or remedies. Furthermore, GM and its agents reserve the right to obtain the Tools on GM’s own behalf, with any downloading, installation and use of the Tools to be governed exclusively by these Terms with respect to the collection or analysis of data from the Application or the Application Services irrespective of any terms and conditions generally applicable to use of the Tools;
+Your access to the Application Services may be restricted or terminated for any reason, including but not limited to, if GM reasonably suspects a risk of fraud or misuse. GM reserves the right to change, restrict access to, suspend or discontinue the Application or Application Services at any time.
+B. THIRD PARTY SERVICES
+Your use of the Application Services may involve services made available to you by third parties, such as the wireless services provided for your Device by your wireless carrier, and map and data services. Use of services made available by third parties may involve you sharing your location, search query, and other data with these third parties. You can disable sharing of your Device location in your Device settings. You may also receive promotions and offers from participating third party retailers through the Application Services. These third party services, promotions and offers, and any related transactions you enter into are solely between you and the third party. We cannot guarantee their performance, reliability, or security, and we are not responsible for any losses or damages they may cause, such as any loss of personal information through third party network services.
+If your Device is an Apple device, then the following paragraph applies: You are entering into the Agreement, including these Terms, with GM and not with Apple Inc. (“Apple”). However, Apple and its subsidiaries are third party beneficiaries of the Agreement, and Apple may enforce the Agreement. We are solely responsible, as provided in these Terms, for the Application and its associated information; Apple makes no warranty with respect to the Application or the information and has no obligation whatsoever to furnish any maintenance and support services for the Application. Apple is not responsible for addressing any claims relating to the Application or its associated information or your possession or use of the Application, including but not limited to: (i) product liability claims, (ii) any claims that the Application fails to conform to any legal or regulatory requirement, and (iii) claims arising under consumer protection and similar legislation. If a third party claims that the Application, its associated information, or your possession or use of the Application or associated information infringes a third party’s intellectual property rights, Apple is not responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim. You acknowledge that you have reviewed the App Store Terms located online at http://www.apple.com/legal/itunes/us/terms.html#APPS and that you shall comply with such terms.
+C. PAYMENTS
+Any fees for the Application Services must be paid in advance unless the Application Service offer expressly states otherwise. If you have a credit card, debit card, bank account or similar payment account on file with us (collectively, “Payment Account”) and have set up automatic billing, we will automatically charge your Payment Account according to the terms of your authorization. If your Application Service payment due date falls on a weekend or holiday, we may charge you the next business day. In the event your payment is returned to us for insufficient or uncollected funds, you authorize us to resubmit the payment. Payment processing fees associated with your Payment Account, such as currency conversion fees, insufficient fund fees, reversal fees, or overdraft fees are your responsibility. We may receive automatic updates of your Payment Account information from the Payment Account’s financial institution or affiliated payment network in order to keep your payment information current. You may update your Payment Account or cancel your authorization at any time by calling us at 1.888.4.ONSTAR.
+
+D. FEES
+Fees for the Application Services may change over time, and we will charge the prices then in effect for the applicable payment period. You will be notified of any price increase applicable to your selected Application Services so that you can cancel the Application Services if you do not wish to pay the higher price. Any fees paid by you prior to your cancellation of the Application Services are nonrefundable.
+
+E. FEEDBACK
+To help improve the quality of our websites, mobile apps, and connected vehicle services we may provide user feedback channels to allow you to share your experiences. By submitting feedback, you accept the following and agree that you will not use or attempt to use feedback channels for any unlawful purpose, including any purpose that:
+
+Promotes violence, abuse, or harassment to an individual or group of people;
+Transmits any advertisements, solicitations, schemes, or other unsolicited commercial communications;
+Encourages child exploitation or otherwise harms minors in any way;
+Impersonates or otherwise misrepresents your affiliation with any person or entity;
+Incites illegal or unlawful activities;
+Violates any third party's intellectual property rights;
+Infringes any third party's right of privacy; or
+Unlawfully transmits or uploads any confidential, proprietary or trade secret information.
+By submitting feedback, you grant GM a worldwide, non-exclusive, royalty-free license to use, copy, reproduce, process, adapt, modify, publish, transmit, display, and distribute such feedback in any and all media or distribution methods now known or later developed. You agree that this license includes the right for GM to promote and improve our services and make any feedback you submit available to our affiliates and third parties for syndication, broadcast, distribution, promotion, and publication.
+
+No compensation will be paid to you with respect to any feedback you submit and your use of our websites, mobile apps, and connected vehicle services are hereby agreed as being sufficient compensation for the rights granted.
+
+You acknowledge and agree that you are solely responsible for any feedback you provide, including compliance with applicable laws, rules, and regulations. GM does not take responsibility for any user feedback and does not endorse any user feedback or opinions expressed. GM reserves the right at all times, in its sole discretion and without notice to you, to remove any objectionable feedback and to revoke your account for violating these Terms.
+
+F. DISCLAIMER OF WARRANTIES
+The following paragraphs F(1) – F(3) do not limit Section 10 of the Quebec Consumer Protection Act, if such section is otherwise applicable.
+
+GM MAKES NO REPRESENTATIONS, CONDITIONS OR WARRANTIES IN RESPECT TO THE APPLICATION OR THE APPLICATION SERVICES. THE APPLICATION AND THE APPLICATION SERVICES THAT GM MAKES AVAILABLE TO YOU ARE PROVIDED “AS IS” AND AS AVAILABLE INCLUDING WITH ALL FAULTS AND ERRORS AS MAY OCCUR THEREIN. GM, ON BEHALF OF ITSELF AND ALL GM AFFILIATES, EXPLICITLY DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES OF ACCURACY OR NONINFRINGEMENT IN RESPECT TO THE APPLICATION OR THE APPLICATION SERVICES.
+GM DOES NOT PROVIDE ANY WARRANTIES REGARDING THE AVAILABILITY, PERFORMANCE OR OPERATION OF THE APPLICATION OR THE APPLICATION SERVICES. GM DOES NOT PROVIDE ANY WARRANTY AS TO THE AVAILABILITY OF THE APPLICATION OR THE APPLICATION SERVICES OR THAT THE APPLICATION SERVICES WILL OPERATE WITHOUT INTERRUPTION OR ERROR FREE. GM DOES NOT PROVIDE ANY WARRANTY THAT THE APPLICATION OR THE APPLICATION SERVICES WILL CONTINUE IN EXISTENCE FOR ANY PERIOD OF TIME AND DOES NOT WARRANT THAT FUTURE OPERATION WILL BE COMPATIBLE WITH CURRENT OPERATION.
+SOME JURISDICTIONS LIMIT OR DO NOT ALLOW THE DISCLAIMERS OF IMPLIED OR OTHER WARRANTIES, SO SOME OF THE ABOVE DISCLAIMERS MAY NOT APPLY TO THE EXTENT SUCH JURISDICTION’S LAW IS APPLICABLE TO THIS AGREEMENT, IN WHICH CASE GM WARRANTIES SHALL BE LIMITED TO THE EXTENT PERMITTED BY LAW. GM DOES NOT GUARANTEE OR WARRANT THE ACCURACY OF ANY INFORMATION MADE AVAILABLE TO YOU THROUGH THE APPLICATION OR THE APPLICATION SERVICES.
+G. LIMITATION OF LIABILITY
+THE FOLLOWING PARAGRAPHS DO NOT LIMIT SECTION 10 OF THE QUEBEC CONSUMER PROTECTION ACT, IF SUCH SECTION IS OTHERWISE APPLICABLE. TO THE EXTENT ALLOWED BY LAW AND UNLESS PROHIBITED BY LAW, GM WILL NOT BE LIABLE IN ANY WAY IN CONNECTION WITH THESE TERMS, OR THE APPLICATION OR THE APPLICATION SERVICES FOR ANY INDIRECT, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES OR AMOUNTS FOR LOSS OF INCOME, PROFITS OR SAVINGS ARISING OUT OF OR RELATED TO THESE TERMS, THE APPLICATION OR THE APPLICATION SERVICES. THESE LIMITS AND EXCLUSIONS APPLY EVEN IF GM KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF THE DAMAGES AND WHETHER ARISING BASED ON NEGLIGENCE, TORT OR BREACH OF CONTRACT. TO THE EXTENT THAT ANY COURT FINDS GM LIABLE FOR ANY CLAIM UNDER THESE TERMS AND ALLOWED BY LAW, YOU AGREE THAT GM SHALL ONLY BE LIABLE FOR DIRECT DAMAGES AND THE MAXIMUM DAMAGES FOR ALL CLAIMS IN THE AGGREGATE UNDER THIS AGREEMENT SHALL BE NO GREATER THAN $100.00.
+
+FURTHER, THIRD PARTY PROVIDERS ARE INDEPENDENT CONTRACTORS AND NOT AGENTS OR EMPLOYEES OF GM. TO THE EXTENT PERMITTED BY LAW, GM DOES NOT ASSUME LIABILITY FOR ANY INJURY, DAMAGE, DEATH, LOSS, ACCIDENT, OR DELAY DUE TO AN ACT OR OMISSION OF A THIRD PARTY PROVIDER. TO THE EXTENT PERMITTED BY APPLICABLE LAW, GM SHALL NOT BE RESPONSIBLE FOR ANY THIRD PARTY PROVIDER'S BREACH OF ANY WARRANTY INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, NON-INFRINGEMENT, OR ACCURACY, NOR SHALL GM BE RESPONSIBLE FOR ANY OTHER BREACH OR WRONGDOING OF A THIRD PARTY PROVIDER (INCLUDING ANY LIABILITY IN TORT), AS TO ANY APPLICATION SERVICES OR INFORMATION AVAILABLE THROUGH THE SERVICES. GM SHALL NOT BE RESPONSIBLE FOR ANY THIRD PARTY PROVIDER’S FAILURE TO COMPLY WITH THIS LICENSE NOR FOR ANY THIRD PARTY PROVIDER’S FAILURE TO COMPLY WITH APPLICABLE FEDERAL, STATE, PROVINCIAL, AND LOCAL LAW. THIS LIMITATION OF LIABILITY SECTION WILL SURVIVE ANY EXPIRATION OR TERMINATION OF THESE TERMS OR YOUR USE OF THE APPLICATION SERVICES.
+
+H. INDEMNITY
+In consideration of GM’s provision of the Application Services to You, to the maximum extent allowable by law and unless prohibited by law, You agree to defend, indemnify and hold harmless GM, and its parent corporation, subsidiaries, officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to legal fees) arising from: (i) your use of and access to the Application Services; (ii) your violation of any term of these Terms; or (iii) your violation of any third party right, including without limitation any copyright, trademark, property, publicity or privacy right. These defense and indemnification obligations will survive any expiration or termination of these Terms and your use of the Application Services.
+
+I. DISPUTES AND ARBITRATION; APPLICABLE LAW
+The following paragraphs I(1) – I(4) do not limit Sections 11.1 and 19 of the Quebec Consumer Protection Act, if such sections are otherwise applicable.
+
+ANY MATTER WE ARE UNABLE TO RESOLVE AND ALL DISPUTES OR CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS, INCLUDING ITS FORMATION, ENFORCEABILITY, PERFORMANCE, OR BREACH (EACH, A “CLAIM”), WITH THE EXCEPTION OF THE INTELLECTUAL PROPERTY MATTERS DESCRIBED BELOW, SHALL BE FINALLY SETTLED BY BINDING ARBITRATION ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION (THE “AAA”) IN ACCORDANCE WITH THE PROVISIONS OF ITS COMMERCIAL ARBITRATION RULES AND THE SUPPLEMENTARY PROCEDURES FOR CUSTOMER-RELATED DISPUTES, EXCLUDING ANY RULES OR PROCEDURES GOVERNING OR PERMITTING CLASS ACTIONS. THE ARBITRATOR, AND NOT ANY FEDERAL, PROVINCIAL, STATE, OR LOCAL COURT OR AGENCY, SHALL HAVE EXCLUSIVE AUTHORITY TO RESOLVE ALL CLAIMS. THE ARBITRATOR SHALL BE EMPOWERED TO GRANT WHATEVER RELIEF WOULD BE AVAILABLE IN A COURT UNDER LAW OR IN EQUITY. THE ARBITRATOR’S AWARD SHALL BE BINDING ON THE PARTIES AND MAY BE ENTERED AS A JUDGMENT IN ANY COURT OF COMPETENT JURISDICTION. THE PARTIES EXPRESSLY WAIVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. THEY FURTHER UNDERSTAND THAT, IN SOME INSTANCES, THE COSTS OF ARBITRATION COULD EXCEED THE COSTS OF LITIGATION AND THE RIGHT TO DISCOVERY MAY BE MORE LIMITED IN ARBITRATION THAN IN COURT.
+ANY ARBITRATION WILL BE CONDUCTED BY THE PARTIES IN THEIR INDIVIDUAL CAPACITIES ONLY AND NOT AS A CLASS ACTION OR OTHER REPRESENTATIVE ACTION, AND THE PARTIES WAIVE THEIR RIGHT TO FILE A CLASS ACTION OR SEEK RELIEF ON A CLASS BASIS. IF ANY COURT OR ARBITRATOR DETERMINES THAT THE CLASS ACTION WAIVER SET FORTH IN THE PRECEDING SENTENCE IS VOID OR UNENFORCEABLE FOR ANY REASON OR THAT AN ARBITRATION CAN PROCEED ON A CLASS BASIS, THEN THE ARBITRATION PROVISIONS SET FORTH UNDER THESE TERMS SHALL BE NULL AND VOID IN ITS ENTIRETY AND THE PARTIES SHALL BE DEEMED TO HAVE NOT AGREED TO ARBITRATE CLAIMS.
+THE RULES GOVERNING THE ARBITRATION MAY BE ACCESSED AT WWW.ADR.ORG OR BY CALLING THE AAA AT +1-800-778-7879. TO THE EXTENT THE INITIAL FILING FEE FOR THE ARBITRATION EXCEEDS THE INITIAL FILING FEE FOR A LAWSUIT, WE WILL PAY THE DIFFERENCE IN FEES.
+THE ARBITRATION SECTIONS ABOVE DO NOT APPLY TO ANY CLAIM (I) IN WHICH A PARTY IS ATTEMPTING TO PROTECT ITS INTELLECTUAL PROPERTY RIGHTS (SUCH AS ITS PATENT, COPYRIGHT, TRADEMARK, TRADE SECRET, OR MORAL RIGHTS, BUT NOT INCLUDING ITS PRIVACY OR PUBLICITY RIGHTS), OR (II) THAT MAY BE BROUGHT IN SMALL-CLAIMS COURT.
+When the Application Services are offered in the United States, these Terms will be governed by and construed under the laws of the United States (including federal arbitration law) and the State of Michigan, without regard to conflicts of laws principles.
+WHEN THE APPLICATION SERVICES ARE OFFERED IN CANADA, THESE TERMS AND ANY DISPUTES ARISING OUT OF OR RELATING TO IT SHALL BE GOVERNED BY THE LAW OF THE PROVINCE OR TERRITORY IN WHICH IT IS ENTERED INTO BY YOU. IF THIS SECTION H (DISPUTES AND ARBITRATION; APPLICABLE LAW) IS HELD TO BE INVALID OR UNENFORCEABLE, THEN FOR ANY CLAIMS THE PARTIES CONSENT TO PERSONAL JURISDICTION AND EXCLUSIVE VENUE IN THE CAPITAL CITY OF THE PROVINCE WHOSE LAWS GOVERN THESE TERMS (AS SET OUT IN THIS SUBSECTION 6), OTHER THAN IN ALBERTA THE VENUE SHALL BE CALGARY AND IN BRITISH COLUMBIA THE VENUE SHALL BE VANCOUVER.
+Limitations on Claims and Survival. The following paragraph does not limit Section 11.1 of the Quebec Consumer Protection Act, if such section is otherwise applicable. To the extent permitted by law and unless prohibited by law, You agree that You must file any arbitration request, claim, or cause of action arising out of or related to access to and/or use of the Application Services or otherwise relating to these Terms within one (1) year after the events giving rise to such request, claim, or cause of action, or You shall be forever barred from filing such request, claim or cause of action. These Terms shall not be subject to the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. The terms set forth in this Disputes and Arbitration; Applicable Law Section of these Terms will survive any expiration or termination these Terms and your use of the Application Services.
+J. UPDATES
+We may update any part of these Terms from time to time in our sole discretion. When changes are made, we will notify you of such changes by any reasonable means, including by posting revised Terms in the Application. We will also update the “Last Updated” date at the top of these Terms. Your continued use of or access to the Application Services constitutes your acceptance of such changes. IF YOU DO NOT AGREE TO COMPLY WITH THESE OR ANY FUTURE TERMS, DO NOT USE OR ACCESS (OR CONTINUE TO USE OR ACCESS) THE APPLICATION SERVICES.
+
+K. COPYRIGHT AND TRADEMARK NOTICES
+All content of the Application is: Copyright ©2023 General Motors LLC and/or its subsidiaries, affiliates or licensors. Content may not be reproduced, distributed, modified or reported without the express written permission of General Motors, LLC.
+
+L. GENERAL
+Except as otherwise provided in these Terms, these Terms apply from the date of your acceptance until the Application Services are cancelled or terminated by you or us as permitted in in these Terms. OnStar Guardian Members without any additional OnStar service plans may cancel the Application Services by navigating to the settings menu in the Application. OnStar Members with an OnStar service plan with an OnStar Guardian add-on may only cancel the Application Services by contacting us at 1.888.4.ONSTAR at any time. Members cannot cancel Application Services simply by uninstalling the Application from their Device. That Member does not have to cancel any other active service plan he or she may have at the same time unless he or she chooses to do so. The Application Services will no longer be provided to the other members of the “My Family” group if we or the OnStar Member with the OnStar Guardian service plan (or OnStar Guardian service plan add-on) cancels the OnStar Guardian service plan (or OnStar Guardian service plan add-on).
+
+These Terms for OnStar Guardian and any other legal notices published by GM on the Application or through the Application Services constitute the entire agreement between you and GM concerning the Application and Application Services. If any provision of these Terms is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms, which shall remain in full force and effect. No waiver of any term of these Terms shall be deemed a further or continuing waiver of such term or any other term, and GM’s failure to assert any right or provision under these Terms shall not constitute a waiver of such right or provision. These Terms, and any rights and licenses granted in these Terms, may not be transferred or assigned by you but may be assigned by GM without restriction.
+
+For further details and limitations, or if you have any other questions, comments or complaints regarding the Application Services, feel free to contact us at any time by pressing the blue OnStar button within the Application, emailing us at TTY@OnStar.com, mailing us at OnStar Subscriber Services at either PO Box 1027, Warren, MI 48090-1027 or PO Box 455, Station A, Windsor, ON N9A 6L7, or calling us at 1.888.4.ONSTAR (1.888.466.7827), or for TTY users (hearing/speech impaired): 1.877.248.2080.
+
+The parties hereto confirm that it is their wish that these Terms, as well as all other documents relating hereto, including all notices, have been and shall be drawn up in the English language only. Les parties aux présentes confirment leur volonté que cette convention, de même que tous les documents, y compris tout avis, qui s’y rattachent, soient rédigés en langue anglaise.
+
+Additional User Terms
+Texting User Terms
+
+ONSTAR CONSOLIDATED SMS POLICY (“TEXTING POLICY”) 
+This “Texting Policy” applies to your use of OnStar text message programs (collectively "Texting Services") provided by OnStar (in the United States, OnStar, LLC; in Canada, General Motors of Canada Company) (“us”, “our” and “we”), and together with any other terms and conditions that apply, constitutes a legally binding agreement between you and us. By using Texting Services, you agree to this Texting Policy.
+
+SUPPORTED CARRIERS. Texting Services are available on most carriers in the United States and Canada (which may change at any time without notice to you), including: T-Mobile, AT&T, Verizon Wireless, Sprint, DTC Wireless, U.S. Cellular Corp, Boost Mobile, Virgin Mobile USA, Iowa Wireless, Metro PCS, ACS Wireless, West Central Cellular, NTELOS, Bluegrass Cellular, Plateau Wireless, Cellular South d.b.a. C Spire, Carolina West Wireless, Appalachian Wireless, Immix Wireless/Keystone Wireless, Cellcom, Cellular One of East Central / ECIT (East Central Illinois), GCI / Alaska Digitel, Inland Cellular, Illinois Valley, Nex-Tech, United Wireless, Chat Mobility, NW Missouri Cellular, Cablevision, MTPCS (Cellular One), Thumb Cellular, Viaero Wireless, AIO Jasper, PTCI (Panhandle Wireless), Flat Wireless, Union Wireless, Copper Valley, SouthernLINC Wireless, SRT Wireless, Mid-Rivers Communications (aka Cable & Cellular Communications, LLC), MobileNation/SI Wireless, MTA, Duet IP, Mobi PCS, Peoples Wireless, Epic Touch, Mosaic, Pioneer Cellular, UBET, South Central Utah, Gold Star Communications, All West Communications, Farmers Mutual Telephone, CTC Telecom, Eagle Telephone System, Nucla-Naturita Tel, Syringa Wireless, Manti Tel, Pine Cellular, Republic Wireless, Google Voice, Chariton Valley Wireless, Nemont Sagebrush Cellular, Leaco Rural Telephone Coope, CellularOne (of North East Arizona), Roger Wireless, Fido, Chatr, Cityfone, Telus Mobility, Koodo Mobile, Public Mobile, Bell Mobility, Virgin Mobile, Bell MTS, Freedom Mobile, Vidéotron Mobile, SaskTel Mobility, Eastlink Wireless, Ice Wireless, Sugar Mobile, Tbaytel Mobility, Lynx Mobility, Keewaytinook Mobile, Sogetel, ECOTEL, Xplornet. Other carriers and phone numbers outside of the United States and Canada are not currently supported.
+
+MESSAGING AND DATA RATES APPLY. Messaging and data rates apply in connection with your use of Texting Services. You are responsible for any applicable charges to your wireless account when you opt-in for Texting Services.
+
+TO OPT-IN TO RECEIVE MARKETPLACE RELATED PROMOTIONAL TEXT MESSAGES. You may receive Marketplace related promotional text message offers by consenting online or texting “IN”, "Y", or “Yes” to 69297 to opt-in. By texting 69297 from your mobile number, you authorize us or those acting on our behalf to send marketing text messages using an automatic telephone dialing system to your mobile telephone number provided to us. This is not required as a condition to conduct business with us.
+
+When you opt-in by texting “IN”, "Y", or “Yes” to 69297, you are also confirming that you are able to receive and review this Texting Policy and print or electronically retain a copy for your records. If you are not the primary account holder for the mobile telephone that you are using to enroll for Texting Services, you confirm that you are authorized to, and do, consent on behalf of the account holder to receive messages.
+
+TO OPT-IN TO RECEIVE ONSTAR PROMOTIONAL TEXT MESSAGES. You may receive promotional text message offers by consenting online or texting “IN”, “Y”, or “Yes” to 667827 to opt-in. By texting 667827 from your mobile number, you authorize us or those acting on our behalf to send marketing text messages using an automatic telephone dialing system to your mobile telephone number provided to us. This is not required as a condition to conduct business with us.
+
+When you opt-in by texting “IN”, “Y”, or “Yes” to 667827, you are also confirming that you are able to receive and review this Texting Policy and print or electronically retain a copy for your records. If you are not the primary account holder for the mobile telephone that you are using to enroll for Texting Services, you confirm that you are authorized to, and do, consent on behalf of the account holder to receive messages.
+
+TO OPT-IN TO RECEIVE THEFT ALERT TEXT MESSAGES IN THE UNITED STATES. You may receive vehicle theft and other related text message alerts, by consenting online or texting “IN”, “Y”, or “Yes” to 66041 to opt-in. By texting 66041 from your mobile number, you authorize us or those acting on our behalf to send non-marketing text messages using an automatic telephone dialing system to your mobile telephone number provided to us. This is not required as a condition to conduct business with us.
+
+When you opt-in by texting “IN”, “Y”, or “Yes” to 66041, you are also confirming that you are able to receive and review this Texting Policy and print or electronically retain a copy for your records. If you are not the primary account holder for the mobile telephone that you are using to enroll for Texting Services, you confirm that you are authorized to, and do, consent on behalf of the account holder to receive messages.
+
+TO OPT-IN TO RECEIVE THEFT ALERT TEXT MESSAGES IN CANADA. You may receive vehicle theft and other related text message alerts, by consenting online or texting “IN”, “Y”, or “Yes” to 30400 to opt-in. By texting 30400 from your mobile number, you authorize us or those acting on our behalf to send non-marketing text messages using an automatic telephone dialing system to your mobile telephone number provided to us. This is not required as a condition to conduct business with us.
+
+When you opt-in by texting “IN”, “Y”, or “Yes” to 30400, you are also confirming that you are able to receive and review this Texting Policy and print or electronically retain a copy for your records. If you are not the primary account holder for the mobile telephone that you are using to enroll for Texting Services, you confirm that you are authorized to, and do, consent on behalf of the account holder to receive messages. 
+
+TO OPT-IN TO RECEIVE IN CASE OF EMERGENCY ALERT TEXT MESSAGES IN THE UNITED STATES. You may receive in case of emergency (ICE) alerts and other related text message alerts, by consenting online or texting “IN”, “Y”, or “Yes” to 866.667.8275 to opt-in. By texting 866.667.8275 from your mobile number, you authorize us or those acting on our behalf to send non-marketing text messages using an automatic telephone dialing system to your mobile telephone number provided to us. This is not required as a condition to conduct business with us.
+
+When you opt-in by texting “IN”, “Y”, or “Yes” to 866.667.8275, you are also confirming that you are able to receive and review this Texting Policy and print or electronically retain a copy for your records. If you are not the primary account holder for the mobile telephone that you are using to enroll for Texting Services, you confirm that you are authorized to, and do, consent on behalf of the account holder to receive messages. 
+
+TO OPT-IN TO RECEIVE VEHICLE LOCATE ALERT TEXT MESSAGES IN THE UNITED STATES. You may receive vehicle locate and other related text message alerts, by consenting online or texting “IN”, “Y”, or “Yes” to 63628 to opt-in. By texting 63628 from your mobile number, you authorize us or those acting on our behalf to send non-marketing text messages using an automatic telephone dialing system to your mobile telephone number provided to us. This is not required as a condition to conduct business with us.
+
+When you opt-in by texting “IN”, “Y”, or “Yes” to 63628, you are also confirming that you are able to receive and review this Texting Policy and print or electronically retain a copy for your records. If you are not the primary account holder for the mobile telephone that you are using to enroll for Texting Services, you confirm that you are authorized to, and do, consent on behalf of the account holder to receive messages.
+
+TO OPT-IN TO RECEIVE VEHICLE LOCATE ALERT TEXT MESSAGES IN CANADA. You may receive vehicle locate and other related text message alerts, by consenting online or texting “IN”, “Y”, or “Yes” to 30500 to opt-in. By texting 30500 from your mobile number, you authorize us or those acting on our behalf to send non-marketing text messages using an automatic telephone dialing system to your mobile telephone number provided to us. This is not required as a condition to conduct business with us.
+
+When you opt-in by texting “IN”, “Y”, or “Yes” to 30500, you are also confirming that you are able to receive and review this Texting Policy and print or electronically retain a copy for your records. If you are not the primary account holder for the mobile telephone that you are using to enroll for Texting Services, you confirm that you are authorized to, and do, consent on behalf of the account holder to receive messages.
+
+TO OPT-IN TO RECEIVE DATA USAGE, EV CHARGE, DIAGNOSTIC AND PROACTIVE TEXT ALERT MESSAGES IN THE UNITED STATES. You may receive data usage, electric vehicle charge and other related text message alerts, by consenting online or texting “IN”, “Y”, or “Yes” to 47268 to opt-in. By texting 47268 from your mobile number, you authorize us or those acting on our behalf to send non-marketing text messages using an automatic telephone dialing system to your mobile telephone number provided to us. This is not required as a condition to conduct business with us.
+
+When you opt-in by texting “IN”, “Y”, or “Yes” to 47268, you are also confirming that you are able to receive and review this Texting Policy and print or electronically retain a copy for your records. If you are not the primary account holder for the mobile telephone that you are using to enroll for Texting Services, you confirm that you are authorized to, and do, consent on behalf of the account holder to receive messages.
+
+TO OPT-IN TO RECEIVE DATA USAGE, EV CHARGE, DIAGNOSTIC AND PROACTIVE TEXT ALERT MESSAGES IN CANADA. You may receive data usage, electric vehicle charge and other related text message alerts, by consenting online or texting “IN”, “Y”, or “Yes” to 30200 to opt-in. By texting 30200 from your mobile number, you authorize us or those acting on our behalf to send non-marketing text messages using an automatic telephone dialing system to your mobile telephone number provided to us. This is not required as a condition to conduct business with us.
+
+When you opt-in by texting “IN”, “Y”, or “Yes” to 30200, you are also confirming that you are able to receive and review this Texting Policy and print or electronically retain a copy for your records. If you are not the primary account holder for the mobile telephone that you are using to enroll for Texting Services, you confirm that you are authorized to, and do, consent on behalf of the account holder to receive messages.
+
+TO OPT OUT, TEXT "STOP".  You may opt out of ... 
+
+OnStar initiated Marketplace related promotional text messages at any time by texting "STOP" to 69297. 
+OnStar initiated promotional text message offers at any time by texting "STOP" to 667827. 
+OnStar initiated vehicle theft alerts in the United States at any time by texting "STOP" to 66041. 
+OnStar initiated vehicle theft alerts in Canada at any time by texting "STOP" to 30400. 
+OnStar initiated ICE alerts in the United States at any time by texting "STOP" to 866.667.8275. 
+OnStar initiated vehicle locate alerts in the United States at any time by texting "STOP" to 63628. 
+OnStar initiated vehicle locate alerts in the Canada at any time by texting "STOP" to 30500. 
+OnStar initiated data usage, EV charge, diagnostic and proactive messages in the United States at any time by texting "STOP" to 47268. 
+OnStar initiated data usage, EV charge, diagnostic and proactive messages in Canada at any time by texting "STOP" to 30200. 
+If you prefer to opt out of other offerings or by using other methods, we encourage you to change your text message preferences through our digital services (MyGMC, MyBuick, MyCadillac, MyChevrolet or OnStar.com (for the United States) or OnStar.ca (for Canada) or contact us by pressing your blue button, calling us at (888) 466-7827, or mailing your request to OnStar Subscriber Services, ATTN: Revocation of Consent, P.O. Box 1027, Warren, MI 48090-1027. If you are in Canada, you can mail your request to OnStar Subscriber Services, PO Box 455, Station A, Windsor, ON N9A 6L7. You acknowledge and agree that your request will be deemed revoked when received and processed and we will be unable to process your request if you fail to provide correct telephone number(s).
+
+SELLING YOUR VEHICLE OR GETTING A NEW PHONE NUMBER? TELL US. You agree that if you sell your vehicle, cancel your phone plan or change your phone number, you will immediately unsubscribe. This is important so we don't keep sending text messages for a vehicle you no longer own or keep sending text messages to someone who has been reassigned your old telephone number.
+
+OUR RIGHT TO TERMINATE. We reserve the right to unilaterally suspend or terminate Texting Services, in our sole discretion, and without any prior notice to you.
+
+CHANGES TO TEXTING POLICY. We may revise this Texting Policy at any time by updating this posting. If you are enrolled in Texting Services, we will send a text message to note that the Texting Policy has been amended. If you continue to use the Texting Services following such notice, you thereby agree to the amended Texting Policy. Your sole remedy if you do not agree with a revised Texting Policy is to opt out.
+
+CHANGES TO SHORT CODES. We reserve the right to change and consolidate associated short codes. If you do not agree to receive text messages from new short codes, your sole remedy is to opt out.
+
+CONTACT US. If you have additional questions about our Texting Services, you can press your blue button or contact us at (888) 466-7827.
+
+Last Updated: August 2020. 
+
+Third Party Terms and Conditions
+
+Third-party terms and conditions
+Female OnStar Advisor with Headset on
+Last updated September 20, 2021
+Certain third-party services or applications you download, that are pre-installed, or which you may sign up for may have separate user terms and privacy statements.  We recommend that you carefully review the user terms and privacy statement of each third-party service or application before using that service or application.
+You may be offered data plans or other services from AT&T that can be used with the connected device in your vehicle. If you are offered a data plan or other services from AT&T (the “AT&T Services”), the following terms and privacy policy will apply to your use of the AT&T Services.
+If you use services that include voice activated point-of-interest searching activated by pressing the blue OnStar button in your vehicle, such services may utilize content provided by Google Inc. that are subject to the following terms and privacy policy.
+
+User Terms for Themes App
+
+User Terms for Themes App
+Female OnStar Advisor with Headset on
+Last updated June 2023  
+This application (“App”) is provided by General Motors Holdings LLC and its affiliates (“GM”). The User Terms and Privacy Statement for Connected Vehicle Services, that you agreed to for use of GM’s OnStar services (collectively, the “GM Terms”), apply generally to your use of this App. If you allow others to use this App, please ensure they are aware that these terms apply. 
+
+ 
+
+Certain features, such as curated playlists, may require Spotify.  Spotify app requires active Spotify account and latest version of the Spotify app installed on your vehicle infotainment system. When safe, visit spotify.com/auto on your smartphone, tablet or computer for Spotify terms and to set up an account. Spotify is available on select model year 2018 and newer GM infotainment systems with compatible hardware. Select connected vehicle service plan required to stream audio content. 
+
+ 
+
+The following terms also apply to your use of this App: 
+
+GM may collect information about you and your vehicle when you use this App, such as VIN;
+GM may use collected information, sometimes across devices, for certain purposes, such as to: measure your App activity, remember your preferences, maximize and improve the performance of the App and our products and services, troubleshoot the App and our products or services, and for marketing, including interest based marketing and advertising, and to customize your experience;  
+GM may share this information with third parties and, where required, will obtain necessary consent to do so;
+GM may update this App from time to time without further notice to maintain or enhance its performance, to fix bugs, or to add or remove features. You consent to any such updates; 
+This App is provided on an “as is” and “as available” basis with all warranties, express and implied, disclaimed; and
+GM may suspend or discontinue this App at any time without notice.  
+
+Public Charging User Terms
+
+User Terms for Public Charging
+Female OnStar Advisor with Headset on
+Public Charging Terms
+        These terms (the “Public Charging Terms”) govern your use of the public charging feature in the Application (the “Charging Feature”), which includes the ability to charge your Vehicle at public charging stations and pay GM for those charging sessions with a payment method you have on file in the Application. The Charging Feature is an Application Service. As such, these Public Charging Terms incorporate by reference the User Terms for Application Services (https://www.onstar.com/content/dam/onstar/na/us/en/index/legal/user-terms-for-applications-servies/02-pdfs/user-terms-for-application-services.pdf) and the User Terms for Connected Vehicle Services (https://www.onstar.com/legal/user-terms) (each of which are available at onstar.com/legal), (collectively, the “User Terms”). Together, these Charging Feature Terms and the User Terms are binding between you and us and govern your access and use of the Charging Feature. In the event of a conflict between these Public Charging Terms and the User Terms, these Public Charging Terms will control. Capitalized terms used but not defined in these Public Charging Terms have the meanings set forth in the User Terms.
+
+        Tesla’s station and charger policies also apply when you use the Charging Feature, when you visit a Tesla station, or when you use a Tesla Supercharger (the “Tesla Policies”). The Tesla Policies may be found at https://www.tesla.com/legal/terms.
+
+        We may modify any part of the Public Charging Terms at any time by giving you notice or by posting an updated version of these Public Charging Terms through the Application. Your continued use of the Charging Feature after any modification of the Public Charging Terms represents your agreement to be bound by the Public Charging Terms as updated.
+
+ 
+
+        Connected vehicle services are required to use the Charging Feature in the Application.                    
+
+Your OnStar Subscription and GM PublicCharging Payment Methods
+To use the Charging Feature, you must maintain at least one valid payment method on file in the Application and designate that payment method as your payment method of choice for use with the Charging Feature. 
+The payment method you select to use with the Charging Feature must be the same as the payment method you use to pay for any OnStar subscription or recurring paid plan. If you select a new payment method for the Charging Feature when you sign up to use the Charging Feature, GM will also use that payment method for any recurring OnStar subscription payments you may have. 
+If you change your OnStar subscription payment method in the future, the new OnStar subscription payment method will be added to your saved payment methods in the Application and will be used as your designated payment method with the Charging Feature.
+Charging Feature Fees and Charges
+By charging your Vehicle at a participating public charging location, you agree to pay all applicable fees associated with that charging station session, including but not limited to the following fees: energy fees, idle fees, and congestion fees. You may incur idle fees or congestion fees for the time your Vehicle remains parked in a charging stall or connected to a charging station after it is finished charging.
+You authorize us or our payment processor to charge the applicable fees (plus any applicable sales tax) to your designated payment method.  We will place a temporary payment authorization hold on your payment method at the start of each charge session, and will release the authorization when your charge session is complete and successfully paid.
+You will receive an email receipt after you complete charging. 
+Additional Terms for the Charging Feature
+You will only use the Charging Feature for legitimate business or personal purposes, and not for resale.
+We may suspend or terminate your use of the Charging Feature at any time, with or without notice, if you do not comply with these Public Charging Terms.
+We may remove or discontinue the Charging Feature without further notice to you and without liability to you.
+We strongly advise you to use a GM NACS adapter for charging on the NACS public charging network, which adapters have been specifically designed to protect GM EV batteries while charging.  Damage to vehicle components resulting from the installation or use of non-GM approved parts is not covered under the terms of the vehicle warranty and may affect remaining warranty coverage for affected parts.
+Except as set forth in the User Terms or as required by applicable law, GM will not be liable for any damage or loss suffered as a result of your use of the Charging Feature, a public charging station, or GM’s payment process.
+ 
+
+For questions or comments regarding the Charging Feature, you may contact the GM EV Concierge at (833) 64POWER. 
+
+
+User Terms for Connected Vehicle Services
+Last Updated: May 1, 2018
+These User Terms are between You and General Motors Holdings LLC and its affiliates (“GM” or “us” or “we”), They apply to your use of the connected vehicle services we make available to You from time to time as defined below (the “Services”). THESE USER TERMS ARE LEGALLY BINDING. Capitalized terms are defined below in Section 3.
+
+ 
+
+Summary of User Terms
+
+ 
+
+When You accept the User Terms during our sign-up process or when You access or use the Services, You agree to the following:
+
+You will only use the Services when it is safe to do so, and You will only use them in compliance with the law and these User Terms;
+If others use the Services through your user account or Vehicle, You will ensure that they only use the Services when it is safe to do so, and in compliance with the law and these User Terms;
+We may suspend or discontinue your access to some or all of the Services;
+We may remotely access, deliver, install, update, or change the software used to deliver the Services or used by your Vehicle systems without additional notice or consent;
+You will notify us when You want to cancel your Services or when You plan to sell or dispose of your Vehicle;
+We have certain rights to use and share the information or materials You provide us, as defined in these User Terms;
+If You access or use any third party products or services, the terms associated with those third party products or services will also apply, and You will not hold GM responsible for your access or use of those third party products or services;
+The Services are provided “AS IS” and are limited by matters outside our control. Unless expressly provided in these User Terms, we make no representations or warranties about the Services or for their availability, and we are not liable for the use or any lack of availability of the Services;
+If a dispute arises, You will resolve it through individual arbitration;
+We may modify these User Terms at any time and the modifications will be effective when posted on our Website or when we notify You, whichever occurs first; and
+You are bound by the complete Agreement as defined below, including the User Terms, the Privacy Statement, the License, and, for any AT&T Services that You use, the AT&T Terms.
+ 
+
+THESE TERMS OF USE INCLUDE AN AGREEMENT TO MANDATORY ARBITRATION, WHICH MEANS THAT YOU AGREE TO SUBMIT ANY DISPUTE RELATED TO THE SERVICES, THESE TERMS OF USE OR THE PRIVACY STATEMENT TO BINDING INDIVIDUAL ARBITRATION RATHER THAN PROCEEDING IN COURT.
+
+ 
+
+THE DISPUTE RESOLUTION PROVISION ALSO INCLUDES A CLASS ACTION WAIVER, WHICH MEANS THAT YOU AGREE TO PROCEED WITH ANY DISPUTE INDIVIDUALLY AND NOT AS PART OF A CLASS ACTION.
+
+ 
+
+THESE TERMS AND CONDITIONS ALSO INCLUDE A JURY WAIVER.
+
+ 
+
+MORE INFORMATION ABOUT THE ARBITRATION AND CLASS ACTION WAIVER CAN BE FOUND IN SECTION 28.9 (DISPUTES; BINDING INDIVIDUAL ARBITRATION; CLASS ACTION AND JURY TRIAL WAIVER.) BELOW.
+
+ 
+
+User Terms – Connected Vehicle Services
+
+1. Agreement to Terms. When You accept the User Terms during our sign-up process or when You access or use the Services, You are indicating that You have read, understand, and agree to be bound by these User Terms and the other terms, policies, guidelines, and processes they refer to (collectively, the “Agreement”) which include:
+
+the User Terms;
+the Privacy Statement (as referred to in Section 26);
+the License (as set forth in the Appendix to these User Terms);
+the AT&T Terms (if You purchase services from AT&T); and
+other terms, guidelines, policies, or procedures that we post on the Website or communicate through your Connected Device.
+ 
+
+If You do not agree with any of these terms, then You should decline these User Terms during our sign-up process or other methods we make available to You. You are not permitted to access or use any of the Services if You do not agree to be bound by the Agreement.
+
+ 
+
+2. Safety. You must obey all laws, traffic rules, and traffic regulations governing the operation of your Vehicle and use of your Connected Device(s), and You will not access and/or use any Service or Connected Device in a manner that violates any law, rule, or regulation. Without limiting the foregoing, it is your sole responsibility to exercise discretion and observe all safety measures required by law, traffic rules, and traffic regulations while accessing and/or using the Services and Connected Devices. Access to and/or use of the Services and Connected Devices are at your sole risk and your sole responsibility and the Services and Connected Devices should be accessed and/or used only when You can safely operate them.
+
+ 
+
+3. Some Definitions.
+
+“AAA” is defined in Section 28.9;
+“Agreement” is defined in Section 1;
+“AT&T” means AT&T Mobility LLC;
+“AT&T Services” are defined in Section 4;
+“AT&T Terms” are defined in Section 4;
+“Claim” is defined in Section 28.9;
+“Connected Device” means a device compatible with the Systems or Services that we install in your Vehicle or that we authorize for use in connection with the Services;
+“Feedback” is defined in Section 25;
+“Fleet” means a group of Vehicles that are maintained, owned or leased by a third-party business or other entity and not by an individual or family. For example, a rental car provided to You by a rental car company or a Vehicle made available to You by an employer that maintains multiple vehicles for employee use is often part of a Fleet;
+“Fleet Company” is the company that owns, leases, or manages a Fleet;
+“GPS” is defined in Section 15.1;
+“GM Persons” is defined in Section 19
+“Marks” is defined in Section 23;
+“PDF” is defined in Section 28.4;
+“Permitted User” is defined in Section 17;
+“Services” means the connected vehicle services that we make available to You from time to time, as further described in Section 4 and on the Website;
+“Software” is defined in Section 17;
+“Systems” is defined in Section 17;
+“Third Party Services” means services made available to You by a third party;
+“Vehicle” means the automotive vehicle through which we make Services available;
+“Website” means the website we operate with the landing page located at onstar.com or other sites that onstar.com directs You to;
+“Wireless Service Providers” means third parties that make wireless services available to You in connection with the Services, such as AT&T; and
+“You” means each person accessing or using the Services.
+ 
+
+4. Service Details. Our Website describes the available Services, including instructions for Service setup and operation, and any further terms, privacy statements, pricing, conditions, and limitations of the Services. We may add, change, or remove Services from time to time, as described on the Website or other notices we make available to You. You may cancel the Services at any time, as described in Section 6 below. Here are some highlights of Services that may be available to You:
+
+ 
+
+Services offered at no additional fee: Services may be offered to You at no additional fee for a defined period of time, such as a trial of a data plan for one or more months, the Basic Plan for up to five years, or the Connected Access Plan for up to ten years. Following that defined period of time, those Services will end unless we mutually agree to extend them;
+
+ 
+
+Services offered for an additional fee: Services may be offered to You for an additional fee, such as a monthly subscription to our Remote Access Plan or to AT&T’s unlimited data plan, or a one time purchase of our Remote Access Plan or an AT&T data plan for a fixed period of time;  
+
+ 
+
+Vehicle Health Monitoring: Services may be available for your Vehicle that collect data from your Vehicle systems and provide You or your dealer with diagnostic and prognostic notifications, such as vehicle diagnostic services or vehicle health maintenance services that we may deliver to You. These Services may not monitor all of your Vehicle systems and do not report all conditions that may affect the operation of your Vehicle. For example, conditions occurring while your Vehicle is off or conditions that develop rapidly may not be reported using these Services;
+
+ 
+
+Apps: Services may be available to You that allow You to download or use applications through your Systems, including services offered through those applications and updates or upgrades to those applications and services (collectively referred to as “Apps”). An App may be offered by us or by third parties identified at the time You download or use the App. In addition to the terms of the Agreement, access and use of each App is subject to the End User License Agreement (the “License”) attached to these User Terms, and to any additional terms presented when You access or use the App. Please refer to each App for details on the specific features and services that are available through that App; and
+
+ 
+
+Data Plan: You may be offered data plans or other services from AT&T or other Wireless Service Providers that can be used with the Connected Device in your Vehicle. If You are offered a data plan or other services from AT&T (the “AT&T Services”), then in addition to the terms of this Agreement, the following terms and privacy policy will apply to your use of the AT&T Services (the “AT&T Terms”): www.att.com/USTermsandconditions. The AT&T Terms apply solely to the AT&T Services, and not to any other of the Services. In the event of a conflict between the AT&T Terms and the terms of this paragraph, the preceding sentence will govern.
+
+ 
+
+5. Payment. If You have a credit card, debit card, bank account or similar payment account on file with us (collectively, “Payment Account”), we will automatically charge it monthly according to the terms of your authorization if You have not otherwise pre-paid for Services You have requested. If your billing cycle falls on a weekend or holiday, we may charge you the next business day. In the event your payment is returned for insufficient or uncollected funds, you authorize us to resubmit except as otherwise provided by the ACH Rules or applicable law. Payment processing fees associated with your Payment Account, such as currency conversion fees, insufficient fund fees, reversal fees, or overdraft fees are your responsibility and will not be reimbursed by us.  You may update your Payment Account or cancel your authorization at any time by pressing the blue OnStar button in your Vehicle or by calling us at 1-888-4-OnStar. Once You place your Payment Account on file with us, we may receive automatic updates of that account information from the financial institution for that account in order to keep that payment information current. For your convenience, we may link your Payment Account with your Vehicle or Apps offered by us to help facilitate your purchases through your Connected Device or your Vehicle. Applicable fees for the Services, if any, must be paid in advance unless the Service offer expressly states otherwise. If You do not have a Payment Account on file with us You must provide us with payment monthly (or other payment period offered by us and chosen by You) in advance. The price of the Services may change over time, and we will charge the prices then in effect for the applicable payment period. You will be notified of any price increase applicable to Services You are paying for, so that You can cancel the Service if You do not wish to pay the higher price. The purchase or lease price of your Vehicle may have included a trial period for some of the Services, or we may otherwise offer You a trial period for some of the Services. If so, those Services will stop automatically without further notice at the end of the trial period, unless You elect to continue the Services and agree to pay the associated fees. If You elect to continue the Services and agree to pay the associated fees, we will automatically charge those fees to the payment method associated with your account according to the terms of your authorization.
+
+ 
+
+6. Your Right to Cancel the Services at any Time. Your Right to Cancel the Services at any Time. This Agreement applies from the date of your acceptance until the Services are cancelled or terminated by You or us as permitted in this Agreement. You may cancel the Services at any time. To cancel the Services, You may call us at 1-888-4-OnStar or You may press the blue OnStar button in your Vehicle and inform the advisor that You want to cancel the Service. You must also contact us in this manner if You wish to sell or transfer your Vehicle. We will refund any unused whole months and remaining days of Services that You have paid in advance unless (a) the payment was included in the purchase or lease price of your Vehicle or (b) the terms of the applicable Services (or the applicable Third Party Services) dictate otherwise. You won’t be entitled to any other refunds for the Services. If You cancel the Services and later wish to reactivate the Services, You may be required to pay reactivation fees. You can also call us at 1-888-4-OnStar or press the blue OnStar button in your Vehicle at any time to get instructions on how to disable the Services in your Vehicle.
+
+ 
+
+7. Our Right to Terminate the Services. To the extent permitted by law and unless prohibited by law, we reserve the right to terminate your participation in or access to the Services and this Agreement if, in our sole judgment, You have violated this Agreement. For example, we may terminate this Agreement immediately if: (i) You breach any obligation of this Agreement; (ii) any person or party acting by, through, for, or in concert with You takes any action inconsistent with this Agreement; (iii) You engage in, encourage, or participate in any unlawful, deceitful or fraudulent conduct in any way relating to this Agreement or any of the Services; or (iv) You do not agree with modifications to this Agreement as we may make available to You.
+
+ 
+
+8. Additional Termination Rights; Effect of Termination. In addition to other termination rights provided in this Agreement, we may terminate this Agreement at any time by giving you thirty (30) days prior written notice. We are not liable to You for termination or expiration of this Agreement or the discontinuance of any or all of the Services, unless otherwise expressly provided in this Agreement (including the applicable Service terms). Upon termination or expiration of this Agreement, You must immediately stop using the Services and your license to the Software is automatically and immediately terminated. All provisions of this Agreement which by their nature survive termination or expiration, shall survive termination or expiration of this Agreement.
+
+ 
+
+9. Duty to Notify GM Upon Sale or Transfer of Vehicle. You must notify us if You plan to sell or transfer your Vehicle. This is important to help protect your account and your information, and to avoid being charged for Services after your sale or transfer. To notify us, You may call us at 1-888-4-OnStar or press the blue OnStar button in your Vehicle and inform the advisor of your plans.
+
+ 
+
+10. Fleet Vehicles. This Agreement also applies to You if You are the owner, manager, or user of a Fleet that uses any of the Services. When You use the Services or drive a Fleet Vehicle with active Services, You agree to be bound by this Agreement even if You did not buy or lease the Vehicle or order the Services. If You own a Fleet Vehicle, then additional terms and conditions may apply to the Services provided to your Fleet. If those additional terms and conditions conflict with these User Terms, then the additional terms and conditions for fleet services will govern. If You drive a Fleet Vehicle, the Fleet Company may permit You to order additional Services that are not part of the Services provided to the Fleet Company, and You may also have the opportunity to purchase Services for your own personal use. Those Services are also subject to this Agreement. Your Fleet Company may also limit the types of Services that are available to You. The Services provided to a Fleet may be governed by additional terms and conditions and different privacy statements than those applicable to non-Fleet vehicles. Specifically, the Fleet Company may have requested additional data collection or handling practices that differ from those associated with certain Services. You should consult with the Fleet Company if You have questions about any requirements, limitations, or data practices that may apply to your use of the Fleet Vehicle or Services associated with a Fleet Vehicle.
+
+ 
+
+11. Modification to Agreement. We may modify this Agreement by giving You notice or by asking You to read and accept a new version of this Agreement. We may give You notice by posting a new version of the Agreement on the Website. If You do not agree with any modification, then You may not use the Services. Your continued access or use of any of the Services after our notice indicates your acceptance to the modified Agreement.
+
+ 
+
+12. Eligibility. You represent and warrant that You (a) have reached the age of majority in your jurisdiction of residence and have full legal capacity to enter into binding contracts, or (b) are at least 13 years of age and possess legal parental or guardian consent and are fully able and competent to enter into and abide by this Agreement. If You do not satisfy these eligibility requirements, then You should decline this Agreement using the mechanism we make available to You. You are not permitted to use any of the Services until such time as You satisfy these eligibility requirements and agree to all of the terms of the Agreement.
+
+ 
+
+13. No Use of the Services by Children. The Services do not target, through advertising, appearance, links to other sites or otherwise, children under the age of 13. If You are under the age of 13 or are a parent or guardian of a child under the age of 13, please be aware that we do not permit registration by, and do not knowingly collect any information from, children under the age of 13. If You are a parent or guardian of a child under the age of 13, You must not allow them to use, or consent to their registration to use, any of the Services.
+
+ 
+
+14. Registration and Account. You may be required to create an account to use some of the Services. If You create an account, You must:
+
+provide accurate and complete information, and update that information so it remains accurate and complete;
+be solely responsible for your account activity;
+keep your account and password secure and not disclose them to anyone; and
+notify us immediately of any breach of security or unauthorized use of your account using our contact information provided in the “Questions” section at the end of these User Terms.
+Use of the Services is solely for your personal use or your use in connection with a Fleet as permitted in this Agreement. GM will not be liable for any losses resulting from unauthorized access to or use of the Services or your account. However, You may be liable to GM or other parties due to such unauthorized access or use.
+
+ 
+
+15. Service Limitations.
+
+ 
+
+15.1 The Services are only available in the continental United States, Alaska, Hawaii, and Canada. The Services rely on wireless communication networks and the Global Positioning System (“GPS”) satellite network. NOT ALL SERVICES ARE AVAILABLE EVERYWHERE, PARTICULARLY IN REMOTE OR ENCLOSED AREAS, OR ON ALL VEHICLES, AT ALL TIMES. The area You are driving in may affect the Services that we can provide to You, including routing services.
+
+ 
+
+15.2 The Services are only available in places where we have retained a Wireless Service Provider for Service in that area and only if the Wireless Service Provider has technical compatibility with the Connected Device, coverage, network capacity, and reception when and where the Service is needed. Services that use location information about your Vehicle only work if GPS satellite signals are unobstructed, available in that place and compatible with your Vehicle systems. Any stolen vehicle assistance services that may be included with the Services are solely intended to provide assistance in notifying You or authorities of potential theft and to potentially aid in vehicle recovery. These Services do not prevent vehicle or vehicle content theft or protect against damage or loss. We are not responsible for any losses or other harm You may incur in connection with vehicle theft.
+
+ 
+
+15.3 YOUR VEHICLE MUST HAVE A WORKING ELECTRICAL SYSTEM (INCLUDING ADEQUATE BATTERY POWER) FOR THE SERVICES TO OPERATE.
+
+ 
+
+15.4 The Services may not work if:
+
+equipment on your Vehicle is not properly installed;
+You have not maintained the equipment or your Vehicle in good working order;
+You do not comply with all applicable laws;
+You try to add, connect or modify any equipment or software in your Vehicle (such as plugging devices into the Vehicle electrical system or diagnostic port);
+your Vehicle is not compatible with the Services or the wireless service and technology provided by our Wireless Service Providers (this wireless service and technology is subject to change); or
+other problems arise that we cannot control that interfere with the delivery or quality of the Services, such as hills, tall buildings, tunnels, weather, electrical system design and architecture of your Vehicle, damage to important parts of your Vehicle in an accident, or wireless phone network congestion or jamming.
+ 
+
+15.5  We and the Wireless Service Providers are not responsible for any delay or failure in performance that (a) may have been prevented by You taking reasonable precautions or (b) is caused by acts of nature, or forces or causes beyond our reasonable control (for example: public utility electrical failure, acts of war, government actions, terrorism, civil disturbances, labor shortages or difficulties - regardless of cause-or equipment failures including Internet, computer, telecommunication or other equipment failures).
+
+ 
+
+15.6 The routing data we provide is based on the most current map information available to us, but the information may be inaccurate or incomplete. For example, the route data may not include information about one-way roads, turn restrictions, construction projects, seasonal roads or new roads. The suggested route may use a road that is closed for construction or a turn that is prohibited by signs at the intersection. Suggested routes also do not consider whether the areas traveled are residential, commercial, or mixed and do not factor in the availability of public or private goods and services. Therefore, You should use good judgment, obey traffic and roadway laws and instructions and evaluate whether following the routing data provided through the Services is safe and legal based on the current conditions.
+
+ 
+
+15.7 We recommend that You carefully read the applicable terms and policies that make up this Agreement, including our Privacy Statement, before using the Services. If You use Third Party Services, You acknowledge that the applicable terms of service made available by that third party is a binding agreement solely between You and that third party, and not between You and us, and that we are acting solely as an intermediary between You and that third party. We are not responsible for the terms of service made available by such third party, including any Wireless Service Provider, and we have no obligations or liabilities under those terms of service.
+
+ 
+
+15.8 We are not obligated to provide any maintenance or support for the Services, technical or otherwise. If we provide any maintenance or support for the Services, we may stop any such maintenance, support, or services at any time.
+
+ 
+
+16. Other Users. This Agreement applies to all users of your Connected Device. You are responsible and liable for all activities of users of your Connected Device, including all access to or use of the Services. Without limiting the foregoing, it is your responsibility to:
+
+ 
+
+inform other users of your Connected Device that their access to and use of the Services is subject to this Agreement;
+
+ 
+
+inform other users of the privacy statements that apply to the use of Services; and
+
+ 
+
+ensure that other users of your Connected Device comply with the applicable terms of this Agreement.
+
+ 
+
+17. Software Updates; Suspension or Removal of the Services. You consent to GM and your Vehicle manufacturer accessing the systems associated with your Connected Device and your Vehicle (the “Systems”) for the following purposes:
+
+ 
+
+Software Updates. Your Systems involve software, data, Apps and related settings that GM or your Vehicle manufacturer makes available to You (such items collectively referred to as “Software”). The Software is licensed, not sold to You, and may need to be updated or changed from time to time. You agree that GM may remotely access, deliver, install, update or change Software (such actions collectively referred to as “Updates”) without any further notice or consent. For example, these Updates may enhance safety or security, or may maintain the proper operation of your Vehicle. These Updates may affect or erase data that You have stored in your Vehicle (such as OnStar hands free calling name tags, saved navigation destinations, or pre-set radio stations). We are not responsible for any affected or erased data due to an Update. Our Wireless Service Providers, such as AT&T, will not deliver software updates to your Vehicle. In the event of a conflict between the AT&T Terms relating to software updates and the terms of this paragraph, the terms of this paragraph will govern;
+
+Suspension. We may be required from time to time to suspend or limit your access to or use of the Services without further notice to You and without liability to You, to address system issues, issues with your account, or other issues that may impact the performance, enjoyment, or security of the Services;
+Removal. Unless otherwise provided in this Agreement we may remove or discontinue the Services or your account without further notice to You, and without liability to You. This may occur as a result of our efforts to refine the Services to address performance degradation, or to address changes in technology, customer interests, regulatory requirements, or business needs;
+Cybersecurity. As part of the Services, for the purpose of protecting your security, your rights, and the security of your Vehicle and the Systems, You agree that we may (i) monitor the Systems in your Vehicle and information within those Systems in accordance with the Privacy Statement, and (ii) implement protective measures within the Systems to defend against security threats;
+Notice and Consent. If we provide further notice or request further consent to an Update (as defined above), the notice or consent may be received or provided by any permitted user of the Vehicle or the Services or Systems (a “Permitted User”) on behalf of You, the Vehicle owner(s), and all Permitted Users. You and the Permitted User receiving or providing that notice or consent are responsible for notifying all other Permitted Users of the provided notice and consent. However, You agree that in any case, we may Update the Software without additional notice or consent; and
+This Agreement will govern any Updates or other changes we make to the Services, Systems, or Software for all Permitted Users.
+ 
+
+18. Your Additional Representations and Obligations. You agree that:
+
+You have the right and authority to enter into this Agreement;
+You will monitor access and use of the Service in connection with your Vehicle or your Connected Device to ensure that, at all times, such access and use is lawful and complies with the Agreement;
+You will provide us with true and accurate information and will keep that information up to date;
+You will be responsible for all costs and expenses, including taxes, losses, and liabilities, incurred in connection with your use of the Services and any activities that You undertake in connection with the Services or with this Agreement in any way;
+Your agreement to and compliance with this Agreement does not violate any of your existing obligations;
+You will access the Services only through your established account;
+You will not attempt to breach any security measures of the Services;
+You will not copy, reproduce, distribute, decompile, reverse engineer, disassemble, remove, alter, circumvent, or otherwise tamper with any security technology, convert to any use not authorized by us or claim ownership in the Services or our or any other party’s information or materials associated with the Services;
+You will not use the Services for any unlawful purpose, to harass any person, or for any purpose not allowed by us;
+You will not remove, modify, or obscure any copyright notices, trademarks, or other proprietary rights notices on or contained in or on any portion of the Services or any information or materials on or obtained from the Services;
+You authorize us and those acting on our behalf to use automatic telephone dialing systems to call, text, and deliver prerecorded or artificial voice messages to any telephone number You provide, such as the telephone number associated with your Vehicle or your Connected Device;
+You will comply worldwide with all local, state, provincial, federal, and national laws, statutes, ordinances, by-laws, and regulations that apply to your use of the Services; and
+You have no property right in any telephone number assigned to your Connected Device and You understand that any such number can be changed from time to time.
+ 
+
+19. Indemnity. In consideration of GM’s provision of the Services to You and the rights granted to You, to the maximum extent allowable by law and unless prohibited by law, You agree to indemnify GM, its parent, subsidiaries, affiliates, licensors, Wireless Service Providers, and contractors as well as their respective employees, officers, directors, and agents (collectively “GM Persons”) and hold GM Persons harmless from and against any and all losses, damages, injuries (including death), causes of action, claims, penalties, interest, additional taxes, demands, and expenses, including reasonable legal fees and expenses, of any kind or nature arising out of or on account of, or resulting from, any third party claim or demand made to or against any GM Person(s): (i) arising out of your access to or use of the Services; (ii) arising out of your failure to comply with this Agreement; (iii) relating to the inaccuracy or untruthfulness of any representation or warranty that You made under this Agreement; (iv) arising out of any activities of anyone other than You in connection with the Services conducted through your account; (v) arising out of access to or use of, or inability to access or use, any of the Services through your Connected Device; or (vi) arising out of any of your other activities under or in connection with this Agreement or the Services.
+
+ 
+
+20. Unauthorized Use or Modification of the Services. You are not granted the right to and You shall not engage in any of the following activities:
+
+transmit any software or other materials that contain any viruses, worms, trojan horses, defects, date bombs, time bombs, spiders, web-bots, screen-scrapers, or web crawlers or other items of a destructive or disruptive nature;
+exploit the Services or Software in any unauthorized way, including by trespass or burdening server or network capacity or infrastructure;
+modify, adapt, sublicense, translate, sell, reverse engineer, decompile, or disassemble any portion of the Services or Software or remove, alter, circumvent, or otherwise tamper with any security technology;
+“frame,” “mirror,” or resell any part of the Services or Software without our prior written authorization; or
+harvest or collect information about users.
+ 
+
+ANY ATTEMPT BY ANY USER OR ANY OTHER INDIVIDUAL OR ENTITY TO DELIBERATELY DAMAGE THE SERVICES OR SOFTWARE OR UNDERMINE THE LEGITIMATE OPERATION OF THE SERVICES OR SOFTWARE IS A VIOLATION OF THIS AGREEMENT. GM RESERVES THE RIGHT TO INVESTIGATE ANY SUSPICIOUS ACTIVITY AND TO TAKE ALL SUCH ACTIONS AGAINST AND OBTAIN SUCH REMEDIES FROM ANY SUCH PERSON TO THE FULLEST EXTENT PERMITTED BY LAW. GM RESERVES THE RIGHT TO DISCLOSE ANY INFORMATION ABOUT YOU, INCLUDING YOUR ACCOUNT AND ACCESS TO AND USE OF YOUR ACCOUNT, TO LAW ENFORCEMENT AS NECESSARY TO ENFORCE THIS AGREEMENT, TO COMPLY WITH ANY COURT ORDER, OR AS PERMITTED IN THE PRIVACY STATEMENT.
+
+ 
+
+21. Intellectual Property. The Services and Software are protected by United States and international copyright laws and may be subject to other intellectual property protections, including patent and trademark rights. You may not copy, distribute, modify, perform, broadcast, display, transmit, reuse, re-post, use (except as expressly set out herein) or claim any right in any aspect of the Services or Software, including the content, text, images, audio, and video without GM’s express, prior written permission.
+
+ 
+
+22. Copyright Infringement Notification. If You or another party (in each case, the “Complaining Party”) believe any content or any other aspect of the Services or Software infringe the Complaining Party’s copyright, the Complaining Party should send written notice of copyright infringement to our designated copyright agent at the address given below. This notice must meet the requirements of the Digital Millennium Copyright Act (as required under 17 U.S.C. §512) by providing the following information:
+
+A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+Identification of the copyrighted work claimed to have been infringed.
+Identification of the material on the Services or Software that is claimed to be infringing, with information reasonably sufficient to allow us to locate the material.
+Information reasonably sufficient to permit us to contact the Complaining Party, such as an address, telephone number and, if available, an electronic mail address at which the Complaining Party may be contacted.
+A statement that the Complaining Party has a good faith belief that use of the material in the matter complained of is not authorized by the copyright owner, its agent or the law.
+A statement that the information in the notification is accurate, and under penalty of perjury, that the Complaining Party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+ 
+
+Such written notification should be sent to:
+
+Copyright Agent,
+
+General Motors Holdings LLC
+
+400 Renaissance Center
+
+Detroit, MI 48265
+
+MC : 482-D24-B48
+
+Phone: 313-667-3544
+
+E-mail: Copyright@gm.com
+
+ 
+
+The Digital Millennium Copyright Act notice may not be valid if the notice fails to comply with all of the requirements of this Section.  For clarity, only Digital Millennium Copyright Act notices should go to the above Copyright Agent. Any other feedback, comments, requests for technical support, and other communications should be directed to GM via the contact information provided in the “Questions” section at the end of this Agreement.
+
+ 
+
+23. Trademarks. Any trademarks, logos, and service marks (collectively “Marks”) displayed in connection with the Services are the registered and/or unregistered trademarks of GM or other third parties. Nothing contained in this Agreement or the Services should be construed as granting, by implication, estoppel, or otherwise, any license or right to use or display any Mark or any variation thereof without the written permission of GM or the other owner thereof. Your use of GM’s Marks is strictly prohibited.
+
+ 
+
+24. Export Compliance. You will comply with all laws and regulations applicable to the Services. You may not use, export, re-export, import, sell or transfer any aspect of the Services except as authorized by United States law and any other applicable laws and regulations. In particular, but without limitation, no aspect of the Services may be exported or re-exported (a) into any U.S. embargoed countries or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Persons List or Entity List. By using the Services, You represent and warrant that You are not located in any such country or on any such list. You also agree that You will not use the Services for any purposes prohibited by United States law, including the development, design, manufacture or production of nuclear, missiles, or chemical or biological weapons.
+
+ 
+
+25. Information and Feedback. Consistent with these User Terms, You may need to provide us information to deliver the Services. We also want your feedback regarding the Services. Any information and materials that You submit in connection with this Agreement (“Feedback”) is, unless otherwise provided in the Privacy Statement, not considered confidential by GM and GM has no obligation to keep the information or materials confidential or to return or destroy any Feedback. Your Feedback is submitted voluntarily and without restriction, and GM is free to use, reproduce, modify, distribute, display, perform, broadcast, sublicense and disclose any Feedback in any manner, in any form or medium, whether now known or hereafter developed, without any obligation, express or implied, to You, without any notification, payment or attribution to You. GM has the right but not the obligation to monitor any Feedback that You submit.
+
+ 
+
+26. Data Collection / Privacy. GM collects, uses, and shares information from and about You and your Vehicle. The GM Privacy Statement describes what GM does with that information. You consent to the collection, use, and sharing of information described in the Privacy Statement and in any revisions to the Privacy Statement, which may be modified as described in that document. If You sell, transfer, lease or dispose of your Vehicle or your Connected Device You are solely responsible for deleting information about You contained in the Vehicle or Connected Device, or in your related account.
+
+ 
+
+27. NO WARRANTY BY GM OR WIRELESS SERVICE PROVIDERS.
+
+27.1 GM AND THE WIRELESS SERVICE PROVIDERS MAKE NO REPRESENTATIONS, CONDITIONS OR WARRANTIES IN RESPECT OF THE SERVICES. THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE” INCLUDING WITH ALL FAULTS AND ERRORS AS MAY OCCUR THEREIN. TO THE EXTENT PERMITTED BY LAW AND UNLESS PROHIBITED BY LAW, GM, ON BEHALF OF ITSELF AND ALL PERSONS AND PARTIES ACTING BY, THROUGH OR FOR GM AND THE WIRELESS SERVICE PROVIDERS, EXPLICITLY DISCLAIM ALL WARRANTIES OR  CONDITIONS, EXPRESS, IMPLIED OR COLLATERAL, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, ACCURACY, NON-INFRINGEMENT, SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE IN RESPECT OF THE SERVICES.
+
+ 
+
+27.2 TO THE EXTENT PERMITTED BY APPLICABLE LAW, GM DOES NOT WARRANT THE OPERATION, PERFORMANCE, OR AVAILABILITY OF THE SERVICES, OR ANY OF GM’S PERFORMANCE OR PROCEDURES IN CONNECTION WITH THE SERVICES OR THIS AGREEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, GM DOES NOT WARRANT THAT THE SERVICES WILL CONTINUE IN EXISTENCE FOR ANY PERIOD OF TIME AND DOES NOT WARRANT THAT FUTURE OPERATION OF THE SERVICES WILL BE COMPATIBLE WITH CURRENT OPERATION OR APPLICATIONS.
+
+ 
+
+27.3 TO THE EXTENT PERMITTED BY APPLICABLE LAW, GM DOES NOT WARRANT OR MAKE ANY CONDITIONS OR REPRESENTATIONS REGARDING THE SUITABILITY, AVAILABILITY, ACCURACY, RELIABILITY, COMPLETENESS, OR TIMELINESS OF ANY DATA OR MATERIAL OF ANY KIND CONTAINED WITHIN THE SERVICES FOR ANY PURPOSE. GM AND THE WIRELESS SERVICE PROVIDERS MAKE NO REPRESENTATIONS THAT THE SERVICES WILL BE FREE FROM LOSS, INTERRUPTION, CORRUPTION, ATTACK, VIRUSES, INTERFERENCE, HACKING OR OTHER SECURITY INTRUSION, AND GM AND THE WIRELESS SERVICE PROVIDERS DISCLAIM ANY LIABILITY RELATING THERETO. GM AND THE WIRELESS SERVICE PROVIDERS DO NOT PROVIDE ANY WARRANTY AS TO THE AVAILABILITY OF THE SERVICES OR THAT THE SERVICES WILL OPERATE WITHOUT INTERRUPTION OR BE ERROR FREE.
+
+ 
+
+27.4 TO THE EXTENT PERMITTED BY APPLICABLE LAW, GM AND THE WIRELESS SERVICE PROVIDERS ARE NOT RESPONSIBLE FOR ANY FAILURES CAUSED BY SERVER ERRORS, MISDIRECTED OR REDIRECTED TRANSMISSIONS, FAILED INTERNET CONNECTIONS, INTERRUPTIONS OR FAILURES IN THE TRANSMISSION OF DATA, ANY COMPUTER VIRUS, ACTS OR OMISSIONS OF THIRD PARTIES THAT DAMAGE THE NETWORK OR IMPAIR WIRELESS SERVICE, DAMAGE OR INJURY CAUSED BY A FAILURE OR DELAY IN CONNECTING A CALL TO ANY ENTITY, INCLUDING 911, OR ANY OTHER EMERGENCY SERVICE, OR OTHER TECHNICAL DEFECT, WHETHER HUMAN OR TECHNICAL IN NATURE.
+
+ 
+
+27.5 GM DOES NOT WARRANT THAT THE SERVICES WILL OPERATE PROPERLY ON YOUR EQUIPMENT AND YOU AND ONLY YOU WILL BE RESPONSIBLE FOR ALL REPAIRS TO YOUR EQUIPMENT AND ANY OTHER LOSSES ACTUALLY OR ALLEGEDLY CAUSED BY THE SERVICES.
+
+ 
+
+27.6 SOME JURISDICTIONS LIMIT OR DO NOT ALLOW THE DISCLAIMER OF IMPLIED OR OTHER WARRANTIES, SO SOME OF THE ABOVE DISCLAIMERS MAY NOT APPLY TO THE EXTENT SUCH JURISDICTIONS’ LAW IS APPLICABLE TO THIS AGREEMENT, IN WHICH CASE GM’S WARRANTIES SHALL BE LIMITED TO THE EXTENT PERMITTED BY LAW.
+
+ 
+
+27.7 LIMITATIONS OF LIABILITY. TO THE EXTENT PERMITTED BY LAW AND UNLESS PROHIBITED BY LAW, (A) YOU, GM AND THE WIRELESS SERVICE PROVIDERS WILL NOT BE LIABLE IN ANY WAY IN CONNECTION WITH THIS AGREEMENT OR THE SERVICES FOR ANY INDIRECT, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES OR AMOUNTS FOR LOSS OF INCOME, PROFITS OR SAVINGS ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE SERVICES, (B) GM AND THE WIRELESS SERVICE PROVIDERS WILL NOT BE LIABLE IN ANY WAY ANY IN CONNECTION WITH THIS AGREEMENT OR THE SERVICES FOR (i) ANY ACTION OR INACTION OF THIRD PARTIES, (ii) ANY EVENTS BEYOND THE REASONABLE CONTROL OF GM OR THE WIRELESS SERVICE PROVIDERS, (iii) ANY INJURIES TO PERSONS OR PROPERTY ARISING OUT OF OR RELATING TO YOUR USE OF THE SERVICES, (iv) ANY DAMAGES ARISING OUT OF OR RELATING TO THE INSTALLATION, REPAIR, UPDATES OR CHANGES TO SYSTEMS, SOFTWARE, OR OTHER EQUIPMENT PROVIDED BY GM OR THE WIRELESS SERVICE PROVIDERS, (v) ANY CHANGE OR REDUCTION IN, OR ANY LOSS OF SERVICES CAUSED BY CHANGES IN SYSTEMS, SERVICES, OR INFRASTRUCTURE (SUCH AS THE WIRELESS SERVICE OR TECHNOLOGY INFRASTRUCTURE) THAT ARE MADE AVAILABLE BY THIRD PARTIES, AND (C) GM WILL NOT BE LIABLE IN ANY WAY IN CONNECTION WITH ANY THIRD PARTY SERVICES. TO THE EXTENT THAT GM OR ANY WIRELESS SERVICE PROVIDER ARE FOUND LIABLE FOR ANY DAMAGES, LOSSES, LIABILITIES OR EXPENSES IN CONNECTION WITH THIS AGREEMENT OR THE SERVICES, AND TO THE EXTENT ALLOWED BY LAW AND UNLESS PROHIBITED BY LAW, YOU AGREE THAT GM’S AND THE WIRELESS SERVICE PROVIDER’S MAXIMUM AGGREGATE LIABILITY SHALL BE NO GREATER THAN $100.00. THESE LIMITS AND EXCLUSIONS APPLY EVEN IF GM AND THE WIRELESS SERVICE PROVIDERS KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF THE DAMAGES AND WHETHER ARISING BASED ON NEGLIGENCE, TORT, OR BREACH OF CONTRACT. THESE LIMITATIONS SURVIVE ANY TERMINATION OR EXPIRATION OF THE AGREEMENT, AND APPLY TO ANYONE USING THE SERVICES OR MAKING A CLAIM ON YOUR BEHALF.
+
+ 
+
+28. General.
+
+ 
+
+28.1 Assignment. You cannot assign this Agreement (or any portion thereof) without GM’s written consent and any attempted assignment without GM’s written consent is null and void. GM may assign this Agreement with or without notice to You.
+
+ 
+
+28.2 Relationship. Nothing contained in this Agreement will be construed to make either You or GM partners, joint venturers, principals, agents, or employees of the other. Neither party has any right, power or authority, express or implied, to bind the other.
+
+ 
+
+28.3 Not Insurance. We are not an insurance company and do not recommend or endorse any insurance company. You are responsible for your Vehicle insurance. The Services do not provide your Vehicle insurance and are not an insurance product. The Services are provided as a convenience. The payments You make for any of the Services are not related to the value of your Vehicle or any property in it, or the cost of any injury to or damages incurred by You. You should obtain and maintain appropriate insurance for your Vehicle and for any related risks.
+
+ 
+
+28.4 Notices. Unless otherwise stated in this Agreement, all notices, requests, consents, approvals, and other communications required or permitted by You under this Agreement must be in writing and shall be deemed given when delivered in hand or five business days after being mailed using a reliable national mail service, registered or certified mail, postage prepaid, and addressed to the customer service Vehicle brand contact information in the “Questions” section at the end of these User Terms. GM may change its address for notification purposes on giving notice to You. We may issue notices via various channels, including by posting messages on the Website, sending You e-mail, contacting You via our advisors, or using suitable systems available in your Vehicle or your Connected Device. You consent to receive such notices and agree that any such notices that GM sends to You shall be legally effective when sent. You agree that any notices sent by us by e-mail or physical mail satisfy any requirement that the notices be provided in writing. If You do not agree, do not accept this Agreement. You may have the right to withdraw your consent to receiving certain electronic communications, and, when required by law, we will provide You with paper copies of all documents and records upon request. You may do so by contacting us at the phone number or email address provided under the “Questions” section at the end of these User Terms. If You withdraw your consent, we reserve the right to terminate this Agreement. To receive or access the notices we send via e-mail, You must have Internet access and a computer or device with a compatible web browser. You will also need software capable of viewing files in Portable Document format (“PDF”). To retain the notices we send You, your device or computer must have the ability to download and store electronic communications, including PDF files. By accepting these terms, You verify that You are able to receive, access, and retain the notices we may send. You may change your e-mail address for notification purposes at any time by contacting us at the phone number or email address provided under the “Questions” section at the end of these User Terms.
+
+ 
+
+28.5 Severability. If any term or provision of this Agreement, or of any document incorporated herein by reference, is held by a court of competent jurisdiction to be contrary to law, then that term shall be severed from this Agreement, and the remaining provisions of this Agreement or the application of such provision to persons or circumstances other than those as to which it is invalid or unenforceable shall not be affected thereby. Each provision of this Agreement shall be valid and enforceable to the extent permitted by law and unless prohibited by law. If Section 24.9 is held to be invalid or unenforceable, then for any Claims the parties consent to personal jurisdiction and exclusive venue in the state and federal courts of the Eastern District of Michigan.
+
+ 
+
+28.6 Waiver. No term or condition of this Agreement is waived and no breach is excused unless that waiver or consent is in writing and signed by the party claimed to have waived or consented. No consent by any party to, or waiver of a breach by the other, whether express or implied, shall constitute a consent to, waiver of, or excuse for any different or subsequent breach.
+
+ 
+
+28.7 References; Headings; Examples. In this Agreement, the article and section headings are for convenience of reference only and will not be considered in the interpretation of this Agreement. Examples given in this Agreement, which may be preceded by “including,” “for example,” “such as,” or similar language, are solely intended to be illustrative and are not limitative.
+
+ 
+
+28.8 Governing Law. This Agreement shall be interpreted in accordance with and governed by the laws of the State of Michigan, except in relation to any conflict of law provisions which would require application of another choice of law.
+
+ 
+
+28.9 DISPUTES; BINDING INDIVIDUAL ARBITRATION; CLASS ACTION AND JURY TRIAL WAIVER.
+
+ 
+
+(A) our customer service department is available to address any concerns You may have regarding the Services. You may call us at: 1-888-4-GM, email us at tty@GM.com, or send us regular mail at the address listed at the end of this Agreement. Most matters are quickly resolved in this manner to our customer’s satisfaction.
+
+ 
+
+(B) ANY MATTER WE ARE UNABLE TO RESOLVE AND ALL DISPUTES OR CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT, INCLUDING ITS FORMATION, ENFORCEABILITY, PERFORMANCE, OR BREACH (EACH, A “CLAIM”), WITH THE EXCEPTION OF THE MATTERS DESCRIBED IN SECTION 28.9(E) BELOW, SHALL BE FINALLY SETTLED BY BINDING ARBITRATION ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION (THE “AAA”) IN ACCORDANCE WITH THE PROVISIONS OF ITS COMMERCIAL ARBITRATION RULES AND THE SUPPLEMENTARY PROCEDURES FOR CUSTOMER-RELATED DISPUTES, EXCLUDING ANY RULES OR PROCEDURES GOVERNING OR PERMITTING CLASS ACTIONS. THE ARBITRATOR, AND NOT ANY FEDERAL, STATE, OR LOCAL COURT OR AGENCY, SHALL HAVE EXCLUSIVE AUTHORITY TO RESOLVE ALL CLAIMS. THE ARBITRATOR SHALL BE EMPOWERED TO GRANT WHATEVER RELIEF WOULD BE AVAILABLE IN A COURT UNDER LAW OR IN EQUITY. THE ARBITRATOR’S AWARD SHALL BE BINDING ON THE PARTIES AND MAY BE ENTERED AS A JUDGMENT IN ANY COURT OF COMPETENT JURISDICTION. THE PARTIES EXPRESSLY WAIVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. THEY FURTHER UNDERSTAND THAT, IN SOME INSTANCES, THE COSTS OF ARBITRATION COULD EXCEED THE COSTS OF LITIGATION AND THE RIGHT TO DISCOVERY MAY BE MORE LIMITED IN ARBITRATION THAN IN COURT.
+
+ 
+
+(C) ANY ARBITRATION WILL BE CONDUCTED BY THE PARTIES IN THEIR INDIVIDUAL CAPACITIES ONLY AND NOT AS A CLASS ACTION OR OTHER REPRESENTATIVE ACTION, AND THE PARTIES WAIVE THEIR RIGHT TO FILE A CLASS ACTION OR SEEK RELIEF ON A CLASS BASIS. IF ANY COURT OR ARBITRATOR DETERMINES THAT THE CLASS ACTION WAIVER SET FORTH IN THE PRECEDING SENTENCE IS VOID OR UNENFORCEABLE FOR ANY REASON OR THAT AN ARBITRATION CAN PROCEED ON A CLASS BASIS, THEN THE ARBITRATION PROVISION SET FORTH IN THIS SECTION 28.9 SHALL BE NULL AND VOID IN ITS ENTIRETY AND THE PARTIES SHALL BE DEEMED TO HAVE NOT AGREED TO ARBITRATE CLAIMS.
+
+ 
+
+(D) THE RULES GOVERNING THE ARBITRATION MAY BE ACCESSED AT WWW.ADR.ORG OR BY CALLING THE AAA AT +1-800-778-7879. TO THE EXTENT THE INITIAL FILING FEE FOR THE ARBITRATION EXCEEDS THE INITIAL FILING FEE FOR A LAWSUIT, WE WILL PAY THE DIFFERENCE IN FEES.
+
+ 
+
+(E) SECTIONS 28.9(B) THROUGH 28.9(D) DO NOT APPLY TO ANY CLAIM (I) IN WHICH A PARTY IS ATTEMPTING TO PROTECT ITS INTELLECTUAL PROPERTY RIGHTS (SUCH AS ITS PATENT, COPYRIGHT, TRADEMARK, TRADE SECRET, OR MORAL RIGHTS, BUT NOT INCLUDING ITS PRIVACY OR PUBLICITY RIGHTS), OR (II) THAT MAY BE BROUGHT IN SMALL-CLAIMS COURT.
+
+ 
+
+28.10 Limitations on Claims. To the extent permitted by law and unless prohibited by law, You agree that You must file any arbitration request, claim, or cause of action arising out of or related to access to and/or use of the Services or otherwise relating to this Agreement within one (1) year after the events giving rise to such request, claim, or cause of action, or You shall be forever barred from filing such request, claim or cause of action. This Agreement shall not be subject to the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded.
+
+ 
+
+28.11 Language. The parties hereto confirm that it is their wish that this Agreement, and all documents relating hereto, including all notices, have been and shall be drawn up in the English language only.
+
+ 
+
+28.12 Entire Agreement. This Agreement, including the additional terms and policies that are referenced in this Agreement, are the entire agreement between the parties with respect to its subject matter, and there are no other representations, understandings or agreements between the parties relative to such subject matter. You cannot change this Agreement unless GM agrees in writing to the change. Unless otherwise provided in this Agreement, for any conflict between these User Terms and other terms, policies or other materials that are referenced herein, these User Terms will govern.
+
+ 
+
+28.13 Questions. The Services are provided by GM. If You have any questions, comments or complaints regarding this Agreement or the Services, feel free to contact us at any time by pressing the blue OnStar button in your OnStar equipped Vehicle, emailing us at TTY@OnStar.com, or as provided below:
+
+Phone: 1.888.4.OnStar (1.888.466.7827)
+TTY users only: 1.877.248.2080
+
+ 
+
+(Hearing/Speech Impaired)
+
+ 
+
+Mail: OnStar Subscriber Services
+
+ 
+
+PO Box 1027
+
+ 
+
+Warren, MI 48090-1027
+
+ 
+
+Appendix to User Terms
+Standard End User License
+Last Updated: May 1, 2018
+
+ 
+
+This Standard End User License (“License”) applies to each App that You access or use in your Vehicle or Connected Device. Capitalized terms, if not defined in this License, are defined in the User Terms. If an App is provided by GM, then references to “Provider” in this license means GM.  If the App is provided by a third party as identified to You when You access the App, then references to “Provider” in this License means the third party identified to You at the time of download.  The Provider may present additional terms to You when You access or use an App. In that case, those additional terms apply in addition to the terms of this License, and this License will govern to the extent there are any conflicts. If You do not agree to this License, You must uninstall and not use the Apps.
+
+ 
+
+THIS LICENSE INCLUDES AN AGREEMENT TO MANDATORY ARBITRATION, WHICH MEANS THAT YOU AGREE TO SUBMIT ANY DISPUTE RELATED TO THIS LICENSE TO BINDING INDIVIDUAL ARBITRATION RATHER THAN PROCEEDING IN COURT.
+
+ 
+
+THE DISPUTE RESOLUTION PROVISION ALSO INCLUDES A CLASS ACTION WAIVER, WHICH MEANS THAT YOU AGREE TO PROCEED WITH ANY DISPUTE INDIVIDUALLY AND NOT AS PART OF A CLASS ACTION.
+
+ 
+
+THIS LICENSE ALSO INCLUDES A JURY WAIVER.
+
+ 
+
+MORE INFORMATION ABOUT THE ARBITRATION AND CLASS ACTION WAIVER CAN BE FOUND IN SECTION 19 (DISPUTES; BINDING INDIVIDUAL ARBITRATION; CLASS ACTION AND JURY TRIAL WAIVER) BELOW.
+
+ 
+
+1.     License.  Provider is the owner or licensor of all right, title and interest in and to the App including, without limitation, any content, graphics, audiovisual files, processes, and code, along with all intellectual property rights in the App.  Subject to your compliance with this License, Provider grants You a limited, personal, noncommercial (unless a permitted use in connection with Fleet Vehicles), non-transferable, non-sublicensable, revocable, non-exclusive license to install and use the App solely in object code form for its intended purpose as describe in this License and within the App on your Connected Device during the Term (as defined in Section 6 below) of the License.  You agree to abide by this License in your installation and use of the App. The App is licensed to You but not sold to You.
+
+ 
+
+2.     Provider Updates, Modifications and Deletions.  From time to time, Provider or GM may remotely update, upgrade, modify, or delete the App for certain reasons, including, without limitation, to enhance App or system functionality or stability or to address potential safety or security concerns. You agree that Provider or GM may at any time automatically update, upgrade, modify, delete, or stop supporting the App, or cause the App to be removed automatically from your Connected Device during synchronization with your account.  If the App is updated, upgraded or modified, whether to enhance or correct features or functionality, then this License shall apply to the updates, upgrades and modifications in addition to any other terms that are presented to You in connection with the update, upgrade or modification. Neither the Provider nor GM has any obligation to provide any customer support for the App or for the use of the application services.
+
+ 
+
+3.    Effect of Apps on Connected Devices.  You understand that the download, operation and/or use of App(s) may: (i) have an unintended or adverse effect on the Connected Device, any system or software operating in or with the Connected Device, and/or one or more other Apps,(ii) result in a modification or change to the Connected Device, any system or software operating in or with the Connected Device, one or more other Apps, and/or the functionality of any one or more of the foregoing; and/or (iii) render all or a portion of the Connected Device, any system or software operating in or with the Connected Device, and/or one or more other Apps inaccessible or unusable.  You understand and agree that the download, operation and use of Apps is at your own risk and is your own responsibility, and that Provider has no obligation to provide customer support for the App or with regard to any effect it may have on the Connected Device, any system or software operating in or with the Connected Device, and/or one or more other Apps.
+
+ 
+
+4.     No reverse engineering; re-distribution or security circumvention.  You agree not to reverse engineer, disassemble, use in a compilation, decompile, repurpose, distribute, resell or modify the App.  You may only copy the App for purposes of transferring the App to your Connected Device and operating the App on your Connected Device.  You may not re-distribute the App to other people that do not use your Connected Device or Vehicle. You agree to abide by and will not circumvent any security means or access control technology included in or with the App.
+
+ 
+
+5.     Open Source.  If the App includes any Open Source Software, then your rights and responsibilities with respect to the Open Source Software shall be governed according to the terms of the applicable Open Source License.  “Open Source Software” means software made available to others under the terms of an Open Source License; “Open Source License” means a software license that includes, but is not limited to, terms that: (a) permit distribution or redistribution of the software, including free of charge and for sale, by others without royalty or fee and allows for such distribution/redistribution to include source code and compiled code; (b) permits modifications, compilations, and derived works be created from the software and be distributed under the same terms as the original software; or (c) attach to the software and applies to all persons, entities, groups, organizations and institutions (the “Recipients”) to whom the software is distributed and/or who redistribute the software without the need for the Recipients to execute or otherwise acquire an additional license.
+
+ 
+
+6.     Term.  This License shall continue until terminated by You or Provider or You cease use of the App (the “Term”).  You may terminate this License at any time by uninstalling the App.  This License shall terminate automatically at any time upon breach by You of any of the terms of this License and in such event You will cease all use of the App.
+
+ 
+
+7.     Service terms and Web Site Terms apply.  If You use the App to access or use any service, then You agree to abide by the applicable terms of the service and warrant that You will do so. If You use the App to access or use any web site, then You agree to abide by the applicable terms of the web site and warrant that You shall do so.
+
+ 
+
+8.     Data Collection; Use and Back-up.  To the extent GM is the Provider, GM may collect and store information about You and your Vehicle through your use of the Connected Device and the App.  Any information collected by GM is subject to and governed by the Privacy Statement included and posted with the App.
+
+ 
+
+When You use an App provided by a Provider other than GM, the Provider may also collect, use, and share information (including sharing with us) about You as described in that Provider’s privacy policy. We recommend that You carefully review that Provider’s privacy policy before accessing or using that App.
+
+ 
+
+You have sole responsibility for backing up or archiving any data You use with the App to the extent You have the right to do so.  Provider does not have any responsibility for maintaining, archiving, or providing any data You use with the App and shall have no liability for any loss of access to or use of such data.
+
+ 
+
+9.     Content provided by Provider.  The App may make available to You content that is the property of Provider or of others that give Provider permission to provide it to You.  This content is provided only for use through the App on the Connected Device and no right is provided to You to, and You agree not to, copy, distribute, modify, perform, broadcast, display, transmit, reuse, re-post, use or claim any right in the content provided by Provider.  You also agree that You will not use content provided by the Provider or through the App to violate any law or harass any person, group or business.  If the App links You to any third party website or service, no right is provided to You to, and You agree not to, copy, distribute, modify, perform, broadcast, display, transmit, reuse, repost, use or claim any right in the content provided by the third party website or service unless You have legal permission from the third party.  You also agree that You will not use content from the third party website or service to violate any law or harass any person, group, or business.
+
+ 
+
+10.     Your Transmissions and Use.  You agree not to use the App to transmit or send any information or data that You do not have the right to transmit or send.  You also agree that You will not use the App to transmit or send any information or data for any unlawful purpose or to harass any person, group, or business. 
+
+ 
+
+11.     DATA DISCLAIMER. The App may use various types of data to perform functions for You.  YOU ACKNOWLEDGE THAT THE DATA PROVIDED MAY NOT BE ACCURATE AND YOU USE THE DATA AT YOUR OWN SOLE RISK.  DATA THAT MAY NOT BE RELIED ON INCLUDES, BUT IS NOT LIMITED TO, THE FOLLOWING: POSITION (I.E., LOCATION) DATA OBTAINED FROM THE VEHICLE OR OTHERWISE; DATA OBTAINED FROM A WEBSITE OR THIRD PARTY SERVICE PROVIDER; AND DATA OBTAINED FROM IN-VEHICLE SYSTEMS.
+
+ 
+
+12.     Content provided by third party sites.  You understand that in using the App, You may encounter material that You may find offensive, vulgar, or obscene.  You also understand that if You use the App to access services or websites, You may not be able to control search results that may return links or “hits” that You may find offensive, vulgar, or obscene.  You use the App at your own risk and neither Provider nor GM shall have any liability for content that You or others may find offensive or otherwise objectionable.  GM is not responsible for examining or evaluating the content or accuracy, does not warrant or endorse and will have no liability for any third party materials, services, or websites.
+
+ 
+
+13.     Obey all laws related to operation of motor Vehicle.  You acknowledge that the App (unless installed by the Vehicle manufacturer) is not part of your Vehicle delivered to You when You purchase or lease your Vehicle.  If You believe that your App is not operating properly, You should, if applicable, use the features of your account to remove the App from your Connected Device.  You agree and warrant that You will obey all laws, traffic rules and regulations governing the operation of your Vehicle and You will not use the App in any manner that violates such laws or regulations.
+
+ 
+
+14.     No guarantee of operation of features / networks.  For services provided through networks, You are responsible for obtaining a contract with a service provider for network connectivity at your own sole cost.  For services provided through networks, Provider cannot promise that your communications will not be intercepted by others and cannot promise that connections to websites and services through networks will be available to You, uninterrupted, or error free.  You agree that both Provider and GM will not be liable for any damages for any loss of privacy occurring in communication over such networks or for any loss of connectivity or loss, error, or failure of other functionality provided through networks.
+
+ 
+
+15. Not operational during all Vehicle modes.  The App may provide features and functionality that are not available during operation of your Vehicle.
+
+ 
+
+16. NO WARRANTY.  PROVIDER MAKES NO REPRESENTATIONS, WARRANTIES OR CONDITIONS IN RESPECT OF THE PRODUCT OR ANY SERVICE OR INFORMATION THAT PROVIDER OR THE PRODUCT MAKES AVAILABLE TO YOU.  THE PRODUCT, ANY SERVICE AND ANY INFORMATION THAT PROVIDER OR THE PRODUCT MAKES AVAILABLE TO YOU ARE PROVIDED “AS IS” AND “AS AVAILABLE” INCLUDING WITH ALL FAULTS AND ERRORS AS MAY OCCUR THEREIN.  PROVIDER, ON BEHALF OF ITSELF AND ALL PERSONS AND PARTIES ACTING BY, THROUGH OR FOR PROVIDER, AND FOR THE BENEFIT OF GM, EXPLICITLY DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS, IMPLIED, OR COLLATERAL, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE IN RESPECT OF THE PRODUCT OR ANY SERVICES PROVIDED THROUGH THE PRODUCT, ACCURACY, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS.  NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY PROVIDER OR ITS AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY.
+
+ 
+
+PROVIDER DOES NOT WARRANT THAT THE PRODUCT WILL CONTINUE TO OPERATE OR REMAIN AVAILABLE FOR ANY PERIOD OF TIME AND DOES NOT WARRANT THAT FUTURE OPERATION WILL BE COMPATIBLE WITH CURRENT OPERATION OR APPLICATIONS.  PROVIDER DOES NOT WARRANT THAT USE OF THE PRODUCT WILL BE UNINTERRUPTED OR ERROR-FREE OR THAT DEFECTS IN THE PRODUCT WILL BE CORRECTED.
+
+ 
+
+PROVIDER DOES NOT PROVIDE ANY GUARANTEE, CONDITION, OR WARRANTY THAT THE PRODUCT WILL OPERATE PROPERLY ON YOUR CONNECTED DEVICE, AND YOU AND ONLY YOU WILL BE RESPONSIBLE FOR ALL REPAIRS TO YOUR EQUIPMENT AND ANY OTHER LOSSES ACTUALLY OR ALLEGEDLY CAUSED BY THE PRODUCT.
+
+ 
+
+PROVIDER DOES NOT PROVIDE ANY GUARANTEE, CONDITION, OR WARRANTY OF THE ACCURACY OF ANY DATA MADE AVAILABLE TO THE PRODUCT OR YOU THROUGH THE PRODUCT, WHETHER THE DATA IS LOCATION DATA OR ANY OTHER DATA AVAILABLE TO OR THROUGH THE PRODUCT.
+
+ 
+
+IF THE PROVIDER IS A THIRD PARTY, THEN YOU UNDERSTAND THAT THE PRODUCT IS PROVIDED BY THE THIRD PARTY PROVIDER AND THAT GM DOES NOT PROVIDE ANY WARRANTY WHATSOEVER (WHETHER MENTIONED IN THIS SECTION OR OTHERWISE) RELATED TO THE PRODUCT OR ANY SERVICE OR INFORMATION PROVIDED BY OR THROUGH SUCH THIRD PARTY PROVIDER PRODUCT.
+
+ 
+
+SOME JURISDICTIONS LIMIT OR DO NOT ALLOW THE DISCLAIMER OF IMPLIED OR OTHER WARRANTIES, SO SOME OF THE ABOVE DISCLAIMERS MAY NOT APPLY TO THE EXTENT SUCH JURISDICTION’S LAW IS APPLICABLE, IN WHICH CASE GM’S WARRANTIES SHALL BE LIMITED TO THE EXTENT PERMITTED BY LAW.
+
+ 
+
+17.     EXCLUSION OF DAMAGES AND LIMITATION OF LIABILITY.  TO THE EXTENT PERMITTED BY LAW AND UNLESS PROHIBITED BY LAW, PROVIDER AND GM AND THEIR RESPECTIVE AFFILIATES AND THE EMPLOYEES, OFFICERS, DIRECTORS, AND AGENTS THEREOF (“PROVIDER PARTIES”) SHALL NOT BE LIABLE IN ANY WAY IN CONNECTION WITH THIS LICENSE, THE PRODUCT, OR ANY SERVICES OR INFORMATION THE PRODUCT ACCESSES OR PROVIDES FOR ANY INDIRECT, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OR AMOUNTS FOR LOSS OF INCOME, PROFITS, OR SAVINGS ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE PRODUCT.  THESE LIMITS AND EXCLUSIONS APPLY EVEN IF PROVIDER, GM OR ANY PROVIDER PARTY KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF THE DAMAGES AND WHETHER ARISING BASED ON NEGLIGENCE, TORT, OR BREACH OF CONTRACT.  TO THE EXTENT THAT ANY COURT FINDS PROVIDER, GM, OR ANY PROVIDER PARTY LIABLE FOR ANY CLAIM IN CONNECTION WITH THIS LICENSE, THE PRODUCT OR ANY SERVICES OR INFORMATION THE PRODUCT ACCESSES OR PROVIDES, AND TO THE EXTENT ALLOWED BY LAW, YOU AGREE THAT PROVIDER, GM, AND THE PROVIDER PARTIES SHALL COLLECTIVELY ONLY BE LIABLE FOR DIRECT DAMAGES AND THE MAXIMUM DAMAGES FOR ALL SUCH CLAIMS IN THE AGGREGATE SHALL BE NO GREATER THAN $100.00.
+
+ 
+
+FURTHER, THIRD PARTY PROVIDERS ARE INDEPENDENT CONTRACTORS AND NOT AGENTS OR EMPLOYEES OF GM. TO THE EXTENT PERMITTED BY LAW, GM DOES NOT ASSUME LIABILITY FOR ANY INJURY, DAMAGE, DEATH, LOSS, ACCIDENT, OR DELAY DUE TO AN ACT OR OMISSION OF A THIRD PARTY PROVIDER.
+
+ 
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, GM SHALL NOT BE RESPONSIBLE FOR ANY THIRD PARTY PROVIDER’S BREACH OF ANY WARRANTY INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, NON-INFRINGEMENT, OR ACCURACY, NOR SHALL GM BE RESPONSIBLE FOR ANY OTHER BREACH OR WRONGDOING OF A THIRD PARTY PROVIDER (INCLUDING ANY LIABILITY IN TORT), AS TO ANY PRODUCTS AND/OR SERVICES OR INFORMATION AVAILABLE THROUGH THE APPLICATION SERVICES. GM SHALL NOT BE RESPONSIBLE FOR ANY THIRD PARTY PROVIDER’S FAILURE TO COMPLY WITH THIS AGREEMENT NOR FOR ANY THIRD PARTY PROVIDER’S FAILURE TO COMPLY WITH APPLICABLE FEDERAL, STATE, PROVINCIAL, AND LOCAL LAW.
+
+ 
+
+18.     Indemnification.  You will indemnify and hold Provider harmless from any and all liabilities, damages, costs, and expense (including legal fees) that it incurs as a result of any third party claim to the extent arising from your breach of this License or any other negligent or intentional misconduct.
+
+ 
+
+19. Disputes; Binding Individual Arbitration; Class Action and Jury Trial Waiver.
+
+(a) Our customer service department is available to address any concerns You may have regarding the Apps or the application services. You may call us at: 1-855-440-0400, email us at infotainment@gmexpert.com or contact us by regular mail at the addresses listed at the end of this Agreement. Most matters are quickly resolved in this manner to our customer’s satisfaction.
+
+(B) ANY MATTER WE ARE UNABLE TO RESOLVE AND ALL DISPUTES OR CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT, INCLUDING ITS FORMATION, ENFORCEABILITY, PERFORMANCE, OR BREACH (EACH, A “LICENSE CLAIM”), WITH THE EXCEPTION OF THE MATTERS DESCRIBED IN SECTION 19(E) BELOW, SHALL BE FINALLY SETTLED BY BINDING ARBITRATION ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION (THE “AAA”) IN ACCORDANCE WITH THE PROVISIONS OF ITS COMMERCIAL ARBITRATION RULES AND THE SUPPLEMENTARY PROCEDURES FOR CUSTOMER-RELATED DISPUTES, EXCLUDING ANY RULES OR PROCEDURES GOVERNING OR PERMITTING CLASS ACTIONS. THE ARBITRATOR, AND NOT ANY FEDERAL, STATE, OR LOCAL COURT OR AGENCY, SHALL HAVE EXCLUSIVE AUTHORITY TO RESOLVE ALL LICENSE CLAIMS. THE ARBITRATOR SHALL BE EMPOWERED TO GRANT WHATEVER RELIEF WOULD BE AVAILABLE IN A COURT UNDER LAW OR IN EQUITY. THE ARBITRATOR’S AWARD SHALL BE BINDING ON THE PARTIES AND MAY BE ENTERED AS A JUDGMENT IN ANY COURT OF COMPETENT JURISDICTION. THE PARTIES EXPRESSLY WAIVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. THEY FURTHER UNDERSTAND THAT, IN SOME INSTANCES, THE COSTS OF ARBITRATION COULD EXCEED THE COSTS OF LITIGATION AND THE RIGHT TO DISCOVERY MAY BE MORE LIMITED IN ARBITRATION THAN IN COURT.
+
+ 
+
+(C) ANY ARBITRATION WILL BE CONDUCTED BY THE PARTIES IN THEIR INDIVIDUAL CAPACITIES ONLY AND NOT AS A CLASS ACTION OR OTHER REPRESENTATIVE ACTION, AND THE PARTIES WAIVE THEIR RIGHT TO FILE A CLASS ACTION OR SEEK RELIEF ON A CLASS BASIS. IF ANY COURT OR ARBITRATOR DETERMINES THAT THE CLASS ACTION WAIVER SET FORTH IN THE PRECEDING SENTENCE IS VOID OR UNENFORCEABLE FOR ANY REASON OR THAT AN ARBITRATION CAN PROCEED ON A CLASS BASIS, THEN THE ARBITRATION PROVISION SET FORTH IN THIS SECTION 19 SHALL BE NULL AND VOID IN ITS ENTIRETY AND THE PARTIES SHALL BE DEEMED TO HAVE NOT AGREED TO ARBITRATE LICENSE CLAIMS.
+
+ 
+
+(D) THE RULES GOVERNING THE ARBITRATION MAY BE ACCESSED AT WWW.ADR.ORG OR BY CALLING THE AAA AT +1-800-778-7879. TO THE EXTENT THE INITIAL FILING FEE FOR THE ARBITRATION EXCEEDS THE INITIAL FILING FEE FOR A LAWSUIT, WE WILL PAY THE DIFFERENCE IN FEES.
+
+ 
+
+(E) SECTIONS 19(B) THROUGH 19(D) DO NOT APPLY TO ANY LICENSE CLAIM (I) IN WHICH A PARTY IS ATTEMPTING TO PROTECT ITS INTELLECTUAL PROPERTY RIGHTS (SUCH AS ITS PATENT, COPYRIGHT, TRADEMARK, TRADE SECRET, OR MORAL RIGHTS, BUT NOT INCLUDING ITS PRIVACY OR PUBLICITY RIGHTS), OR (II) THAT MAY BE BROUGHT IN SMALL-CLAIMS COURT.
+
+ 
+
+20.     Applicable law and time limit for filing. To the extent permitted by law and unless prohibited by law, this Agreement shall be interpreted in accordance with and governed by the laws of the State of Michigan, except in relation to any conflict of law provisions thereof which would require application of another choice of law. If You are a public educational institution in the United States within state that requires applicability of one or more laws of your state, then those laws of your state shall apply. To the extent permitted by law and unless prohibited by law, You agree that You must file any arbitration request, claim, or cause of action arising out of or related to the App or this License within one (1) year after the events giving rise to the arbitration request, claim, or cause of action, or You shall be forever barred from filing such request, claim, or cause of action. This Agreement shall not be subject to the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded.
+
+ 
+
+21.     Export compliance.  You will comply worldwide with all laws and regulations applicable to the App. You may not use, export, re-export, import, sell, or transfer the App except as authorized by United States law and any other applicable laws and regulations.  In particular, but without limitation, the App may not be exported or re-exported (a) into any U.S. embargoed countries or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Persons List or Entity List.  By using the App, You represent and warrant that You are not located in any such country or on any such list.  You also agree that You will not use the App for any purposes prohibited by United States law, including, without limitation, the development, design, manufacture, or production of nuclear, missiles, or chemical or biological weapons.
+
+ 
+
+22.     Federal Acquisitions.  If You are acting on behalf of the U.S. federal government or under any activity directed or controlled by the federal government, then the App shall be considered commercial computer software under 48 C.F.R. Chapter 2.
+
+ 
+
+23.     Notices.  Provider may provide You with notices regarding the App, including changes to this License, by email to your mail address associated with your GM account if available, by regular mail, or by postings presented through the Apps or application services in your Vehicle or your Connected Device.
+
+ 
+
+24.     Miscellaneous.  You may not assign this License without permission of Provider.  You, Provider and GM are independent contracting parties. If the App is provided to You by a third party Provider, You agree that GM and its subsidiaries are third party beneficiaries of the License and thus GM or its subsidiaries can enforce this License against You even if it is not the Provider of the App provided that if the doctrine of third-party beneficiaries is found to not apply for any reason, the parties acknowledge and agree that while GM is not a party to this License and has no obligations under this License, the Provider is a trustee of GM for the limited purpose of holding in trust for GM the covenants in favor of GM. Accordingly, the parties agree that GM may enforce such rights and agreements in its own right (without being required to add the Provider as a party to any proceedings for such enforcement). If any term of this Agreement is invalid or unenforceable, then it shall be severed from this Agreement and the remainder of the agreement shall remain in full force and effect. If Section 19 is held to be invalid or unenforceable, then for any License Claims the parties consent to personal jurisdiction and exclusive venue in the state and federal courts of the Eastern District of Michigan.  No condition of this License shall be deemed waived unless waived in writing by the party claimed to have waived.  This License is the entire agreement between the parties with respect to its subject matter, and there are no other representations, understandings or agreements between the parties relative to such subject matter.  You cannot change this License unless Provider agrees in writing to the change. Provider may modify this License by providing notice to You, and if You do not agree with any modification, then You must stop using the App. Your continued use of the App will be deemed acceptance of such modifications.
+
+MY GM REWARDS PROGRAM TERMS AND CONDITIONS
+Updated effective as of: August 27, 2024 
+
+
+Welcome to My GM Rewards Loyalty Program (the “Program”, also marketed under the names My Chevrolet Rewards, My Buick Rewards, My GMC Rewards, and My Cadillac Rewards). The brand associated with the Program (i.e. Chevrolet, Buick, GMC or Cadillac) is based on the Member’s (as defined herein) most recent GM (as defined herein) vehicle purchase. This branding can be changed at any time by accessing your Member profile information.
+
+ 
+
+Eligible participants who enroll in the Program (“Member(s)” or “you”) can earn Program points (“Points”) by engaging in certain “Eligible Transactions” including, but not limited to, purchasing or leasing eligible GM vehicles at participating GM dealerships in the United States (“Participating Dealer(s)”), purchasing certain goods or services from a Participating Dealer or online through participating GM websites, purchasing certain services from OnStar, transacting with the My GM Rewards Mastercard ® (“Card”), or at select Third-Party Retailers (e.g., GM Financial, General Motors Insurance, energy providers, fuel providers). Points can be redeemed at Participating Dealers or at other third-party, non-dealer retailers including GM Financial and General Motors Insurance. For a complete description of the most current Eligible Transactions, as well as details on earning and redeeming Points go to experience.gm.com/rewards. Members who apply and are approved for the My GM Rewards Mastercard® Program (“Card Program”), issued by Goldman Sachs Bank USA are referred to as “Cardmembers”. See complete Card Program overview at www.mygmrewardscard.com. The Program is operated by General Motors LLC (“GM”).
+
+ 
+
+By participating in and engaging with the Program, you agree to these My GM Rewards Program Terms and Conditions, which may be updated from time to time (“Terms”), which govern the Program and your participation in the Program.  These Terms are intended to protect GM and participants in the Program by defining the rights and obligations of both under the Program. GM reserves the right to change these Terms from time to time without notice. Each time you participate or engage in any Program activities, including but not limited to, enrolling as a Member, accessing your Member Account or redeeming Points under the Program, you are agreeing to be bound by and comply with the then-current Terms and the GM Privacy Statement found at www.gm.com/privacy. In some instances, both these Terms and/or additional terms that are part of an offer, promotion, or activity which contain additional or different terms and/or conditions (“Additional Terms”) will apply to your participation in the Program. To the extent there is a conflict between these Terms and any Additional terms, the Additional Terms will control.
+
+ 
+
+You must make sure you read and understand these Terms prior to engaging in any Program activities or with the Program. It is your responsibility to remain knowledgeable of any changes to these Terms. If you have questions about these Terms, you may contact the My GM Rewards Member Support Center at 844-764-2665. Except as otherwise published or distributed in writing from an authorized representative of GM or by Additional Terms, these Terms cannot be modified or superseded.
+
+1. Program Eligibility
+
+The Program is open only to residents of the 50 United States, Washington, D.C., and U.S. military locations, who are eighteen (18) years of age and older, have reached the age of majority in their state, have properly enrolled in the Program, have agreed to these Terms and are individual natural persons (an “Individual”). Business organizations of any kind, including but not limited to corporations, associations, partnerships, limited liability companies, vehicle brokers or groups of any kind are not eligible to participate in the Program. No purchase is necessary to participate in the Program and you do not need to own a GM vehicle to participate in the Program. The Program is open to GM employees, retirees, suppliers, individual dealers, and dealer employees, each in their Individual capacity, but restrictions may apply to earning or redeeming Points, special offers and Point redemption compatibility with other discounts or incentives.
+
+ 
+
+If more than one membership is assigned to an Individual, earned Points will be assigned to the oldest Member Account with a Credit Card (“Card”) associated to it, followed by the oldest Member Account without a Card associated to it. Duplicate Member Accounts may be cancelled by GM without notice and GM has the sole discretion to reassign Points to a Member Account of its choice. Members may request to merge Member Accounts by contacting the GM Rewards Member Support Center at 1-844-764-2665.
+
+
+GM may change Program eligibility requirements at any time and reserves the right to refuse or revoke membership to any applicant for any reason or close a Member’s account, in its sole discretion, including forfeiture of Points associated with any Member Account. GM reserves the right to remove or rescind Points from a Member's Account without notice if GM determines, in its sole discretion, that Points were awarded in error or due to fraud. Participation in the Program, and any application for membership in the Program, are void if prohibited by law in the state of the Member's residence and are subject to change as may be necessary to comply with such laws or regulations.
+
+2. Member Accounts
+
+
+Enrollment. To become a Member, you must first register for a “Member Account” by completing an enrollment application. When you enroll, we may ask you for certain personal information, such as your name, address, salutation (such as Mr. or Ms.), birth month and year, email address and phone number (your “Enrollment Information”) and GM may collect, use and share this information in accordance with these Terms and the GM Privacy Statement found at www.gm.com/privacy. In addition to Enrollment Information, other Member Account information including but not limited to Points, earn and redeem transactions, member offers, and Tier (as defined herein) may also be shared with GM Participating Dealers, Third Party Retailers, and their respective service providers to help facilitate the purposes of the Program. To complete the enrollment process, you must acknowledge receipt of these Terms and the GM Privacy Statement and consent to our sharing your Account Information with our Participating Dealers and Third Party Retailers. You can access your Member Account digitally at: experience.gm.com/rewards, www.chevrolet.com/rewards, www.buick.com/rewards, www.gmc.com/rewards, or www.cadillac.com/rewards. New Cardmembers will have a Member Account created on your behalf based on your Card application data. Once enrollment is complete, a Member Account is assigned a “Member Number.” You are responsible for making GM aware of any changes in your contact information that occur after initial enrollment.
+
+Account Verification. To earn Points, you must be a Member prior to completing an Eligible Transaction and must complete verification of your Member Account (“Account Verification”). Members will not earn Points for transactions completed prior to Account Verification, unless otherwise determined by GM at its sole discretion. Cardmembers do not need to complete Account Verification prior to earning certain Points but certain Points cannot be redeemed without completing Account Verification. You must provide and maintain a valid e-mail address to participate in the Program. Any non-Cardmember Member Account without a valid and verified email address will be deactivated and any accumulated Points will be forfeited (see section D). Any persons not meeting program eligibility as described in section 1 of these Terms will have their Member Account deactivated and any accumulated Points will be forfeited. As a Member of the Program, you will receive regular account servicing and marketing updates by email and you acknowledge that GM may communicate with you about Program changes, marketing, and promotional opportunities, General Motors Insurance transactions, and other Program information by email. You have the right to opt-out of receiving marketing content. Opting out of marketing content will not close your Member Account or opt you out from receiving communications related to the servicing or administration of your Member Account including Points that may be assigned to the Member Account. It will also not opt Cardmembers out of receiving marketing communications from Goldman Sachs Bank USA, GM affiliated entities or other third parties. GM reserves the right to contact Members who have opted out of Program marketing content to confirm they still wish to maintain an active Member Account.
+
+Tiers. Active members are assigned into a Rewards Membership tier (“Tier”) based on “Tier Qualifying Transactions”, Cardmember status, and “Card” spend between January 1 and December 31st of the immediately preceding year. Tier Qualifying Transactions are based on Eligible Transactions excluding Certified Pre-Owned (“CPO”) vehicle purchases, GM Financial earn opportunities, General Motors Insurance transactions, and Protection Plan purchases; additional exclusions may apply. As of January 10, 2022, initial Tier assignment will be based on Cardmember status, historical GM new and CPO vehicle purchase data. Tier assignment may take up to fourteen (14) days after Account Verification. GM may change the Tier Qualifying Transactions and benefits and limitations of the Tiers at any time, in its sole discretion. The Tiers are defined by the following events, which must occur between January 1 and December 31 of the prior year; any Member at risk of losing their Tier will be notified thirty (30) days prior to the change. 
+Rewards Membership Tier
+
+Silver
+
+Gold
+
+Platinum
+
+Required Vehicle Spend Amount
+
+between $0 - $44,999 on new GM vehicles in a 3-year period
+
+between $45,000 - $109,999 on new GM vehicles in a 3-year period
+
+spend $110,000 or more on new GM vehicles in a 3 year period
+
+Required Non-Vehicle Spend Amount
+
+between $0 - $1,499 on eligible GM service, OnStar, parts or accessories annually
+
+between $1,500 - $2,499 on eligible GM service, OnStar, parts or accessories annually
+
+between $1,500 - $2,499 on eligible GM service, OnStar, parts or accessories
+
+Cardmember Status
+
+n/a
+
+Yes
+
+Yes
+
+Cardmember Spend Amount
+
+n/a
+
+n/a
+
+spend $15,000 or more on the Card
+
+Account Deactivation. GM may deactivate any Member Account, in GM’s sole discretion, when the Member does not earn Points, redeem Points, or transfer Points (in accordance with these Terms) (each an “Eligible Activity”) during a five (5) year period from the date of their last Eligible Activity. Cardmember Accounts will remain active as long as the Card remains in good standing with Goldman Sachs Bank USA, see the Card Program Rules for details on Cardmember Account deactivation. Card Accounts closed either voluntarily or due to a Cardmember not being in good standing will have access to Points earning and will operate under the conditions of the Rewards Member Program rules and associated tier level. Members may opt out of participation in the Program by contacting the GM Rewards Member Support Center at 1-844-764-2665. You will need to speak to a customer service agent directly to request that your Membership Account be deactivated or closed. You must provide your Member Number (provided during Enrollment Verification) to deactivate or close your Membership Account. You will receive a confirmation email upon deactivation. Your ability to earn Points will be suspended on the date of deactivation. Once a Member Account is deactivated you will no longer have access to your Membership Account statement information, no Points will accumulate on future Eligible Transactions, and any accumulated Points will be void and considered forfeited. If a Cardmember wishes to deactivate their Member Account, it must first close its Card.  See the My GM Rewards Card Program Rules for details.
+Account Security. Each Member is responsible for creating a secure Member Account and for maintaining its security. Members should create a strong password for their Member Account and not share their password, authentication or login information with others. If the security of Member Account information is breached, GM is not liable for improper access to the Member Account, or for unauthorized changes to a Member Account. In such circumstances, GM is not responsible for reinstatement of lost Points or for any damages or losses sustained by a Member as a result of such unauthorized access. If you become aware of any fraudulent or unauthorized activity on your Member Account, you must report the fraudulent or unauthorized activity to GM Rewards Member Support Center at 1-844-764-2665 and provide relevant information and cooperation to GM in connection with such activity. GM also reserves the right to deactivate a Member Account where GM has determined fraudulent or unauthorized activity or access has occurred.
+Suspicious Activity. GM has the right to monitor all Member Account activity related to the Program. If your Member Account shows signs of fraud, abuse, or suspicious activity, GM has the right, but not the obligation, to close or freeze your Member Account immediately; you may lose your accumulated Points and may not be eligible to earn or redeem Points. If you have conducted any fraudulent activity, or any activity that, in GM’s sole discretion, undermines the integrity of the Program, GM reserves the right to take any legal action GM deems appropriate and may rescind or confiscate any Points earned or redeemed in connection with such activity. In addition, you may be liable for monetary losses to GM, including but not limited to, actual litigation costs and damages, and you will not be allowed to participate in the Program in the future. To contest the freezing of a Member Account or the voiding of Points, please call the GM Rewards Member Support Center at 844-764-2665. If your Member Account does not reflect the correct number of Points that you should have been awarded as determined by GM, GM reserves the right to adjust your Point balance. If you believe your Member Account has been the subject of any suspicious activity, please contact the GM Rewards Member Support Center at 1-844-764-2665 immediately. GM also reserves the right, at its sole discretion, to transfer the Points you have earned to a new Member Account.
+Suspension. GM reserves the right, but does not have the obligation, to suspend or discontinue any Member’s participation in the Program for any Member who is, in GM’s sole discretion, using the Program in a manner that is not consistent with these Terms or the intent of the Program, or who has:
+acted in a manner inconsistent with federal, state or local laws, regulations or ordinances;
+breached or violated any of these Terms;
+engaged in any fraudulent or dishonest behavior, theft, misconduct or wrongdoing in connection with the Program;
+engaged in any abusive, fraudulent, disruptive, inappropriate, offensive or hostile conduct, whether physical or verbal, towards any employee, agent or representative of GM, or of any Participating Dealer or Third-Party Retailer; or
+failed to pay bills, payments due to GM Financial, or accounts due to GM, or accounts due to Goldman Sachs Bank USA, or to any Participating Dealer or Third-Party Retailer.
+ 
+If GM discontinues or terminates your Membership, you may immediately lose all accumulated Points. You may also lose all other Program benefits.
+
+3. Points
+
+
+General. GM may offer Points to Members for participating in Eligible Transactions. Points are not legal tender and are not your property and have no property value. Points are issued without separate payment or other consideration by you and exist at the sole discretion of GM as part of the Program. Points are non-negotiable, cannot be purchased or sold by Members, cannot be redeemed for cash or credit or any monetary value or currency, and cannot be used to pay debts except where GM Financial, General Motors Insurance or OnStar expressly accepts Points. Points may not be assigned, transferred, traded or pledged to any third party, except as expressly authorized by GM.  Points cannot be transferred by operation of law, such as by bankruptcy or in connection with a divorce. GM may consider a request to transfer Points upon a Member’s death to a surviving spouse, and may require proof, such as a death certificate, in order to process such request, which will be in GM’s sole discretion. Points that are sold, transferred, or assigned may be rescinded or confiscated in GM’s sole discretion. Points will be available only to the Individual identified by the Member Account and only if the Member completes an Eligible Transaction, after a reasonable period of time.
+Earning Points. Members may earn Points by participating in Eligible Transactions, which may include purchasing eligible products or services at Participating Dealers, at Third Party Retailers, or transacting with an active Card. In order to receive Points, the Individual participating in each Eligible Transaction must match the identification information on the Member Account. A Cardmember who has not created GM credentials for a Member Account may not earn points on certain transactions. A complete list of Eligible Transactions is available at experience.gm.com/rewards. The list of Eligible Transactions and the Points that are awarded for those transactions may change from time to time in GM’s sole discretion without prior notice.  Members can earn Points based on information provided to GM by Participating Dealers, Third-Party Retailers or other participating entities. Availability of Participating Dealerships and Third-Party Retailer will vary. Participating Dealers and Third-Party Retailers can change at any time without prior notice. A list of Participating Dealers can be located via the experience.gm.com/rewards website in the “Locate a Dealer” field or by contacting the GM Rewards Member Support Center at 1-844-764-2665.  Members will not earn Points for transactions at GM dealers that are not Participating Dealers or at retailers that are not Third-Party Retailers at the time of the transaction. Eligible Transactions and other Point earning offers and opportunities may be subject to Additional Terms, including but not limited eligibility restrictions and limited availability, redemption limitations, and all such Additional Terms must be satisfied to earn Points for such transactions. When Points are earned based on dollars spent, Members do not earn Points on taxes, discounts, rebates, credits, incentives, body shop repairs, or state inspection fees to the extent the price was reduced by the use of a coupon. If you return or exchange an item on which you earned Points, we may deduct Points from your Member Account up to the number of Points you originally received for that purchase. If you return an item on which Points were redeemed, you will receive those Points back to your Membership Account, within thirty (30) days. If the return impacts the Tier you achieved at the time of the purchase (i.e. your returned item takes your Tier from Gold to Silver), GM will notify you regarding the possible demotion.
+If Points were awarded to a Member’s Account due to a technical or human error, GM reserves the right, in GM’s sole discretion to remove or rescind such erroneously added Points from such impacted Account, with or without notice. If such erroneously awarded Points were redeemed, GM reserves the right to take impacted Accounts into a negative balance. In such a case, the Member would first have to earn enough Points to take the Account out of the negative balance before being able to redeem Points.
+Promotional Points. From time to time, GM may offer opportunities to earn promotional Points that are subject to Additional Terms (“Promotional Points”). All applicable Additional Terms associated with the specific promotional offer must be met in order to earn Promotional Points. Promotional Points will be posted to your Member Account within thirty (30) days after the end date of the applicable promotion, unless otherwise specified in the promotion-specifically.
+Point Credits. Points will be credited to your account within forty-five (45) days after completing an Eligible Transaction. The award transaction date can in some circumstances differ from the earn transaction date. Points earned for service enrollment bonus may not be redeemed on that same day for Participating Dealer services or vehicle redemptions. GM reserves the right to rescind or adjust, at any time, any pending or available Points that were awarded in connection with this Program. Points earned through fraudulent activity, sham, inaccurate reporting, mistake, or falsified information may also be rescinded by GM. Point credits and redemption activity can be accessed in your Member Account. If you believe you did not receive the correct amount of Points for an Eligible Transaction, you may contact the GM Rewards Member Support Center at 1-844-764-2665 within ninety (90) days of completing the Eligible Transaction. GM will make the final determination, in its sole discretion, as to whether Point adjustments of any kind are justified.
+Point Expiration. Expiration of Points can differ based on Tier assigned and Cardmember status. Non-Cardmember Points will expire without further notice upon Member Account deactivation. Points earned prior to September 8, 2021 will expire five (5) years from the date of the last Eligible Activity associated with the Member Account. Promotional Points may expire earlier, as disclosed in the applicable Additional Terms. Visit experience.gm.com/rewards for Tier specific Point expiration details.
+Point Transfers. Members can transfer Points to other Members by completing a Points transfer application. To be eligible to receive a Point transfer, the recipient Member Account must be activated, the recipient Member’s primary email address must match the email address entered into the Point transfer application by the sending Member, and the Members must reside in the same household. As a Member, in the event of a Point transfer, you agree that your personal information such as your email address may be shared with GM and its service providers for purposes of completing the Point transfer process. Points transferred in this manner will be governed by the point expiration rules of the recipient Member Account. GM may set limits to the number of times Points can be transferred or to the number of Points that can be transferred and change these limitations at any time in its sole discretion without prior notice. Transferred Points will be immediately removed from the sending Member Account and credited to the recipient Member Account. Point transfers are subject to tax reporting, final, nonrefundable and nonreversible. GM may rescind or confiscate Points and suspend the Member Accounts of any Members who are suspected of using the Points transfer tool in a manner inconsistent with these Terms or to sell, purchase, trade or barter Points.
+Point Redemption. Members can redeem their Points toward purchases of goods or services at Participating Dealers, Third-Party Retailers or, for Cardmembers only, with Goldman Sachs Bank USA so long as the Member has sufficient Points in their Member Account to qualify, Visit experience.gm.com/rewards to see where Points can be redeemed, and what redemption options are currently available.  GM may change redemption options and Point value from time to time in its sole discretion without prior notice.  It is the responsibility of the Member to specifically request the redemption of Points in connection with a particular redemption.  Once redemption is requested, the corresponding Points will be deducted from the Member Account immediately.  There are different ways to redeem Points. See the various ways in which a Member can redeem points here experience.gm.com/rewards/earn-redeem.
+
+For some redemptions, the Member must provide the last four digits of the Member Number as well as additional personal information that was provided by the Member at time of enrollment to the Participating Dealer or Third-Party Retailer.
+Point Restrictions. Except as otherwise specified by GM in writing, Members using a GM Employee or GM Dealership Employee discount to purchase or lease a vehicle cannot combine Points with those discounts. GM reserves the right to make any other incentive or pricing program incompatible with Points pursuant to the Program at any time. Points may not be combined with other discounts, packages or promotional offers from GM or from Participating Dealers or Third-Party Retailers.
+Points may be used only once. Points may not be sold, bartered, brokered, purchased or otherwise assigned or transferred except with the express written consent of GM. GM reserves the right to change this limit without notice. Points redeemed are not refundable but may be returned to the Member Account in accordance with section 3.b. Earning Points. Points will not be replaced, reissued or credited if lost, stolen or destroyed. Points may be subject to additional eligibility restrictions, limited availability, and/or Additional Terms.
+Members cannot use Points toward certain products or services. Ineligible products include, but are not limited to: items excluded by law; prepaid cards; lottery tickets; taxes, fees; vehicle deposits; and other items GM considers to be ineligible. Points for discounts or credits on goods and services cannot be used to pay taxes. You are responsible for any personal tax liability that may be related to your use and redemption of Points. Cardmembers should refer to Card Program Rules for additional Point redemption opportunities and restrictions.  
+
+
+Whether or not an item you purchase using Points can be returned at a Participating Dealer or Third-Party Retailer is subject to the discretion of GM or the Participating Dealer or Third Party Retailer, respectively, and applicable law.  
+
+Redemptions for OnStar® connected vehicle services (the “OnStar® Services”) require that a Member have an active OnStar Services account and that the OnStar® account be linked to the Member’s Account. Visit My Account on the brand web site to link your OnStar account to your GM profile.  
+
+If the OnStar account is linked to more than one Member Account, we will award it to the earliest created account. OnStar earn will not be awarded to each Member Account where the same OnStar account may be linked.  
+
+For issues finding a Connected Vehicle Services account contact OnStar® at 1-888-466-7827.
+
+Redemptions of Points towards the downpayment on a General Motors Insurance policy require the Member to provide their Member Number to General Motors Insurance during the insurance quote process. Members may redeem any number of Points toward the downpayment on the General Motors Insurance policy, up to the total amount of the quote. 
+
+4. My GM Rewards Mastercard Program
+ 
+
+If you become a Cardmember, you hereby expressly authorize GM and its affiliates to share information about your account(s) and personal information with Goldman Sachs Bank USA so that you can receive the benefits of the Card Program.
+
+5. GM Dealers, Third Party Retailers and Respective Service Providers
+ 
+
+As a Member you expressly authorize GM and its affiliates, to share information about your Member Account(s), your Enrollment Information, and your personal information, such as point balance and dollar equivalents, and Tier, and vehicle purchase and service information with GM Participating Dealers, Third Party Retailers and their respective service providers so that you can receive the benefits of the Program including but not limited to purposes of earn and redemption activity, account administration and servicing, and to inform you of additional information, offers and opportunities.
+
+6. Governing Law
+ 
+
+The laws of the state of Michigan and federal law govern these Terms and any aspect of your relationship with GM under the Program. They govern without regard to any conflicts of laws principles that would cause the application of the substantive law of another jurisdiction.
+
+7. Dispute Resolution
+ 
+
+GM is committed to customer satisfaction, so if you have a problem or dispute, we will try to resolve your concerns. But if we are unsuccessful, you may pursue claims as explained in this section.
+
+You agree to give GM an opportunity to resolve any disputes or claims relating in any way to the Program, including but not limited to any dealings you may have with our customer service agents, any services or products provided in conjunction with the Program, any representations made by us, or any aspect of our Privacy Policy (“Claims”), by contacting the GM Rewards Member Center at 1-844-764-2665. If we are not able to resolve your Claims within sixty (60) days, you may seek relief through arbitration or in small claims court, as set forth below.
+
+
+ANY AND ALL CLAIMS WILL BE RESOLVED BY BINDING, CONFIDENTIAL ARBITRATION, RATHER THAN IN COURT, except you may assert Claims on an individual basis in small claims court otherwise having jurisdiction over such Claims. This includes any Claims you assert against us, Participating Dealers or Third Party Retailers, or any other participating third parties offering products or services as part of this Program, all of which are beneficiaries of this arbitration agreement. This also includes any Claims that arose before you accepted these Terms of Use, regardless of whether prior versions of the Terms of Use required arbitration. Arbitrated claims relating to the Program will be settled under the Consumer Arbitration Rules of the American Arbitration Association (“AAA”). You can get rules and fee information from the AAA at www.adr.org. The arbitrator is not authorized to award punitive, consequential or other damages not measured by the prevailing party’s actual damages. The arbitration proceedings and arbitration award shall be maintained by the parties as strictly confidential. The Federal Arbitration Act and federal arbitration law apply to this agreement. An arbitration decision may be confirmed by any court with competent jurisdiction.
+ 
+
+THERE IS NO JUDGE OR JURY IN ARBITRATION, AND COURT REVIEW OF AN ARBITRATION AWARD IS LIMITED. HOWEVER, AN ARBITRATOR CAN AWARD ON AN INDIVIDUAL BASIS THE SAME DAMAGES AND RELIEF AS A COURT (INCLUDING STATUTORY DAMAGES, ATTORNEYS’ FEES AND COSTS), AND MUST FOLLOW AND ENFORCE THESE TERMS OF USE AS A COURT WOULD.
+
+ANY AND ALL PROCEEDINGS TO RESOLVE CLAIMS WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED OR REPRESENTATIVE ACTION. IF FOR ANY REASON A CLAIM PROCEEDS IN COURT RATHER THAN IN ARBITRATION WE EACH WAIVE ANY RIGHT TO A JURY TRIAL. 
+
+EACH PARTY WILL BEAR ITS OWN COSTS, FEES AND EXPENSES OF ARBITRATION.
+
+
+This section will survive termination of the Program or your Member Account and any bankruptcy. If any portion of this Dispute Resolution section is deemed invalid or unenforceable, it will not invalidate the remaining portions of this Dispute Resolution section.
+
+8. Limitations of Liability
+ 
+
+GM makes no guarantees, warranties, or representations of any kind concerning the Program except as expressly contained in these Terms. You release GM and its affiliates, participating Dealers and Third Party Retailers from all liability regarding the earning, redemption, and use of Points, including any product, service or reward redeemed with Points that, after receipt, may be lost, stolen, or destroyed. 
+
+
+Participating Dealers and Third Party Retailers are independent entities and are not agents or representatives of GM. Redemption at a Participating Dealer or Third Party Retailer may vary. GM is not responsible for, and assumes no liability for, the actions or redemption responsibilities of a Participating Dealer or Third Party Retailer. Nothing in the Program or in these Terms is intended to create any agency, partnership or joint venture between GM and any Participating Dealer or Third Party Retailer. If any Participating Dealer or Third Party Retailer improperly denies any Member any benefit they are entitled to under the Program, the liability of the Participating Dealer or Third Party Retailer, or of GM, is limited to the fair market value of the denied benefit as determined by GM.
+ 
+
+GM PROVIDES THE PROGRAM “AS IS” AND, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, EXPRESSLY DISCLAIMS ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, DESIGN, ACCURACY, CAPABILITY, SUFFICIENCY, SUITABILITY, CAPACITY, COMPLETENESS OR AVAILABILITY.
+ 
+
+You agree that GM has not represented that (1) the Program will include any particular products or services, (2) that the Program will not be interrupted, without omissions or error free, or (3) that defects will be corrected or changes implemented. UNDER NO CIRCUMSTANCES, INCLUDING BUT NOT LIMITED TO GM’S OWN NEGLIGENCE, WILL GM BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING OUT OF THE PROGRAM, EVEN IF A REPRESENTATIVE OF GM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. In the event GM is held liable for any act, error or omission related to the Program, your sole and exclusive remedy will be limited to reimbursement for services or products you paid for but did not receive under the Program, or the issuance of Points under the Program as compensation, at GM’s election. You agree to waive any claim or action of any kind in any forum that is not commenced and served on GM within two (2) years after the first occurrence of the kind of act, event, condition or omission upon which the claim or action is based.
+
+9. Modification of Terms
+
+
+General. GM may modify, amend, cancel, delete, change or terminate the Program or any Terms of the Program in any manner at any time in GM’s sole discretion, including but not limited to terms applicable to eligibility for Membership, Point values, redemption values, redemption caps, rules for receiving or using Points, or any other aspect of the Program. These modifications may affect Points already received, including Point value, or the opportunity to use such Points or their redemption rate. We will provide notice of modification of these Terms by posting revisions to these Terms on experience.gm.com/rewards and updating the last modified date. If required by applicable law, we will additionally send notice of the modifications to you at an email address we have on file. Modifications to these Terms are effective immediately when posted. You agree that each time you access your Member Account or otherwise use or participate in the Program you are accepting and agreeing to be bound by the then-current Terms. You are responsible for remaining knowledgeable as to any changes that GM may make to these Terms and should therefore review the Terms each time you use or access the Program. If you do not agree to be bound by the Terms as modified, your only recourse is to cancel your Member Account and your failure to do so constitutes your continued acceptance of these Terms. The most current version of these Terms are available at experience.gm.com/rewards and supersede all previous versions of these Terms.
+ 
+GM may, but is not required to, send notice to Members to advise them as to Point forfeiture or Program updates, modifications or changes. Neither GM nor any Participating Dealer or Third Party Retailer will be liable for failing to notify a Member of such changes, modifications or forfeitures, or for problems of any kind with any of the programming or equipment associated with or utilized by a Member, or for any human error or any disruption, interruption, deletion, omission, defect or line failure of any telephone network or electronic transmission, or for problems related to computer software, equipment, inability to access any website or online service, or any other technical or non-technical error or malfunction, or for lost, late, stolen, illegible, incomplete, unintelligible, misdirected or damaged mail or email. All interpretations of these Terms are at the sole discretion of GM, and its determinations as to these Terms shall be final.
+ 
+
+Termination of the Program. While the Program has no predetermined end date, GM may terminate the Program at any time, with or without notice. In the event the Program is terminated, you will have ninety (90) days from the date the Program termination is announced by any reasonable and customary communication channels as GM determines in its sole discretion to use any available Points remaining in your Member Account. After that date, any Points will be forfeited without compensation.
+ 
+Invalidity. If any provision of these Terms is invalid or unenforceable, all remaining provisions hereof will remain in full force and effect. The failure of GM to exercise any of its rights under these Terms does not constitute a waiver of such rights in any other instance.
+10. Tax Implications
+ 
+
+The monetary value of a transaction for which you redeem your Points may be considered taxable income from GM in the tax year in which you redeem the Points, in accordance with U.S. tax law. GM may be required to send you (and file with the IRS) a Form 1099-MISC (Miscellaneous Income) for the year in which you redeem your Points when the value of the transaction plus other taxable miscellaneous income you receive from GM totals $600 or more for a calendar year. We determine the taxable value of transaction received through your Points redemptions for this purpose. You're responsible for any personal tax liability due to the receipt of a transaction due to your Point redemption. Please consult with your tax advisor.
+Initially Effective: April 1, 2018.
+Updated: November 16, 2018.
+Updated: April 13, 2019.
+Updated: April 3, 2020.
+Updated: May 1, 2020.
+Updated: January 10, 2022.
+Updated: April 4, 2022.
+Updated: June 15, 2023.
+Updated: August 27, 2024. 
+
+ 

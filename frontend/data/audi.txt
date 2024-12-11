@@ -1,0 +1,398 @@
+myAudi Terms of Service
+Effective November 2024
+Highlights
+Terms of Service
+Below, for your convenience, is a short summary of the Terms of Service set forth in this agreement.  These highlights are not a substitute for the complete Terms of Service below that constitute a legally binding agreement.  Please review the full Terms of Service for details regarding your use of the Service (defined in Terms below).
+
+You will only use the Service when it is safe and legal to do so and in compliance with these Terms of Service (and will ensure the same for additional users).
+We may suspend, modify, or terminate the Service at any time, and you will not be entitled to a refund.
+You may cancel the Service at any time, and you will not be entitled to a refund.
+You cannot transfer the Service to another person or another Vehicle without our prior consent, use it for commercial purposes, or re-sell it.
+You are responsible for maintaining your Vehicle (as defined below) in good working order so that the Service can be provided.
+You may not use the Service for illegal, fraudulent, or abusive purposes.
+Information collected to provide the Service will be handled in accordance with our Privacy Statement.
+The Terms of Service for Audi connect services and Audi Financial Services are separate, and we are not bound by or responsible for them under these Terms.
+The terms for service or use of any product, service, or offering provided directly from any Service Partner(s) are separate, and we are not bound or responsible for them, though we encourage review of all applicable terms and conditions.
+The Service is provided “as is” without warranties of any kind and can be limited or discontinued entirely because of technological changes.
+We may update or modify the software used to provide the Service at any time, and we may do this remotely without notifying you or seeking your consent.
+If a dispute arises, it will be resolved through arbitration and not through a jury trial or class action lawsuit.
+We can modify these Terms of Service at any time, and such modifications will become effective upon posting on the website or at the time we notify you.
+By accepting the Terms of Service during our sign-up process or accessing or using any of the Service, you are indicating that you have read, understand, and agree to be bound by the Terms of Service set forth below.
+
+
+
+
+
+Terms of Service
+
+These Terms of Service govern your use of the myAudi services (the capabilities of which may vary by model and model year), including account management (such as Audi financial payments, add-on plan details, and dealer information); vehicle details (such as videos and guides, service scheduling, warranty information, and personalized accessories) and exclusive benefits and content (such as lifestyle articles, luxury partner offers, exclusive events, and Audi owner community); the myAudi Marketplace (as further described below); management of your Audi Connect services, including Connect CARE, Connect PRIME, Connect NAV, and Connect PLUS; Audi Functions on Demand; and any other Audi designated services (together the “Service”) available with your Audi vehicle (your “Vehicle”), which may in part be included as a part of a Paid Plan (as defined below).  Your Vehicle contains or requires the installation of additional hardware and software (“Equipment”) that enables you to receive or utilize certain Services.  Audi Connect services and Audi Financial Services, while accessible and manageable through myAudi, are governed by separate Terms of Service, available at Audi connect Terms and Audi Financial Services Terms and Policies. 
+
+
+Learn more about the Audi connect Terms
+
+Learn more about Audi Privacy
+
+
+
+The Service is provided to you, the Vehicle owner or lessee (“you” or “your”), by Audi of America, Inc. (“AoA,” “we,” or “us”), an operating division of Volkswagen Group of America, Inc. (“VWGoA”).  These Terms of Service set forth the agreement between you and AoA with respect to the Service and are legally binding.  When you accept the Terms of Service during our sign-up process or when you access or use the Service, you are indicating that you have read, understand, and agree to be bound by these Terms of Service.  In addition, your use of the Service is subject to the AoA Privacy Statement and, if you are registering a Key User, the Key User Agreement, which are incorporated by reference into these Terms of Service.  A copy of the Privacy Statement is available on the myAudi website at https://www.audiusa.com/privacy.  The parent, subsidiaries, and affiliates of VWGoA, including, but not limited to, Volkswagen AG and Audi AG (together with AoA, the “Audi Company(ies)”), are third-party beneficiaries under these Terms of Service, and the protections set forth in these Terms of Service, including, without limitation, the disclaimers of warranties and limitations of liability, shall extend to them.
+
+
+
+THESE TERMS OF SERVICE CONSTITUTE A LEGAL AGREEMENT BETWEEN YOU AND US.  IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE, DO NOT USE THE SERVICE.
+
+PLEASE BE ADVISED THAT THIS AGREEMENT CONTAINS PROVISIONS THAT GOVERN HOW DISPUTES BETWEEN YOU AND US ARE RESOLVED, WHICH INCLUDE AN AGREEMENT TO SUBMIT ANY DISPUTE RELATED TO THE SERVICES OR THESE TERMS OF SERVICE TO BINDING INDIVIDUAL ARBITRATION RATHER THAN PROCEEDINGS IN COURT.  THESE TERMS ALSO INCLUDE A JURY TRIAL WAIVER AND A CLASS ACTION WAIVER, WHICH MEANS YOU AGREE NOT TO HAVE A TRIAL BY JURY AND NOT TO PROCEED WITH ANY DISPUTE AS PART OF A CLASS ACTION.  PLEASE SEE SECTION 16 OF THESE TERMS OF SERVICE FOR FURTHER INFORMATION.
+
+
+Visit https://www.audiusa.com/myaudi for more information about AoA and its available Services and Vehicles and associated Equipment. 
+
+
+
+1. Creating Your myAudi Account
+In order to use the Services, you must agree to these Terms of Service.  Certain Services, namely the myAudi Marketplace, require establishing a myAudi account.  
+
+You will be bound by these Terms of Service if:  (i) you create a myAudi account; (ii) you sign a contract that includes these Terms of Service; (iii) you authorize your independent AoA-authorized dealership (“Audi Dealer”) to create a myAudi account on your behalf; or (vi) you or someone you authorize to use your Vehicle and the Service uses the Service or accepts any of its benefits.  Once you accept these Terms of Service, you are responsible for your own compliance with these Terms of Service and for compliance by occupants of your Vehicle and anyone using the Service or your account, whether or not authorized by you.
+
+
+
+2. Changes to Terms of Service
+We may change these Terms of Service from time to time and can change, add, or delete Services at any time.  We will notify you of such change by sending notice of or otherwise posting amended terms through the myAudi mobile app and/or myAudi web portal or as required by law.  Any change in prices for your Service Plan (as defined below) will not take effect until the current term of your Paid Plan has expired.  It is your responsibility to review these Terms of Service periodically.  You can cancel this Agreement if you do not agree to the change, but if you do not notify us within 30 days after we give you notice of the change, then the change will become part of this agreement.  You agree that you are accepting such changes for yourself and any additional users of the Service using your Vehicle.
+
+
+
+3. Registering with Us
+In order to use the full features of the Service (including, without limitation, the myAudi Marketplace), you will be required to create a myAudi account at https://www.audiusa.com/myaudi.  When you create an account, you must provide accurate and complete information; keep your account and password secure and not disclose them to anyone; and notify us immediately of any breach of security or unauthorized use of your Service or account using the contact information in Section 17 of these Terms of Service.  You will be solely responsible for all activity in your account.
+
+In addition, as the owner of an Audi vehicle, you can designate a primary vehicle user (“Key User”) to utilize certain Services and designate additional vehicle users.  Acceptance of the Key User Agreement, which includes these Terms of Service, ensures that certain Services are available only to the appropriate vehicle users and requires completion of the Key User registration and verification process.
+
+
+
+Create a myAudi account
+4. Accessing Your AFS Account Through myAudi
+
+After you have created a myAudi account, you can use the myAudi web portal to access your Audi Financial Services information and manage your account, such as to access your balance, pay your bills, and set up automatic payments.  While viewable from your myAudi portal, the information in your AFS account will not be shared with AoA and its affiliates. 
+
+All AFS data will be governed by the AFS Terms and Policies.
+
+Learn more about the AFS Privacy Policy
+Learn more about AFS terms
+5. Paid Service Plans, Related Service Costs, Taxes and Other Charges, and Paid Plan Payment Terms
+a. Paid Service Plans.
+We may make available as a part of the Service certain paid services, features, or subscription-based Service Plans (collectively, “Paid Plans”) from time to time, each with various services and features for model year 2020 and later Vehicles (with any plan(s) for a Service referenced collectively herein as a “Service Plan(s)”).  Information about specific features for Service Plans, including information and pricing for Paid Plans, is available at the myAudi web portal, the myAudi Marketplace (as defined below), and/or the myAudi mobile application or by calling us at 1-877-505-2834.  Service Plans may include services provided by certain third parties that are subject to separate terms and conditions.
+
+b. Introductory Period
+The purchase or lease of your Vehicle may include an introductory period for Paid Plans (also referred to as a “trial plan”).  The introductory period, if any and unless otherwise stated, starts on the date that you activate your trial and continues for the time specified in the trial plan.  You can learn about the features included in your Service Plans, including Paid Plans, additional features that may be available to you, and the prices for Paid Plans and additional features (the “Service Rates”), on the myAudi web portal, the myAudi Marketplace, and the myAudi mobile application (“my Audi App”) or by calling us at 1-877-505-2834.  You may terminate Service during the introductory period of the Paid Plan, if any, included with the purchase or lease of your Vehicle by contacting an Audi connect customer service representative at 1-877-505-2834.  However, (certain) Connect CARE features may remain active and enabled. For more information, please contact us or your local dealership or consult your Vehicle’s documentation.
+
+c. Renewal After Introductory Period
+After any included introductory period ends, the Service will be discontinued unless you renew your subscription with a valid credit card or through any other means of electronic payment, acceptable to us, and provide us with appropriate authorization to charge the credit card or use such other acceptable means of electronic payment.  In the event that you are enrolled in a Paid Plan with an automatic renewal feature, you authorize us to use your credit card to automatically charge recurring fees due for renewal of or continued subscription to a Paid Plan.  All recurring payments will be due in the amounts and frequency specified for the particular Paid Plan.  Your payment method on file will be automatically charged within 24 hours of the end date and time of your current plan, where the end date and time are determined by the initial billing date and time of the plan purchase plus the length of the paid plan (such as 30 days for monthly plans or 365 days for annual plans).  If your billing cycle falls on a weekend or holiday, we may charge you on the next business day.  To cancel the Paid Plan service and stop automatic renewal or recurring payments under a Paid Plan, please see below for Service Cancellation.
+
+d. Other Charges
+You may be responsible for paying directly to third parties all charges for products or services furnished by them directly to you that are not expressly covered by your Service Plan.
+
+e. Taxes Fees and Surcharges; Other Charges
+Service Rates do not include certain taxes and surcharges that may apply to your Service.  To the extent applicable, as determined by us in our sole discretion, in addition to Service Rates, we may charge state and local sales taxes, surcharges for federal and state Universal Service Fund contributions, and state and local 911 or other emergency service fees.  Charges may also include a cost recovery surcharge.  Surcharges are typically assessed to help defray our costs (or the costs of our Wireless Service Providers (as defined below)) incurred in complying with federal and state telecommunications regulations.  Surcharges are not taxes or fees that the government requires from consumers.  In addition to all applicable Service Rates, you agree to pay all taxes and surcharges charged to you by us, which will be added to your bill.
+
+You are responsible for paying directly to third parties all charges for products or services furnished by them directly to you that are not expressly covered by your Service Plan.  Any fees, fines, or other charges levied by law enforcement agencies or authorities and/or public safety access services due to a false alarm or similar occurrence and related costs will be your responsibility.  We may bill you such charges and costs directly to you, and you agree to pay such charges and costs upon receipt.
+
+f. Payment Methods and Your Payment Responsibilities
+You are responsible for paying all amounts due on time and in full.  All charges (including all Service Rates, taxes, and surcharges) will be charged in advance of the term to which they apply and are non-refundable.  If your payment information has changed at the time payment is due, you must arrange for payment or provide us with updated payment information, or else we may discontinue the Service Plan (and the related portion of the Service).  We may terminate or suspend your Service Plan (and the related portion of the Service) without notice to you if your credit, charge, or debit card provider refuses a charge from us or if such card has otherwise expired.  Even if we terminate or suspend your Service Plan (and the related portion of the Service), you will still be responsible for any charges due at the time of such suspension or termination.
+
+You expressly consent and authorize us to:  (1) verify, either ourselves or through third parties, your credit, charge, or debit card information; (2) receive updated account information from the financial institution issuing your credit, charge, or debit card; (3) review your credit history and obtain credit reports to determine your creditworthiness; (4) charge all amounts for which you are responsible to the credit, charge, or debit card account number you have provided.  We will only use this information in connection with determining whether to provide you with or charge you for the Service Plan (and the related portion of the Service) and as permitted by the AoA Privacy Statement.
+
+We may utilize an affiliate or a third-party service provider to process payments for the products and services offered through Audi connect.  Your payment details may be retained by such affiliate or third-party provider if such retention is required by them or otherwise required by law.  AoA does not maintain any information regarding your payment methods.
+
+g. Disputed Charges
+
+If you think that there has been an error in any charge billed by or through us, you must notify us by calling (877) 505-AUDI within sixty (60) days, or such longer period as required by law, after the charge is posted to your account to request an adjustment.  If you do not contact us about the disputed charge within this time period, you agree that you have waived your right to dispute the charge and must pay all amounts due in full.
+
+h. Paid Plan Service Cancellation and Refunds 
+You can cancel or terminate your Paid Plan at any time by calling an Audi connect customer service representative at 1-877-505-AUDI or visiting your account profile on the myAudi mobile app, myAudi Marketplace, and/or the myAudi Web Portal following the instructions to cancel a Paid Plan.  If you cancel or terminate your Paid Plan, you will not be entitled to a refund; however, you can continue to use the Service for the remainder of the period for which you paid.  If you are participating in a Paid Plan, you must provide your notice of cancellation at least 15 days prior to the start of your next renewal period in order to avoid being charged for the next renewal period.  You cannot cancel or terminate Connect CARE services.  For more details on Connect CARE services, please refer to Terms of Service for Audi connect services. 
+
+When you cancel a Paid Plan, your cancellation will be effective as of the date you request your Paid Plan to be cancelled.  For the portion of the Service provided by third-party Service Providers pursuant to their separate terms and conditions, you must follow the cancellation terms and requirements specified in those terms and conditions.  Visit the Audi connect Website or the myAudi App for more information, including certain available links to the terms and conditions of Content Providers or Optional Third Parties.
+
+
+
+6. myAudi marketplace
+a.             Description
+As part of the Service, AoA operates an online marketplace (“myAudi Marketplace”) where owners or lessees of certain Vehicles can acquire various digital, tangible, and customer product or service offerings from AoA (including certain Paid Plans) or certain Service Partners, including some that can customize your Audi Vehicle with digital designs, ambient interior lighting, and/or sounds (“Audi Themes”).  The myAudi Marketplace is accessible (i) through the myAudi app (“App”) for supported devices and software (i.e., running compatible versions of the Android and iOS (or other designated) operating systems) and (ii) on the Website.  If any provision of this Section conflicts with any other AoA terms, the provisions of this Section will prevail with respect to the myAudi Marketplace.
+
+b.             Technical Requirements:  myAudi Account, Connect Equipment, License, and PSP
+
+To use the myAudi Marketplace and acquire or obtain certain product or service offerings for your Vehicle (such as Audi Themes), you must:  (a) create a myAudi account (see above); (b) have a compatible vehicle with the applicable Equipment; (c) have adequate Internet service to access and connect to the App or Website; and (d) abide by such other requirements as AoA may designate through the myAudi Marketplace (or otherwise) from time to time.  Please note that you may not be able to transfer certain of your digital products (such as an Audi Theme(s)) from your Vehicle to another Vehicle, regardless of whether you own such other Vehicle.  If your Vehicle is later sold or otherwise transferred to a third party, digital products (such as a Theme(s)) purchased for your Vehicle will remain available in such transferred vehicle and may be accessed by the third party unless deleted. 
+
+c.              Audi Themes
+
+Certain Audi Themes can be supported by coordinated lighting effects from the ambient lighting installed in your Vehicle if the vehicle has the appropriate Equipment.  The purchase of the Equipment required for the ambient lighting is not a part of the sale of Audi Themes.  Please consult your local dealership for more information about the capabilities of your Vehicle and its available Equipment for utilizing Audi Theme functionality.
+
+All Audi Themes acquired for your Vehicle will be available for display by the Vehicle owner, lessee, or driver.  Only one Audi Theme can be displayed at a time, but previously acquired Audi Themes remain available for download.  You can also delete Audi Themes, including deletion by a reset of your Vehicle to its default factory setting(s), from the Equipment storage for your Vehicle.  The deleted Audi Themes can be re-uploaded into your Vehicle from your myAudi account from the myAudi App.  In the case that you wish to permanently delete an Audi Theme (including those saved online), you can contact Audi customer service.
+
+d.             Third-Party myAudi Marketplace Service Partners
+
+In addition to certain Paid Plan offerings, AoA operates and maintains the myAudi Marketplace and provides the opportunity for certain Service Partners to sell or license their various digital, tangible, and customer product or service offerings to you for use in or in connection with your Vehicle.  These Service Partners submit their offerings along with their associated pricing, terms, and conditions for distribution through the myAudi Marketplace.  Service Partners are responsible for submission of their offering(s) and for their own terms and conditions and the pricing information for their respective offering(s).  This responsibility includes any modification(s) to or the removal of an offering(s) from the myAudi Marketplace.  Unless otherwise indicated, AoA (or any Audi Company) is not responsible for and does not endorse any digital, tangible, and customer product or service offering(s) made available through the myAudi Marketplace.  Further, AoA (or any Audi Company) is not an agent or representative of any Service Partner offering digital, tangible, and customer product or service offerings through the myAudi Marketplace. 
+
+Nevertheless, if any displayed digital, tangible, or customer product or service offerings breach the myAudi Marketplace guidelines applicable to Service Partners (e.g., bans on content that is pornographic, glorifies violence, is offensive or racist, or violates the intellectual property rights of a third party) or applicable laws, AoA reserves the right to remove, in its sole discretion, any such digital, tangible, and customer product or service offerings from the myAudi Marketplace. 
+
+e.              Access to the myAudi Marketplace and Display
+
+AoA will use reasonable efforts to operate and maintain the myAudi Marketplace.  The digital, tangible, and customer product or service offerings displayed on the myAudi Marketplace may be adjustable based on identified user preferences, placement(s) by Service Partners, and user-performed searches (e.g., keyword, genre, price, etc.). 
+
+f.               myAudi Marketplace Purchasing
+
+Digital, tangible, and customer product or service offerings can be purchased or licensed directly through the myAudi Marketplace.  Acquiring a Paid Plan is subject to the terms and conditions set forth above, and available product and service offerings from the myAudi Marketplace may have specified run times, including but not limited to on a monthly, annual, or lifetime basis.  When you purchase or license another digital, tangible, and customer product or service offering on/using the myAudi Marketplace, you may be required to agree to separate terms and conditions with the applicable Service Partner.  These separate terms and conditions will be between you and the applicable Service Partner and shall apply in addition to these Terms of Service with AoA.  Additional AoA terms or notices may apply to order submission, payment, and receipt of a digital, tangible, and customer product or service offering as specified through the myAudi Marketplace.  Unless otherwise specified through the myAudi Marketplace, order submission will be through the myAudi Marketplace, and agreement to any additional terms and your right to use digital, tangible, and customer product or service offerings will be accepted upon order completion as confirmed by an electronic or other communication from AoA. 
+
+Once your order has been confirmed and your payment received, you can enable (or confirm delivery of) your acquired digital, tangible, and customer product or service offering either directly from your Vehicle or through your myAudi account (provided that a sufficient internet connection exists). 
+
+g.              myAudi Marketplace Pricing
+
+Pricing and availability of all digital, tangible, and customer product or service offerings displayed through the myAudi Marketplace are subject to change at any time prior to your purchase.  
+
+h.             myAudi Marketplace Sales
+
+Unless otherwise expressly stated by AoA or the Content Provider’s applicable terms, all sales are final, and no returns, replacements, or refunds are permitted.  If a replacement, return, or refund is granted for any transaction, the transaction may be reversed, and you may no longer be able to access the digital, tangible, or customer product or service offering that you acquired through that transaction.
+
+i.               myAudi Marketplace Payment Terms
+
+                 i.               Paid Service Plan Payment Terms.
+
+Acquiring a Paid Plan is subject to the payment terms and conditions set forth above.
+
+                 ii.              Payment Terms for Other myAudi Marketplace Products and Services.
+
+For available products or services (e.g., Audi Themes) that may be acquired from the myAudi Marketplace (whether from AoA or a third party), the myAudi Marketplace shall set forth terms for payment.  You may be requested or required to provide payment card or other financial account information to be stored in your myAudi account.  Such purchases may include, without limitation, one-time or recurring purchases from the myAudi website, myAudi Marketplace, or myAudi mobile app and electric vehicle charging from Audi on Electrify America’s or another provider’s charging network, where available.  When you provide a payment method for your myAudi account, you allow and authorize AoA to store, maintain, and recover funds from your specified payment method in accordance with these Payment Terms.  Your payment method may be used by AoA to pay for any fees, charges, surcharges, or applicable taxes for your purchase from AoA or your use of an AoA product or service.  You are also responsible for any access or data fees incurred from third parties (such as your Internet provider or mobile service operator) in connection with your use and viewing of Audi Themes on or through the myAudi Marketplace. 
+
+Your failure to maintain at least one valid payment method in your myAudi account may disrupt your ability to make purchases or access certain paid services that we offer.  For accounts with more than one payment method, you must designate one as your “Preferred Payment Method.”  If the Preferred Payment Method is invalid, expired, or otherwise cannot be charged, you consent and authorize us to charge any alternative payment method(s) in your myAudi account.  You agree that if we are unable to collect payment on any purchase or a good or service, we may reserve the right to discontinue or terminate service without advanced notice.
+
+The payment and invoicing may be managed and processed by a third-party payment service provider (“PSP”).  The PSP, working with AoA, may require acceptance of additional terms or direct registration with the PSP.  However, you can manage your payment information (e.g., billing address) through the myAudi Marketplace (e.g., during the payment process) and your myAudi account.  While AoA may add or remove payment processing methods in its sole discretion, you are solely responsible for the transactions you initiate, any orders you place through the myAudi Marketplace, and the amounts payable.
+
+We may receive updated credit card information (new credit card number or updated expiration date) from your credit card issuer.  The disbursement of the updated credit card information is provided to us at the election of your credit card issuer.  We are not responsible for the distribution of your updated credit card information.  Your credit card issuer may give you the right to opt out of the update service.  It is your responsibility to contact your credit card issuer with regards to your right to opt out of the update service.
+
+
+
+7. Termination, Suspension, Reactivation, Change, and Transfer of Service
+a. Our Rights to Suspend or Terminate the Service
+
+We can decide to either suspend or terminate the Service without warning, or issue a warning, at any time for any reason in our discretion, including for network or system maintenance, improvement, congestion, or failure; for Equipment failure or malfunction; or if we suspect your Service (in whole or in part) is being used for any unauthorized or inappropriate purpose, as a result of your breach of these Terms of Service or for reasons unrelated to you or your account with us. If suspension or termination of the Service occurs for any reason, you acknowledge and agree that you may not be able to access the Service, including the emergency services. If we elect to terminate your Services (in whole or in part) as a result of your breach of these Terms of Service or unauthorized use of the Services or Equipment or any other reason, you will not be entitled to any refunds or credits. In addition, if we are advised by your financing company or any Audi Company that you no longer own or lease your vehicle, we may terminate your Service.
+
+Availability of the Service is subject to certain technologies remaining commercially available for the Service period (including technologies provided by Wireless Service Providers), and such availability is not guaranteed or subject to any warranty coverage. Please consult your vehicle’s warranty documentation for more information on warranty coverages and important limitations and exclusions.
+
+b. Your Right to Cancel the Service/Credits
+
+Subject to the process for cancellation of a Paid Plan (as set for the above), you may generally cancel the Service at any time by deleting your myAudi account.
+
+c. Reactivation of Service
+
+If you voluntarily delete your myAudi account, you can create another myAudi account at any time. However, if your myAudi account was terminated or suspended by us, you do not have any right to have your Service reactivated even if you cure any of the issues that resulted in the termination or suspension of your Service. It is solely our decision as to whether to allow you to have Service again.
+
+d. Transfer of Service, Sale of Vehicle, and Termination of Lease
+
+If you sell your Vehicle or terminate your lease, you should delete the vehicle from your myAudi account.
+
+We may communicate with you about the Service by providing you with messages through the Equipment in your Vehicle. If you fail to notify us of a sale or transfer of your Vehicle or termination of your lease, we may continue to send messages to the Equipment in your Vehicle. We are not responsible for any privacy related damages that you may suffer as a result of such a failure to notify us of a sale or transfer of your Vehicle.
+
+
+8. Authority to Use, Terminate, Change, or Transfer Your Service
+We will only accept requests from you (or from someone we believe is you or someone with your authorization, such as your authorized agent) to use, activate, cancel, change, reactivate, or transfer the Service.  You agree that we can assume that anyone who provides your registration information is authorized to act on your behalf and that we shall have no responsibility or liability for anything that may arise from our providing of any services to, or acting upon instructions from, any such individual, even if such individual is not, in fact, authorized by you to use the Service or your account.  You should notify us immediately of any breach of security or unauthorized use of your Service or account using the contact information in Section 17 of these Terms of Service.
+
+
+
+9. Your Responsibilities
+a.             Your Responsibility for the Proper Operation of Your Vehicle and Proper Use of the Service
+
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT THE USE OF OR ANY RELIANCE UPON ANY INFORMATION OR CONTENT AVAILABLE THROUGH THE SERVICE IS SOLELY AND COMPLETELY AT YOUR OWN RISK AND RESPONSIBILITY.  IT IS YOUR SOLE RESPONSIBILITY TO ENSURE THAT YOU (AND/OR ANY OTHER OCCUPANT OF YOUR VEHICLE) FOLLOW INSTRUCTIONS FOR USE OF THE SERVICE AND EXERCISE GOOD JUDGMENT AND OBEY TRAFFIC AND ALL OTHER APPLICABLE LAWS AND REGULATIONS WHEN OPERATING YOUR VEHICLE; USING THE EQUIPMENT AND SERVICE; AND/OR EVALUATING WHETHER THE USE OF ANY OF THE SERVICES (OR THE ROUTING AND DIRECTION DATA YOU RECEIVE) IS SAFE AND LEGAL UNDER THE CIRCUMSTANCES.
+
+b.             Your Responsibility for Insuring Your Vehicle
+
+The Service is provided to you as a convenience.  The Service does not constitute insurance, and you should not rely on it to limit the potential for loss, theft, or damage to your Vehicle or property.  You are solely responsible for obtaining and maintaining any and all insurance for your Vehicle, your passengers, and your property.  No insurance company or insurer will be entitled to any right of subrogation against us or our Service Partners.
+
+
+c.              Your Responsibility for Maintaining Your Vehicle
+
+In order for us to provide the Service, the Equipment in your Vehicle must be in good working order and your Vehicle must have a working electrical system and adequate battery power.  The Service may not work if you try to modify the Equipment or add any equipment or software in or to your Vehicle that is not expressly authorized by us or is not compatible with the Equipment or Service.  You may need to adjust your use of other Vehicle features, such as adjusting the volume of your radio to hear the audio portions of the Service.  You are solely responsible for the proper maintenance of your Vehicle and its systems (including the Equipment) and for keeping them in good working order and in compliance with these Terms of Service and all applicable laws.
+
+d.             No Illegal, Fraudulent, or Abusive Use of the Service
+
+You may not use the Equipment, Service, or myAudi website in any way that is illegal, fraudulent, or abusive, including to harass, threaten, abuse, defame, or slander any individual or entity.  You may use our emergency services, including Connect CARE, only for actual emergencies and legitimate vehicle assistance needs.  You may not use the Service in a manner that interferes with any other customer’s use of our Service or our provision of our Service to our other customers.  You agree that you will not abuse or do anything to damage our or any of our Service Partners’ respective businesses, operations, services, reputations, employees, equipment, property, or facilities.  You further agree that you will not harass, threaten, or use vulgar and/or inappropriate language toward any customer service representatives.
+
+e.              No Commercial Use or Resale of the Service
+
+The Service, including the messages, data, information, content, or other material provided as part of the Service, are provided only for your non-commercial use and not for re-sale.  Certain information you receive through the Service belongs to us or our Service Partners (or other third parties) and may be subject to one or more copyrights, trademarks, service marks, patents, or other legal protections.  You may not (and may not permit or cause any other party to) sell or resell or otherwise use the Service or any information provided through the Service for commercial purposes nor may you reproduce, copy, modify, attempt to reverse engineer, or make derivative works from the Service.  In addition, you may not display or distribute information or content provided through the Service except as expressly permitted by these Terms and Conditions.
+
+f.               No Rights to Telephone Numbers or Other Addresses
+
+
+You have no property right in any number, address, or other communication identifier that may be assigned to you or to the Equipment in connection with the Service.  Any such number, address, or identifier may be changed from time to time.
+
+g.              Your Responsibility for Others Who Use Your Vehicle
+
+You are solely responsible for those who use the Service in your Vehicle or use your authentication information, even if you later claim that the use was not authorized, and you will be responsible and promptly pay for any charges arising from such use and any damages to or expenses incurred by us or any of our Service Partners as a result of such use.  Neither we nor any Service Partner has any obligation to inquire about the authority of anyone using your Vehicle or other information that can be used to identify your account to request the Service for your Vehicle.  You are responsible for the security of any passwords that you use to access the Service.  We will make any changes to your account or charge you for any amounts authorized by a person who provides your authentication information.
+
+
+
+10. Use of Certain Service Features
+Please see the Audi connect Terms of Service to understand specific connect services and features, such as locating a lost or stolen Vehicle, emergency assistance and service, and content providers.  Please review your Vehicle’s available manual(s) for information on activating or deactivating the available “privacy” mode(s) for your Vehicle or its applicable Equipment.
+
+
+
+11. How the Service Works, Our Service Partners, Restrictions, and Limitations
+a.             Our Service Partners
+
+We work with many different affiliated or third-party companies, individuals, and government entities to provide you with the Service.  These parties are collectively referred to in these Terms of Service as our “Service Partner(s)” and may include providers of the wireless networks on which the Service relies (“Wireless Service Providers”), emergency response service providers (“Response Provider(s)”), payment processors, and content providers (“Content Providers”).  In some cases, one or more of the Audi Companies may be a Service Partner.  In the event that any of our Service Partners impose additional terms and conditions on the services they provide, by accessing such services, you agree to comply with any additional terms and conditions imposed by them, which will be available on the myAudi website or the myAudi app.
+
+
+b.             Points of Interest
+
+The Service may use various, connected third-party services and Content Providers to make it easier to search for numerous points of interest, e.g., charging stations, fuel prices, parking information, weather, travel information, train information, flight information, restaurant search, hotel search, and other available information through the browsing capabilities of the Vehicle’s systems or Equipment (“POIs”).  In connection with this search feature, your Vehicle’s systems or Equipment may send various data or categories of data to us or our Service Partners.  You may also receive an “offer icon” next to certain POIs that you search for indicating that special offers and promotions are available.  This portion of the Service uses de-identified data.  You may deactivate (or reactivate) this feature using the available “privacy” mode(s) for your Vehicle or its applicable Equipment.  Please review your Vehicle manual for more information.  See also below for more information about our privacy practices.
+
+c.              Software
+
+We use software in connection with the Service.  We (or our Service Partners) own or have rights to all such software, and you do not acquire any rights in such software other than the right to use such software as reasonably necessary for you to use the Service as may be further specified and permitted as part of the Service Plan.  We (or our Service Partners) may update or modify the software contained in your Vehicle’s systems or the Equipment from time to time, and we may do this remotely without notifying you or seeking your consent.  These software updates and modifications may affect or erase data that you have previously stored on the Equipment in your Vehicle (such as specific route or destination information).  We are not responsible for any lost or erased (or otherwise affected) data, information, or content, and you are solely responsible for the data, information, and content that you may have downloaded, uploaded, transmitted, or otherwise stored from, to, on, or through the Equipment or Service.
+
+d.             Voice Recognition
+
+Voice recognition software, which may be able to recognize different voices, accents, speech patterns, and words, can be used in connection with certain aspects of the Service.  We do not represent or guarantee that such software will recognize or work with your or other voices, accents, or speech patterns or recognize some or all words some or all of the time.  In addition, activating privacy mode in vehicles equipped with this feature will turn off some or all voice recognition features in these vehicles.
+
+e.              Events Beyond Our Control
+
+Various conditions beyond our control may prevent or delay us from providing Service to you or affect or limit the quality of the Service.  Some examples are atmospheric, geographic, or topographic conditions (such as tall buildings, hills, or tunnels); damage to or failure to maintain your Vehicle or the Equipment in good working order; government laws, rules, or regulations; failure, congestion, or outages of utility or wireless networks (including interruption of cellular service or interference from multiple connected mobile devices); war; an act of God; natural disasters; inclement weather; and labor strikes.  In the event of any of the foregoing, we may, in our discretion, suspend or terminate the Service (in whole or in part) or terminate your Service Plan without notice to you and without any liability.  We are not responsible for delay or failure in providing Service due to conditions beyond our control, and you are not entitled to credit or a refund as a result of any such delay or failure.
+
+In the event of any regulatory, governmental, or other legally compelled changes or discontinuation or change of necessary telecommunications systems and services (e.g., if our Wireless Service Provider terminates or restricts wireless services of the type used by your Vehicle’s Equipment), we are not responsible for designing, developing, or making available any replacement Equipment to allow you to continue to receive the Service.  However, if we or any third party does make replacement Equipment available, you are solely responsible for replacing, as well as the cost of replacing, any Equipment that is necessitated as a result of such change or discontinuation.
+
+f.               Push and Mobile Device Notifications
+
+The Service may offer push notification or other mobile communication capabilities. In particular, when you install the myAudi mobile application, you agree to receive notifications, including push notifications, from us on your device. We may contact you by push notification to send you additional information about myAudi, the Service, your Vehicle, marketing communications, or other services and information. You acknowledge and consent to receiving messages or push notifications from myAudi and even when you are not actively using the myAudi mobile application. You may choose whether or not to continue receiving push notifications by adjusting your device’s settings.
+
+We advise against using any hand-held device, including viewing of any mobile device push notifications, while driving or otherwise operating your Vehicle or any vehicle.
+
+
+
+12. Collection and Use of Your Vehicle and Subscriber Data
+Your Vehicle may send various data or categories of data to AoA, and the Service may connect with data from various third-party services, and in particular to search for or with respect to describing numerous POIs or enabling the display of advertisements regarding POIs or other products or services in proximity to your current position or destination (and for other purposes).  For information on our data collection, sharing, and use practices, please refer to the AoA Privacy Statement available through https://www.audiusa.com/privacy, which is incorporated herein by reference.
+
+
+
+Learn more about Privacy
+13. Disclaimer of Warranties
+
+NEITHER WE NOR OUR SERVICE PARTNERS WARRANT OR GUARANTEE THAT SERVICE WILL BE AVAILABLE AT ANY SPECIFIC TIME OR AT ALL TIMES OR TO ANY GEOGRAPHIC LOCATION OR THAT THE SERVICE WILL BE PROVIDED WITHOUT INTERRUPTION, DELAY, OR ERROR.  NEITHER WE NOR ANY OF OUR SERVICE PARTNERS MAKE ANY WARRANTIES, EXPRESS OR IMPLIED, ABOUT (1) THE EQUIPMENT OR ANY OTHER HARDWARE OR SOFTWARE USED WITH THE SERVICE; (2) THE SERVICE; (3) NONINFRINGEMENT; OR (4) ANY DATA, CONTENT, OR INFORMATION (INCLUDING ANY POI) OR OTHER SERVICES PROVIDED THROUGH THE SERVICE.  THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF SECURITY, TITLE, CONTENT, QUALITY, ACCURACY, TIMELINESS, COMPLETENESS, CORRECTNESS, RELIABILITY, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE OR USE.  ALL SUCH WARRANTIES ARE EXPRESSLY EXCLUDED BY THESE TERMS OF SERVICE.  WE EXPRESSLY DISCLAIM ANY AND ALL EXPRESS AND IMPLIED WARRANTIES.
+
+The only warranties applicable to the Equipment in your Vehicle are those extended as part of your purchase or lease of your Vehicle.  Such warranty does not cover the Service in whole or in part.
+
+
+
+14. Limitation of Liability
+
+BY ENTERING INTO THESE TERMS OF SERVICE OR BY USING THE EQUIPMENT OR SERVICE, YOU ARE WAIVING IMPORTANT RIGHTS AND YOU ARE PROVIDING YOUR EXPRESS CONSENT TO VARIOUS ACTIONS TO BE TAKEN BY US, AUDI COMPANIES, AND OUR SERVICE PARTNERS (AS DESCRIBED HEREIN).
+
+
+Neither we nor any Audi Company nor our Service Partners assume any risk or responsibility for your use of the Service or any of the information or other content (including any POI or third-party advertisement) provided as part of the Service.  You acknowledge and agree that neither we, any Audi Company, nor any of our Service Partners are liable for dropped calls or interrupted service or for problems caused by or contributed to by you or by any third party, buildings, hills, tunnels, network congestion, atmospheric conditions, acts of God, or natural disasters or by any other conditions or circumstances out of our control (as further described above in Section 9(c) of these Terms of Service).
+
+
+In addition, neither we, any Audi Company, nor our Service Partners are liable (1) for our inability to contact any Service Partner or other party in any particular situation (including any emergency personnel); (2) for any act or omission of any other company furnishing a part of our Service or any equipment provided for such Service; (3) for errors or omissions of any vendors, dealers, or manufacturers participating in offers or advertisements made through us; or (4) for any damages that result from or arise out of the use, installation, repair, or maintenance by you (or by any person you authorize) of the Equipment or Service or any product or service provided by or manufactured by third parties.
+
+
+IF WE, ANY AUDI COMPANY, AND/OR ANY OF OUR SERVICE PARTNERS ARE FOUND TO BE LIABLE TO YOU FOR ANY REASON, YOU AGREE THAT THE MAXIMUM, AGGREGATE LIABILITY OF US, ANY AUDI COMPANY, AND OUR SERVICE PARTNERS TO YOU AND YOUR EXCLUSIVE REMEDY UNDER ANY THEORY OR FOR ANY CAUSE WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, ANY FAILURE OR DISRUPTION OF SERVICE PROVIDED UNDER THESE TERMS OF SERVICE, FRAUD, MISREPRESENTATION, BREACH OF CONTRACT, PERSONAL INJURY, OR PRODUCTS LIABILITY) SHALL BE LIMITED TO AN AMOUNT EQUAL TO THE PORTION OF THE SERVICE RATES CHARGED TO YOU FOR THE SERVICES THAT ARE THE SUBJECT OF THE CLAIM FOR THE PERIOD OF SERVICE DURING WHICH ANY RESULTING DAMAGES OCCURRED.  YOU ACKNOWLEDGE AND AGREE THAT NEITHER WE NOR ANY AUDI COMPANY NOR ANY SERVICE PARTNER WOULD HAVE AGREED TO PROVIDE THE SERVICE OR EQUIPMENT TO YOU WITHOUT YOUR AGREEMENT TO THIS LIMITATION.  YOU FURTHER ACKNOWLEDGE AND AGREE THAT THE DAMAGES CAP SET FORTH IN THIS PARAGRAPH SHALL BE THE SOLE AND EXCLUSIVE LIABILITY OF US, ANY AUDI COMPANY, AND OUR SERVICE PARTNERS TO YOU.  IN NO EVENT SHALL WE, ANY AUDI COMPANY, OR OUR SERVICE PARTNERS BE LIABLE TO YOU OR ANY OTHER PARTY FOR, AND YOU CANNOT RECOVER ANY, (A) PUNITIVE, EXEMPLARY, TREBLE, CONSEQUENTIAL, INDIRECT, OR SPECIAL DAMAGES OF ANY KIND, INCLUDING, WITHOUT LIMITATION, LOST PROFITS OR REVENUE (REGARDLESS OF WHETHER WE, ANY AUDI COMPANY, OR OUR SERVICE PARTNERS HAVE BEEN NOTIFIED THAT SUCH LOSS MAY OCCUR) OR (B) ATTORNEY'S FEES.  YOU AGREE NOT TO MAKE, AND TO WAIVE TO THE FULLEST EXTENT ALLOWED BY LAW, ANY CLAIM FOR DAMAGES OTHER THAN DIRECT, COMPENSATORY DAMAGES AS LIMITED ABOVE.  SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THOSE PARTICULAR LIMITATIONS MAY NOT APPLY TO YOU.
+
+
+You understand and agree that the Audi Companies and our other Service Partners, inclding, without limitation, the Wireless Service Providers, shall have no legal, equitable, or other liability of any kind to you in any event, regardless of the form of the action, whether for breach of contract, warranty, negligence, or strict liability in tort or otherwise relating to or arising from the Service, and you waive any and all such claims or demands.  If any Audi Company or any of our other Service Partners is involved in any problem, you also agree to any limitations of liability that such entity imposes on its customers.
+
+
+
+15. Indemnification; Release
+You agree to indemnify and hold harmless us, each Audi Company, and each of our Service Partners, including Wireless Service Providers, and each of our or their respective affiliates, officers, directors, agents, partners, and employees, from and against any and all liabilities, settlements, penalties, claims, causes of action, and demands (including any costs, expenses, or attorneys’ fees on account thereof) (collectively “Claims”) irrespective of the nature of the cause of such Claims alleging loss, costs, expenses, damages, or injuries (including, without limitation, Claims for libel, slander, or any property damage, personal injury, or death) arising in any way, directly or indirectly, in connection with your (or any occupant of your Vehicle) violation of these Terms of Service or your (or any occupant of your Vehicle) alteration, use counter to instructions, misuse, or failure to use the Service or Equipment.
+
+You agree that the limitations of liability and indemnities in these Terms of Service will survive even after your Service Plan has ended and your Service has terminated.  These limitations of liability apply not only to you but to anyone using your Vehicle, the Equipment, or the Service; to anyone making a claim on your behalf; and to any claims made by your family, employees, customers, or others arising out of or relating to any Service that we or our Service Partners provide or the Equipment.
+
+WITHOUT LIMITATION OF THE GENERALITY OF THE FOREGOING, YOU FURTHER AGREE TO RELEASE US, EACH AUDI COMPANY, AND EACH SERVICE PARTNER FROM ALL CLAIMS, LIABILITIES, AND LOSSES IN CONNECTION WITH THE SERVICE AND/OR EQUIPMENT, INCLUDING, BUT NOT LIMITED TO, CLAIMS FOR DATA COMPROMISE, PERSONAL INJURY, OR PROPERTY DAMAGE ARISING FROM THE TOTAL OR PARTIAL FAILURE OF PERFORMANCE OF THE SERVICE, EVEN IF CAUSED BY THE NEGLIGENCE OF US, ANY AUDI COMPANY, OR ANY OTHER SERVICE PARTNER OR THE MALFUNCTION OF THE EQUIPMENT.  YOU AGREE THAT THIS RELEASE EXTENDS TO ANY PARTY CLAIMING UNDER YOU AND THAT NO INSURANCE COMPANY WILL HAVE ANY RIGHT OF SUBROGATION.
+
+
+
+16. Dispute Resolution
+YOU AND WE AGREE THAT IN THE EVENT OF ANY DISPUTES BETWEEN US, WE WILL FIRST TRY TO RESOLVE IT BY TALKING WITH EACH OTHER.  IF WE ARE UNSUCCESSFUL IN RESOLVING OUR DISPUTES IN THIS MANNER WITHIN A REASONABLE TIME PERIOD, YOU AND AOA EACH AGREE THAT, TO THE FULLEST EXTENT PROVIDED BY LAW:
+
+(1) ANY CONTROVERSY OR CLAIM ARISING OUT OF OR RELATING TO THESE TERMS OF SERVICE, OR TO ANY PRODUCT OR SERVICE PROVIDED UNDER OR IN CONNECTION WITH THESE TERMS OF SERVICE, WILL BE SETTLED BY INDEPENDENT ARBITRATION INVOLVING A NEUTRAL ARBITRATOR AND ADMINISTERED BY THE BETTER BUSINESS BUREAU (“BBB”) UNDER BBB ARBITRATION RULES, AS MODIFIED BY THESE TERMS OF SERVICE.  BBB RULES AND FEE INFORMATION ARE AVAILABLE FROM US OR THE BBB.  ARBITRATION IS NOT A COURT PROCEEDING.  THE RULES OF ARBITRATION DIFFER FROM THE RULES OF COURT.  THERE IS NO JUDGE OR JURY IN AN ARBITRATION PROCEEDING;
+
+(2) EVEN IF APPLICABLE LAW PERMITS CLASS ACTIONS OR CLASS ARBITRATIONS, YOU EXPRESSLY WAIVE ANY RIGHT TO PURSUE ON A CLASS BASIS ANY SUCH CONTROVERSY OR CLAIM AGAINST AOA, ANY AUDI COMPANY, OR ANY OF OUR SERVICE PARTNERS OR ANY OF OUR RESPECTIVE AFFILIATES, OFFICERS, DIRECTORS, AGENTS, PARTNERS, LICENSORS, EMPLOYEES, OR PREDECESSORS IN INTEREST.  IF MULTIPLE CLAIMS ARE JOINED IN ONE ACTION, SOME OF WHICH WOULD NOT BE SUBJECT TO ARBITRATION, THE LATTER CLAIMS MUST BE STAYED UNTIL ANY CLAIMS IN THAT ACTION THAT ARE SUBJECT TO ARBITRATION HAVE BEEN RESOLVED.  IF CLAIMS ARE ASSERTED AGAINST MULTIPLE PARTIES, SOME OF WHOM ARE NOT REQUIRED TO ARBITRATE, THE CLAIMS SUBJECT TO ARBITRATION MUST BE SEVERED.  HOWEVER, YOU RETAIN YOUR RIGHT TO FILE A COMPLAINT WITH ANY REGULATORY AGENCY OR COMMISSION;
+
+(3) NO ARBITRATOR HAS AUTHORITY TO AWARD RELIEF IN EXCESS OF WHAT THESE TERMS OF SERVICE PROVIDE OR TO ORDER CONSOLIDATION OR CLASS ARBITRATION, EXCEPT THAT AN ARBITRATOR DECIDING A CLAIM ARISING OUT OF OR RELATING TO A PRIOR AGREEMENT MAY GRANT AS MUCH SUBSTANTIVE RELIEF ON A NON-CLASS BASIS AS SUCH PRIOR AGREEMENT WOULD PERMIT.  IN ALL ARBITRATIONS, THE ARBITRATOR MUST GIVE EFFECT TO APPLICABLE STATUTES OF LIMITATIONS AND WILL DECIDE WHETHER AN ISSUE IS ARBITRABLE OR NOT.  IN A LARGE/COMPLEX-CASE ARBITRATION, THE ARBITRATORS MUST ALSO APPLY THE FEDERAL RULES OF EVIDENCE AND THE LOSING PARTY MAY HAVE THE AWARD REVIEWED BY A REVIEW PANEL CONSISTING OF THREE (3) ARBITRATORS; AND
+
+(4) IN THE EVENT THAT THE FOREGOING ARBITRATION REQUIREMENTS DO NOT APPLY, YOU AND AOA EACH WAIVE, TO THE FULLEST EXTENT ALLOWED BY LAW, ANY TRIAL BY JURY, AND A JUDGE WILL DECIDE ANY AND ALL DISPUTES.
+
+
+You may notify us by postal mail (Audi Customer Experience Center, 3800 Hamlin Road, Auburn Hills, MI 48326), phone at 1-877-505-2834, or by electronic means (via the myAudi website).  Such notices will be considered effective after we receive them.
+
+Any notice that we send you will be sent to your last known residence or electronic mail address as shown on our records.  It is your sole responsibility to ensure that we have the most up-to-date and accurate contact information for you at all times.  Any written notice from us will be considered given when we send it by email to the email address that you have provided to us that is then in our records or two days after we mail it to you at the most current billing address that we have on file for you.  Any oral notices will be considered given when we call you or when you call us toll-free at 1-877-505-2834 or you speak with a live customer service representative.
+
+Calls with our customer service representatives, emergency personnel, or the police may be monitored or recorded for quality assurance, issue resolution, maintaining service, training, or promoting or providing services.  Our and our Service Partners’ customer service representatives may remain on the line while conferencing in a third party to assist in completing a service request.  You (for yourself and your Vehicle’s occupants and anyone else acting or using the Service on your behalf):  (1) expressly consent to the monitoring and recording activities described herein and (2) release us and our Service Partners from claims, liabilities, and losses resulting in connection with any such monitored and/or recorded communications.
+
+
+
+18. Miscellaneous Terms
+a.             The Laws Governing Our Relationship
+
+To the full extent legally permissible, these Terms of Service and any disputes arising out of or relating to it or the Equipment or Service will be governed by the laws of the Commonwealth of Virginia, wherever filed without regard to conflicts of laws principles and subject to arbitration as set forth above.  In the event that the arbitration requirements of this agreement are inapplicable or unenforceable, any complaint or other legal action concerning these Terms of Service shall be interpreted under the laws of the Commonwealth of Virginia and shall be subject to the jurisdiction of the courts of the Commonwealth of Virginia.
+
+b.             Entire Agreement
+
+These Terms of Service (including the Key User Agreement, Privacy Statement, and any other document or policy incorporated by this Agreement) is the entire agreement between you and us.  It supersedes all other agreements, communications, or representations, oral or written, between us, past or present.  We are not responsible for any statements, agreements, representations, warranties, or covenants, oral or written, including, without limitation, any statements from third parties concerning or relating to the Equipment or the Service provided to you pursuant to these Terms of Service or your Service Plan unless such statements, agreements, representations, warranties, or covenants are expressly contained in or incorporated by these Terms of Service.
+
+c.              Effect of Termination of Terms of Service
+
+Even if you delete your myAudi account and discontinue use of the Services, the provisions of these Terms of Service will continue to govern any disputes arising out of or relating to it.  These Terms of Service will also be binding on your heirs and successors and on our successors.  In addition to any other provisions identified herein as surviving termination, the following provisions of these Terms of Service shall survive termination:  Sections 4, 5, 6, 7, 8, and 12 through 18.
+
+d.             Waiver; Severability
+
+No waiver of any part of these Terms of Service, or of any breach of it, in any one instance will require us to waive any other instance or breach.  If any part of these Terms of Service is declared invalid or unenforceable, all other parts of these Terms of Service are still valid and enforceable.
+
+e.              Relationship Between Parties
+
+Notwithstanding anything else herein, these Terms of Service do not create any fiduciary relationships between you and us or between you and any Audi Company or any of our other Service Partners.  These Terms of Service also do not create any relationship of principal and agent, partnership, or employer and employee between you and us or between you and any Audi Company or any of our Service Partners.
+
+f.               Third-Party Beneficiaries
+
+Without limitation of anything else set forth herein and unless you enter into a direct contractual arrangement with a particular Service Partner, you have no contractual relationship whatsoever with any of our Service Partners, including Wireless Service Providers, and these Terms of Service do not give you any rights against any Audi Company or any Service Partner.  You are not a third-party beneficiary of any agreement between us and any of our Service Partners.  As noted, Service Partners may have their own terms or conditions that govern delivery or performance of their respective service(s) or provision of a particular product.  None of our Service Partners has any legal, equitable, or other liability of any kind to you under these Terms of Service.  You expressly waive any and all claims or demands for such liability.  Our Service Partners are third-party beneficiaries of these Terms of Service.
+
+g.              Assignment
+
+We can assign these Terms of Service, in whole or in part, to any individual or entity we choose, at any time, without notice to you, in our sole discretion.
+
+h.             Export
+
+You agree to comply with all applicable trade regulations and export control laws, both domestic and foreign, and to allow any information you provide to be used for the purpose of ensuring export compliance.  The Equipment and the Service, and any underlying information accessed or transferred by you using the Service, may be subject to U.S. export controls, including the Export Administration Act (50 U.S.C. § 2401, et seq.) and the Export Administration Regulations (50 C.F.R. § 730-774), as well as the import regulations of other countries.  You agree not to export or re-export any such Equipment, software, or information to any foreign country.  Any information transferred by you using the Service or the Equipment to any foreign country, entity, or person must comply with the U.S. Export Administration Act and the Export Administration Regulations.
+
+i.               Intellectual Property
+
+The Service is protected by the United States and international copyright laws and may be subject to other intellectual property protections, including patent and trademark rights.  You may not (or permit or cause any other party to) reproduce, copy, distribute, modify, make derivative works from, perform, broadcast, display, transmit, reuse, re-post, use (except as expressly permitted herein), or claim any right in any aspect of the Service, including the content, text, images, audio, and video, without our express, prior written permission.
+
+j.               Trademarks. 
+
+Any trademarks, logos, and service marks (collectively “Marks”) displayed in connection with the Services are the registered and/or unregistered trademarks of Volkswagen Group of America, Inc. or other third parties.  Nothing contained in these Terms of Service or the Services should be construed as granting, by implication, estoppel, or otherwise, any license or right to use or display any Mark or any variation thereof without the written permission of Volkswagen Group of America, Inc. or the other owner thereof.  Your use of Volkswagen Group of America, Inc.’s Marks is strictly prohibited. 
+
+
+
+myAudi – Complimentary Charging with Electrify America
+Promotion Terms and Conditions
+By clicking “Submit” below, you agree to receive complimentary charging credit (the “Promotion”) from Audi on Electrify America’s network of electric vehicle DC fast  charging stations, made available to you through the myAudi services, including the myAudi mobile app.  There is no additional fee, purchase, or subscription required for your access to this Promotion.  You can redeem this credit during your initiation of a charging session at any Electrify America charging station, by entering the charging station ID number into the myAudi screen when prompted.
+
+Participation requires a myAudi account and app. Your mobile carrier’s normal messaging, data, and other rates and fees will apply to your use of the myAudi app. 
+
+By submitting your mobile phone number to Audi in connection with this Promotion, you consent to receive information about your charging session status from Audi through SMS or other text messaging.  Audi will not share or use this mobile phone number for any other purpose without your permission.  Standard SMS, texting, or mobile data rates from your mobile network carrier may apply to these status communications. 
+
+To view the specific Promotion that is included with your vehicle, log into the myAudi app and click on the “Electrify America energy usage” link. The complimentary charging Promotion will be available for a specified period of time or fixed kWh of energy.  You can see the expiration date for the Promotion or the remaining kWh for the Promotion in the myAudi app on the “Electrify America energy usage” screen. After you have consumed all of your charging under the Promotion at Electrify America charging stations, you will not be able to reload or add more credit to your account.  In addition, after this promotional period ends, you will not be able to access or use the remaining kWh credit on your account from this Promotion (if any).  Audi may provide you with a link or other information about creating an Electrify America account so that you can continue charging your vehicle on the Electrify America network, but you have no obligation to do so.
+
+The credit provided under this Promotion is not returnable or redeemable for any cash value, and may not be sold, loaned, or otherwise distributed to any third party.  You may not transfer any portion of the credit to any other myAudi account.
+
+You acknowledge that your use of the myAudi services is subject to the myAudi Terms of Service available at https://www.audiusa.com/terms-of-service, and that your use of the myAudi mobile app is subject to the Terms of Use accessible by selecting “About” under the “User” tab of the mobile app menu, then navigating to “Legal Information” and selecting “Terms of Use & Privacy Statement.”  You agree to comply with all applicable laws and regulations when using myAudi, and when charging your vehicle at Electrify America charging stations.  Audi will not be responsible to you for any damage, injury, or liability resulting from your use of any electric vehicle charging station.
+
+Subject to the restrictions below, there is no limit on the number of eligible charging sessions during the Promotion or the kWh amount of charging available in each session. However, please be aware that frequent and consecutive charging can permanently decrease battery capacity, which may not be covered your vehicle’s warranty. 
+
+
+
+PLEASE NOTE THE FOLLOWING IMPORTANT LIMITATIONS ON YOUR USE OF THIS PLAN:
+You may only use this Plan for charging the Audi vehicle associated with this Promotion. No other vehicle is eligible to receive charging under this Promotion through your account, whether owned by you or others.
+
+This Plan is not available for any vehicles in commercial use, such as ridesharing or taxi services.
+
+You must follow all instructions and heed all warnings contained in all product, vehicle, safety, and technical documentation included with your Audi vehicle and follow all instructions and safety recommendations posted at the Electrify America charging station when charging. Please see your Owner’s Manual for additional information.
+
+Audi reserves the right to withhold, revoke, reduce, terminate, or suspend your access to all or any portion of this Promotion  without notice if Audi determines or suspects, in its sole discretion, that you: (a) are in violation of the myAudi Terms of Service, the myAudi mobile app Terms of Use, these Promotion Terms and Conditions, or any other contract between you and Audi; (b) have incurred costs (including without limitation any parking or idle fees) during a charging session that are excessive, fraudulent, or otherwise indicate an unauthorized or unintended use  this f Promotion; or (c) have engaged in any illegal, fraudulent, tortious, injurious, harmful, or abusive conduct in your use of the myAudi service, the myAudi mobile app, or an Electrify America charging station.
+
+Audi reserves the right to end this Promotion at any time before its automatic termination date for any reason, in its sole discretion, with or without notice to you.  Following the termination or expiration of this Promotion for any reason, your access to the  credit under this Promotion will immediately cease, and you may not use or redeem any remaining portion of the  credit (if any).

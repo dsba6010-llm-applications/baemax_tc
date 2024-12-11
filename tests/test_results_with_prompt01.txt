@@ -1,0 +1,201 @@
+Evaluating 10 test case(s) in parallel: |██████████|100% (10/10) [Time Taken: 01:19,  7.96s/test case]
+
+======================================================================
+
+Metrics Summary
+
+  - ❌ Correctness (GEval) (score: 0.25719053320936747, threshold: 0.5, strict: False, evaluation model: gpt-4o, reason: The actual output does not confirm or refute the expected obligation of Audi regarding replacement equipment, lacking direct relevance to the expected statement., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4, reason: None, error: None)
+  - ❌ Answer Relevancy (score: 0.6666666666666666, threshold: 0.7, strict: False, evaluation model: gpt-4o, reason: The score is 0.67 because the response partially addresses the question but includes irrelevant information about myAudi and Audi Connect services, which does not directly relate to handling obsolete equipment., error: None)
+
+For test case:
+
+  - input: How does Audi handle situations where a technological change renders certain service-related equipment obsolete?
+  - actual output: The context does not provide specific details on how Audi handles situations where technological changes render service-related equipment obsolete. It mainly outlines the services and terms related to myAudi and Audi Connect services, but does not address obsolescence directly.
+  - expected output: Audi is not obligated to design or provide replacement equipment, leaving users to bear the cost.
+  - context: None
+  - retrieval context: ['in part be included as a part of a Paid Plan (as defined below).  Your Vehicle contains or requires the installation of additional hardware and software (“Equipment”) that enables you to receive or utilize certain Services.  Audi Connect services and Audi Financial Services, while accessible and manageable through myAudi, are governed by separate Terms of Service, available at Audi connect Terms and Audi Financial Services Terms and Policies.', 'These Terms of Service govern your use of the myAudi services (the capabilities of which may vary by model and model year), including account management (such as Audi financial payments, add-on plan details, and dealer information); vehicle details (such as videos and guides, service scheduling, warranty information, and personalized accessories) and exclusive benefits and content (such as lifestyle articles, luxury partner offers, exclusive events, and Audi owner community); the myAudi Marketplace (as further described below); management of your Audi Connect services, including Connect CARE, Connect PRIME, Connect NAV, and Connect PLUS; Audi Functions on Demand; and any other Audi designated services (together the “Service”) available with your Audi vehicle (your “Vehicle”), which may in part be included as a part of a Paid Plan (as defined below).  Your Vehicle contains or requires the installation of additional hardware and software (“Equipment”) that enables you to receive or']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Correctness (GEval) (score: 0.7388488494602017, threshold: 0.5, strict: False, evaluation model: gpt-4o, reason: Actual output includes additional context about products not as described, but correctly states the requirement to return in unused condition., error: None)
+  - ❌ Faithfulness (score: 0.6666666666666666, threshold: 0.7, strict: False, evaluation model: gpt-4, reason: None, error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4o, reason: The score is 1.00 because the response perfectly addresses the query without any irrelevant information. Keep up the great work!, error: None)
+
+For test case:
+
+  - input: What happens if a product offered by Amazon is not as described?
+  - actual output: If a product offered by Amazon is not as described, your only option is to return it in unused condition.
+  - expected output: Return it in unused condition.
+  - context: None
+  - retrieval context: ['PRODUCT DESCRIPTIONS\nAmazon attempts to be as accurate as possible. However, Amazon does not warrant that product descriptions or other content of any Amazon Service is accurate, complete, reliable, current, or error-free. If a product offered by Amazon itself is not as described, your sole remedy is to return it in unused condition.', "TO THE FULL EXTENT PERMISSIBLE BY LAW, AMAZON DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. AMAZON DOES NOT WARRANT THAT THE AMAZON SERVICES, INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE AMAZON SERVICES, AMAZON'S SERVERS OR ELECTRONIC COMMUNICATIONS SENT FROM AMAZON ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. TO THE FULL EXTENT PERMISSIBLE BY LAW, AMAZON WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF ANY AMAZON SERVICE, OR FROM ANY INFORMATION, CONTENT, MATERIALS, PRODUCTS (INCLUDING SOFTWARE) OR OTHER SERVICES INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH ANY AMAZON SERVICE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES, UNLESS OTHERWISE SPECIFIED IN WRITING."]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Correctness (GEval) (score: 0.7333542219218782, threshold: 0.5, strict: False, evaluation model: gpt-4o, reason: The actual output correctly states disputes are resolved through arbitration or small claims court and mentions the waiver of class action indirectly by outlining arbitration initiation and small claims court eligibility. However, it lacks a direct reference to the waiver of class action rights., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4, reason: None, error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4o, reason: The score is 1.00 because the output perfectly addresses the input without any irrelevant statements. Great job!, error: None)
+
+For test case:
+
+  - input: What is Chick-fil-A's policy on arbitration?
+  - actual output: - If a claim cannot be resolved within 60 days, either party can start arbitration or small claims court proceedings.
+- To initiate arbitration, a letter must be sent to Chick-fil-A's Legal Department and the AAA, describing the claim.
+- Claims that could be handled in small claims court can be elected to be heard there instead of arbitration, before an arbitrator is appointed.
+- Any disputes about eligibility for small claims court are decided by the court, not an arbitrator.
+- Arbitration proceedings will remain closed until the small claims court makes a decision if there's a dispute about court eligibility.
+  - expected output: Disputes are resolved through binding arbitration or small claims court, with a waiver of class action rights.
+  - context: None
+  - retrieval context: ['If we are unable to resolve your claim within 60 days despite those good faith efforts, then either you or we may start arbitration or small claims court proceedings. To begin arbitration, you must send a letter requesting arbitration and describing your claim to the following address: Chick-fil-A, Inc., ATTN: Legal Department, 5200 Buffington Rd, Atlanta, GA 30349 and to the AAA. Notwithstanding the foregoing, if the claims asserted in any request or demand for arbitration could have been brought in small claims court, then either you or we may elect to have the claims heard in small claims court, rather than in arbitration, at any time before the arbitrator is appointed, by notifying the other party of that election in writing. Any dispute about whether a claim qualifies for small claims court will be resolved by that court, not by an arbitrator. In the event of any such dispute, the arbitration proceeding will remain closed unless and until the small claims court issues a decision', 'If we are unable to resolve your claim within 60 days despite those good faith efforts, then either you or we may start arbitration or small claims court proceedings. To begin arbitration, you must send a letter requesting arbitration and describing your claim to the following address: Chick-fil-A, Inc., ATTN: Legal Department, 5200 Buffington Rd, Atlanta, GA 30349 and to the AAA. Notwithstanding the foregoing, if the claims asserted in any request or demand for arbitration could have been brought in small claims court, then either you or we may elect to have the claims heard in small claims court, rather than in arbitration, at any time before the arbitrator is appointed, by notifying the other party of that election in writing. Any dispute about whether a claim qualifies for small claims court will be resolved by that court, not by an arbitrator. In the event of any such dispute, the arbitration proceeding will remain closed unless and until the small claims court issues a decision']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Correctness (GEval) (score: 0.8152796193240652, threshold: 0.5, strict: False, evaluation model: gpt-4o, reason: The actual output correctly states that the context does not mention a waiver of provisions by Mettler-Toledo and aligns with the expected output. However, it includes additional details that are not directly related to the waiver issue., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4, reason: None, error: None)
+  - ❌ Answer Relevancy (score: 0.2857142857142857, threshold: 0.7, strict: False, evaluation model: gpt-4o, reason: The score is 0.29 because the response primarily includes irrelevant information about legal frameworks and jurisdictions, which do not answer the question about whether Mettler-Toledo waives any provisions., error: None)
+
+For test case:
+
+  - input: Does METTLER TOLEDO's waive any provision?
+  - actual output: The context does not explicitly mention any waiver of provisions by Mettler-Toledo. It outlines the governing law and jurisdiction for disputes but does not indicate any waiver of rights or provisions. Here are the key points:
+
+- The contract is governed by the laws of the country where the Mettler-Toledo office on the order documents is located.
+- If the office is in the USA, Delaware state laws apply.
+- Legal claims must be filed in the court nearest to the Mettler-Toledo office on the order documents.
+- Mettler-Toledo can choose to initiate legal proceedings in any competent court.
+- The United Nations Convention on Contracts for the International Sale of Goods does not apply.
+  - expected output: No, METTLER TOLEDO does not waive any provision.
+  - context: None
+  - retrieval context: ['Mettler-Toledo Standard Terms and Conditions for Sales and Service', '24. GOVERNING LAW AND PLACE OF JURISDICTION – The performance of the parties to this contract, and the relationship between the parties, is subject to the applicable laws of the country where the Mettler Toledo office identified on the MT order documents is located; if the Mettler Toledo office identified on the MT order documents is located in the United States of America, the laws of the State of Delaware apply. The exclusive venue for claims arising under this contract is the court with competent jurisdiction nearest to the Mettler Toledo office identified on the MT order documents; if the Mettler Toledo office identified on the MT order documents is located in the United States of America, the courts of the State of Delaware are the exclusive venue. However, MT reserves the right to initiate court proceedings against Buyer at any other court of competent jurisdiction. The United Nations Convention on Contracts for the International Sale of Goods is explicitly excluded.']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Correctness (GEval) (score: 0.6474614551196836, threshold: 0.5, strict: False, evaluation model: gpt-4o, reason: The actual output mentions location access, which aligns with the expected output, but includes additional permissions not specified in the expected output., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4, reason: None, error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4o, reason: The score is 1.00 because the response was perfectly relevant and addressed the question without any irrelevant information. Great job!, error: None)
+
+For test case:
+
+  - input: What permissions might you grant when using Amazon-created apps?
+  - actual output: When using Amazon-created apps, you might grant the following permissions:
+
+- Access to your device's location services.
+- Permission to access your contacts.
+- Other permissions that your mobile device will inform you about.
+- The ability to change these permissions in your device's settings menu.
+  - expected output: Device-specific permissions like location or camera access.
+  - context: None
+  - retrieval context: ['We generally do not charge your credit card until after your order has entered the shipping process or, for digital products, until we make the digital product available to you.\n\nAPP PERMISSIONS\nWhen you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions, click here.\n\nSANCTIONS AND EXPORT POLICY\nYou may not use any Amazon Service if you are the subject of U.S. sanctions or of sanctions consistent with U.S. law imposed by the governments of the country where you are using Amazon Services. You must comply with all U.S. or other export and re-export restrictions that may apply to goods, software (including Amazon Software), technology, and services.', 'You will also be able to opt out of certain other types of data usage by updating your settings on the applicable Amazon website (e.g., in "Manage Your Content and Devices"), device, or application. For more information click here. Most non-Amazon devices also provide users with the ability to change device permissions (e.g., disable/access location services, contacts). For most devices, these controls are located in the device\'s settings menu. If you have questions about how to change your device permissions on devices manufactured by third parties, we recommend you contact your mobile service carrier or your device manufacturer.\nIf you are a seller, you can add or update certain information in Seller Central, update your account information by accessing your Seller Account Information, and adjust your email or other communications you receive from us by updating your Notification Preferences.']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Correctness (GEval) (score: 0.9533663678530517, threshold: 0.5, strict: False, evaluation model: gpt-4o, reason: The actual output correctly states that Apple does not share data with brokers and its advertising platform does not link user/device data with third-party data., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4, reason: None, error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4o, reason: The score is 1.00 because the response perfectly addresses the question about Apple's advertising platform and its approach to user tracking without any irrelevant information. Great job!, error: None)
+
+For test case:
+
+  - input: How does Apple’s advertising platform differ from others regarding user tracking?
+  - actual output: 1. Apple treats data collected through cookies and similar technologies as non-personal, but if local laws consider IP addresses as personal data, Apple treats them as such in those regions.
+2. Apple may combine non-personal data with personal data, and if combined, it is treated as personal data under their Privacy Policy.
+3. Apple's advertising platform does not track users by linking data from its apps with data from third parties for targeted advertising.
+4. Apple does not share user or device data with data brokers.
+5. Users can disable Personalized Ads to opt out of interest-based ads, but may still see context-based ads.
+  - expected output: It does not link user/device data with third-party data or share data with brokers.
+  - context: None
+  - retrieval context: ['Apple generally treats data we collect using these cookies and similar technologies as non-personal data. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal data by local law, we also treat these identifiers as personal data in those regions. In addition, Apple sometimes combines non-personal data collected from these technologies with other personal data Apple holds. When we combine data in this way, we treat the combined data as personal data for purposes of this Privacy Policy.\n\nAds that are delivered by Apple’s advertising platform may appear on the App Store, Apple News, Stocks, and Apple TV app depending on your location. Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers.', "If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple Account out of receiving such ads regardless of what device you are using. On your iOS, iPadOS, or visionOS device, you can disable Personalized Ads by going to Settings > Privacy & Security > Apple Advertising and tapping to turn off Personalized Ads. On your Mac, you can disable Personalized Ads by going to System Settings > Privacy & Security > Privacy > Advertising, then deselecting Personalized Ads. You may still see ads in the App Store, Apple News, or Stocks based on context like your search query or the channel you are reading. If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies."]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Correctness (GEval) (score: 0.8254054216838981, threshold: 0.5, strict: False, evaluation model: gpt-4o, reason: The actual output correctly states Audi's ability to revoke access for violations, excessive or fraudulent use. However, it expands on specific conditions not mentioned in the expected output such as commercial use restrictions., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4, reason: None, error: None)
+  - ✅ Answer Relevancy (score: 0.8, threshold: 0.7, strict: False, evaluation model: gpt-4o, reason: The score is 0.80 because while the response addresses the main question about Audi revoking access to the charging promotion, it includes an irrelevant statement about vehicles used for commercial purposes, which detracts slightly from the focus on the revocation conditions., error: None)
+
+For test case:
+
+  - input: Can Audi revoke access to the complimentary charging promotion without notice, and under what conditions?
+  - actual output: - Audi can revoke your access to the charging promotion without notice if they believe you violated any terms or agreements with them.
+- If you incur excessive or fraudulent costs during a charging session, Audi may suspend your access.
+- Engaging in illegal or harmful activities while using Audi services or charging stations can lead to termination of access.
+- The promotion is only for charging the specific Audi vehicle associated with it, not for any other vehicles.
+- Vehicles used for commercial purposes, like ridesharing or taxis, are not eligible for this promotion.
+  - expected output: Yes, Audi can revoke access if there is suspected excessive, fraudulent, or unauthorized use or violation of any terms.
+  - context: None
+  - retrieval context: ['Audi reserves the right to withhold, revoke, reduce, terminate, or suspend your access to all or any portion of this Promotion  without notice if Audi determines or suspects, in its sole discretion, that you: (a) are in violation of the myAudi Terms of Service, the myAudi mobile app Terms of Use, these Promotion Terms and Conditions, or any other contract between you and Audi; (b) have incurred costs (including without limitation any parking or idle fees) during a charging session that are excessive, fraudulent, or otherwise indicate an unauthorized or unintended use  this f Promotion; or (c) have engaged in any illegal, fraudulent, tortious, injurious, harmful, or abusive conduct in your use of the myAudi service, the myAudi mobile app, or an Electrify America charging station.', 'Subject to the restrictions below, there is no limit on the number of eligible charging sessions during the Promotion or the kWh amount of charging available in each session. However, please be aware that frequent and consecutive charging can permanently decrease battery capacity, which may not be covered your vehicle’s warranty. \n\n\n\nPLEASE NOTE THE FOLLOWING IMPORTANT LIMITATIONS ON YOUR USE OF THIS PLAN:\nYou may only use this Plan for charging the Audi vehicle associated with this Promotion. No other vehicle is eligible to receive charging under this Promotion through your account, whether owned by you or others.\n\nThis Plan is not available for any vehicles in commercial use, such as ridesharing or taxi services.']
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Correctness (GEval) (score: 0.677144196399749, threshold: 0.5, strict: False, evaluation model: gpt-4o, reason: The actual output mentions removing content for copyright violations, aligning with the expected output. However, it does not explicitly mention taking legal action, which is a key element in the expected output., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4, reason: None, error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4o, reason: The score is 1.00 because the response perfectly addresses the question about Costco's policy on handling user-generated content related to copyright or trademark laws without any irrelevant information. Great job!, error: None)
+
+For test case:
+
+  - input: What is Costco policy on handling user-generated content that may violate copyright or trademark laws?
+  - actual output: - Costco reserves the right to take actions such as issuing warnings, suspending or terminating access, and removing or editing content if it believes the content may violate copyright or trademark laws.
+- Costco does not take responsibility or assume liability for any content posted by users or third parties, including any potential copyright or trademark violations.
+- Users are solely responsible for the content they upload and must ensure they have the rights to grant licenses to Costco.
+- Users agree to indemnify Costco against any claims or damages arising from their content or conduct, including violations of copyright or trademark laws.
+  - expected output: Costco may remove infringing content and take legal action against users who violate copyright laws.
+  - context: None
+  - retrieval context: ["obligation, to take any action we deem appropriate, including but not limited to action to issue a warning, suspend or terminate your access and use of the Sites and related services at any time, and block, remove or edit any communication and materials that Costco believes in its sole discretion may violate applicable law, the Site Terms or a third party's rights. Costco takes no responsibility and assumes no liability for any Content posted or uploaded by you or any third party, or for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter.", "6. Responsibility for Your Conduct\nYou represent and warrant that you have and will retain all rights necessary to grant the licenses to Costco under these Terms. You remain solely liable for the Content or other information you upload or transmit to the discussion forums or interactive areas of the Sites, including the Photo Services. You agree to indemnify and hold harmless Costco and its parents, employees, agents and representatives from any third-party claim, action, demand, loss, or damages (including attorneys' fees) arising out of or relating to your conduct, your actual or attempted violation of these Site Terms or any applicable law, your Submissions (including Content and Photo Content), your violation of any rights of a third party, or the acts or omissions of a third party who has authority to access or use the Sites on your behalf or arising out of your violation of these Site Terms."]
+
+======================================================================
+
+Metrics Summary
+
+  - ✅ Correctness (GEval) (score: 0.9755864904599998, threshold: 0.5, strict: False, evaluation model: gpt-4o, reason: The actual output matches the expected output by stating the nonexclusive, royalty-free, perpetual, irrevocable, and sublicensable rights exactly as required., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4, reason: None, error: None)
+  - ✅ Answer Relevancy (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4o, reason: The score is 1.00 because the response is perfectly relevant and directly addresses the user's question without any irrelevant information. Great job!, error: None)
+
+For test case:
+
+  - input: What rights do users grant Amazon when posting reviews or comments?
+  - actual output: - Users grant Amazon a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use their content.
+- Amazon can use, reproduce, modify, adapt, publish, perform, translate, create derivative works from, distribute, and display the content worldwide in any media.
+- Users allow Amazon and its sublicensees to use the name submitted with the content.
+- Users must ensure they own or control all rights to the content and that it is accurate and non-infringing.
+- Users agree to indemnify Amazon for any claims related to the content they provide.
+  - expected output: Nonexclusive, royalty-free, perpetual, irrevocable, and sublicensable rights.
+  - context: None
+  - retrieval context: ['If you do post content or submit material, and unless we indicate otherwise, you grant Amazon a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, perform, translate, create derivative works from, distribute, and display such content throughout the world in any media. You grant Amazon and sublicensees the right to use the name that you submit in connection with such content, if they choose. You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate this policy and will not cause injury to any person or entity; and that you will indemnify Amazon for all claims resulting from content you supply. Amazon has the right but not the obligation to monitor and edit or remove any activity or content. Amazon takes no responsibility and assumes no liability for any content posted by you or any', 'REVIEWS, COMMENTS, COMMUNICATIONS, AND OTHER CONTENT\nYou may post reviews, comments, photos, videos, and other content; send e-cards and other communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights (including publicity rights), or otherwise injurious to third parties or objectionable, and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of "spam" or unsolicited commercial electronic messages. You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a card or other content. Amazon reserves the right (but not the obligation) to remove or edit such content, but does not regularly review posted content.']
+
+======================================================================
+
+Metrics Summary
+
+  - ❌ Correctness (GEval) (score: 0.012116368265565936, threshold: 0.5, strict: False, evaluation model: gpt-4o, reason: The actual output does not address the restriction on accepting rewards at licensed or non-traditional locations like airports or colleges, which is the key point in the expected output., error: None)
+  - ✅ Faithfulness (score: 1.0, threshold: 0.7, strict: False, evaluation model: gpt-4, reason: None, error: None)
+  - ❌ Answer Relevancy (score: 0.4166666666666667, threshold: 0.7, strict: False, evaluation model: gpt-4o, reason: The score is 0.42 because most of the statements provided do not directly address the question about using Chick-fil-A rewards at all locations, detracting from the overall relevancy. However, some aspects may still offer useful information related to rewards, just not specifically to the location usage inquiry., error: None)
+
+For test case:
+
+  - input: Can I use Chick-fil-A rewards at all locations?
+  - actual output: Rewards cannot be redeemed through any third-party platforms. Rewards provided to Members have set terms and will expire in accordance with the terms stated for that Reward. Determinations regarding redemption of Points are subject to Chick-fil-A’s discretion. qualifying purchases and preferences. In certain events, Member Benefits may require that you have location settings enabled for them to be distributed to your App. Please note that Chick-fil-A and participating Chick-fil-A restaurants may be unable to send these Member Benefits to you if you have turned off your notifications or location settings in the App; if you have elected not to receive email or other communications from Chick-fil-A; or if you have poor network connectivity. Member Benefits may have certain restrictions including expiration dates and short, time-limited redemption periods. Member Benefits are personal to you and cannot be shared, copied or transferred, except as the Program may allow in certain limited instances. You may be required to present your Chick-fil-A One account information at the participating Chick-fil-A restaurant in order to redeem Member Benefits. Read each offer carefully for specific details, limitations and restrictions.
+  - expected output: No, rewards may not be accepted at licensed or non-traditional locations like airports or colleges.
+  - context: None
+  - retrieval context: ['the App or online at www.chick-fil-a.com/MyProfile/AddRewards or https://order.chick-fil-a.com while logged into your Chick-fil-A One Account. Rewards cannot be redeemed through any third-party platforms. Rewards provided to Members have set terms and will expire in accordance with the terms stated for that Reward. Determinations regarding redemption of Points are subject to Chick-fil-A’s discretion.', 'qualifying purchases and preferences. In certain events, Member Benefits may require that you have location settings enabled for them to be distributed to your App. Please note that Chick-fil-A and participating Chick-fil-A restaurants may be unable to send these Member Benefits to you if you have turned off your notifications or location settings in the App; if you have elected not to receive email or other communications from Chick-fil-A; or if you have poor network connectivity. Member Benefits may have certain restrictions including expiration dates and short, time-limited redemption periods. Member Benefits are personal to you and cannot be shared, copied or transferred, except as the Program may allow in certain limited instances. You may be required to present your Chick-fil-A One account information at the participating Chick-fil-A restaurant in order to redeem Member Benefits. Read each offer carefully for specific details, limitations and restrictions.']
+
+======================================================================
+
+Overall Metric Pass Rates
+
+Correctness (GEval): 80.00% pass rate
+Faithfulness: 90.00% pass rate
+Answer Relevancy: 70.00% pass rate
+
+======================================================================

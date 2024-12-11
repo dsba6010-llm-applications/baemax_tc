@@ -1,0 +1,137 @@
+vivo Privacy Policy
+
+Last updated: 1 May 2022
+
+Welcome! vivo highly respects your privacy and values your trust. vivo's Privacy Policy explains how we collect, use, store, share, transfer or otherwise process your personal data according to applicable personal data protection legislation, as well as your rights in determining what we do with the personal data about you when you use our device and accessories, applications, operating system, websites, and other products or services.
+
+For particular products, services or features that require to use your personal data, vivo will provide specific privacy terms before data collection. You will have a chance to view the related information before using these features or review such information at any time.
+
+Please read our Privacy Policy carefully and Contact Us if you have any questions.
+1. Terms and Definitions
+
+Controller means the natural or legal person or other organization which, alone or jointly with others, determines the purposes and means of the processing of personal data.
+Personal data means any information relating to an identified or identifiable natural person ("data subject"). For example, the name or Identity ID that identifies you directly or the device identifier that identifies you indirectly. You (user of our services) are the data subject for the purpose of this Privacy Policy.
+2.Legal grounds for processing personal data 
+
+vivo will process your personal data only where there are legal grounds to do so. Depending on the circumstance, those grounds include the following:
+(a) Consent: You have provided your consent to the processing of your personal data.
+(b) Contract: The processing is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract.
+(c) Legal obligations: The processing of your personal data is required by applicable laws.
+(d) Legitimate interests: The processing of your personal data is necessary for the purposes of our legitimate interests, in consideration of your interests, rights or reasonable expectation.
+(e) Other circumstances stipulated by applicable laws.
+
+3. Categories of personal data we collect
+vivo will only collect necessary personal data, which may include the following categories depending on the products or services you choose to use. You can also view details of its personal data processing in Settings of the relevant service.
+(a) Registration and account information
+Your registered account with vivo or other accounts that can be used in vivo services and its related details, including the account ID, email address, phone number, and other related information.
+(b) Identity information
+Such as name, age, and gender
+(c) Contact information
+Including phone numbers, email addresses, residential addresses, social accounts or other contact details.
+(d) Device information
+We may collect device-related information from you if you access our services through a mobile device, for example, the country/region code of your device, device model, software version, device location, IMEI (International Mobile Equipment Identity), eMMC ID (embedded multimedia card), UFS ID (universal flash storage), SIM and IMSI (International Mobile Subscriber Identity), GAID (Google Advertising ID), GUID (Global Unique Identifier of the operating system), serial number or other unique identifiers of the device/module, CPU information, hardware information such as configuration and parameter of the screen, mobile carrier, customization information, language and other settings, application information and other necessary information that may relate to the mobile device you use.
+(e) Network information
+Such as IP address, network type, and network connection status.
+(f) Log Information
+Information about your use of our products or services, such as the time and duration of your use of the services, authorization records, product interactions, crash records, and diagnostic data.
+(g) Transaction Information
+Information related to the transaction process of the ordering, shipping, returning/exchanging, refunding, reviewing and invoicing of products and services.
+(h) Other information you voluntarily provide
+The information you voluntarily provide to us for participating in vivo activities, interacting with vivo or improving your personal file, such as the content you interact with us on our social media.
+
+4. Purposes of our processing of personal data
+vivo may process your personal data to fulfill the following purposes:
+(a) Provide the software-related services you need
+We process collected personal data to (i) provide, maintain, improve, protect and develop all of our services, products, content; (ii) send notices to you of our software updates, policy updates or other information that we believe may be important to you; (iii) troubleshoot device or application errors, identify abnormal problems, and diagnose and repair; (iv) determine the compatibility of devices and software, and provide customized products or services.
+(b) To carry out necessary internal audit, data analysis and service evaluation
+We use the aggregate user usage information to analyze service performance, compile reports or conduct evaluations, such as service satisfaction evaluation, product usage statistics and product sales statistics, in order to provide our customers with better products and services, and optimize our resources and its management.
+(c) To conduct sales and customer support services
+We may use your personal data to (i) process your transactions; (ii) administer promotional activities such as sweepstakes, contests or other similar events; or (iii) provide customer support service, such as repairing, interacting with you through the call center, online chat or email, or responding to your inquires.
+(d) Business security and risk control
+To ensure the security of our service systems, prevent unauthorized access or cyber-attacks, improve our loss prevention and anti-fraud programs, identify risks to your service account and keep your account secure.
+(e) Personalized services and marketing information
+When you choose to enable the personalized services where they are available, we may analyze your usage habits and preferences based on your usage data, create tagged group user profiles to show your possible interested content or advertisements, thus optimizing the product service experience. With your express consent, we may also send you marketing communications (if you do not wish to receive such communications, you may unsubscribe at any time). We will only send you marketing materials for which you have previously given express consent to receive such communications. We will ensure that all electronic marketing communications include a method that allows you to unsubscribe from such communications.
+(f) Compliance with legal obligations
+To comply with applicable law or a lawful governmental request, such as retaining transaction information, and satisfying tax or reporting obligations.
+
+5. How long we keep your personal data
+We process your personal data for as long as is necessary to fulfill the purpose for which it was collected, including as described in this Privacy Policy or our privacy terms for specific services, or as required by applicable laws. We build upon the following criteria to determine the retention period of personal data about you:
+(a) The duration for which the personal data is used to provide you with a service;
+(b) Your request, or obligations under a contract with you;
+(c) Regulatory or legal obligation.
+When it is no longer necessary to retain your personal data, or if deletion is requested, we will delete related personal data that we hold about you from our systems within the shortest possible period permissible under law. However, we may continue processing your personal data if we have other legal grounds or if we are obliged to maintain necessary records for legal, financial, compliance, or other reporting obligations.
+
+6. How we share your personal data
+Personal data may be shared under the following circumstances:
+(a) Entrusted processing
+vivo will process your personal data by itself, or by entrusting its affiliates and service providers to process your personal data in accordance with our instructions. We will sign data protection agreements with relevant companies to ensure that their processing practices comply with this Privacy Policy and provide protection for your data at a standard that is no less than ours.
+(b) Service provision and statistics
+In order to ensure the provision of specific features to you, or to complete the statistic and settlement of advertising service, we may provide your personal data to the corresponding service providers or others designated by you, including advertising companies, logistics companies, online service providers, e-commerce platforms, third-party technical service providers, mobile operators, etc. We will list the relevant third-party information and data we provided in our service-specific privacy terms. We require data recipients to comply with applicable data protection laws and to take necessary and reasonable measures to protect your personal data.
+(c) Legal compliance
+We may be required to disclose your personal data by local judicial or governmental authorities, agencies, or as mandated under applicable laws.
+(d) Change of control
+In the event of any actual or prospective merger, restructuring or sale, vivo may need to provide your personal data to related third parties
+
+7. Your Rights
+We respect your privacy and rights. You have rights with respect to your personal data in accordance with applicable data protection legislation. In order to exercise your rights specified in the following section, you may send your request by visiting our Privacy Support, we will respond to your request without undue delay. Upon request, we will confirm whether we hold or are processing information that we have collected from you. Under the following circumstances, we will not be able to fulfill your request, such as if it interferes with our legal obligations, it affects our anti-fraud program, we cannot verify your identify, it may harm the interests or rights of others, or it involves disproportionate cost or effort. But in any event, we will respond to your request within a reasonable timeframe and provide you with an explanation. Please note that we may keep a record of your communications.
+You may exercise the following rights by contacting us:
+(a) Right to object
+This right enables you to object to us processing your personal data where we do so for one of the following reasons, we will stop processing your data for such purposes:
+• for our legitimate interests to do so;
+• to enable us to perform a task in the public interest or exercise official authority;
+• to send you direct marketing materials; or
+• for scientific, historical, research or statistical purposes.
+(b) Right to withdraw consent
+Where we have obtained your consent to process your personal data for certain activities (for example, for marketing), you may withdraw this consent at any time, we will cease to use your personal data and delete your personal data within a reasonable time period. Unless we are required by law to continue processing your personal data, in which case we will inform you of this basis.
+(c) Right to access
+You may ask us for details of the information we hold about you at any time, and request us to modify, update or delete such information.
+If we provide you with access to the information we hold about you, we will not charge you for this unless permitted by law. If you request further copies of this information from us, we may charge you a reasonable administrative cost.
+(d) Right to erasure
+You have the right to request that we "erase" your personal data in certain circumstances. Normally, this right exists where:
+• It is no longer necessary for us to process your personal data;
+• You have withdrawn your consent to us using your personal data, and there is no other valid reason for us to continue;
+• The personal data has been processed unlawfully;
+• It is necessary for the personal data to be erased in order for us to comply with our obligations under law; or
+• You object to the processing and we are unable to demonstrate overriding legitimate grounds for our continued processing.
+We would only be entitled to refuse to comply with your request for erasure in limited circumstances and we will always tell you our reason for doing so. When complying with a valid request for the erasure of personal data we will take all reasonably practicable steps to delete the relevant personal data.
+(e) Right to restrict processing
+You have the right to request that we restrict our processing of your personal data in certain circumstances, for example, if you dispute the accuracy of the personal data that we hold about you or you object to our processing of your personal data for our legitimate interests. If we have shared your personal data with third parties, we will notify them about the restricted processing unless this is impossible or involves disproportionate effort. We will, of course, notify you before lifting any restriction on processing your personal data.
+(f) Right to rectification
+You have the right to request that we rectify any inaccurate or incomplete personal data that we hold about you. If we have shared this personal data with third parties, we will notify them about the rectification unless this is impossible or involves disproportionate effort. You may also request details of the third parties that we have disclosed the inaccurate or incomplete personal data to. Where we think that it is reasonable for us not to comply with your request, we will explain our reasons for this decision.
+(g) Right to data portability
+You have the right to request to receive your personal data in a convenient form or request to transmit those data between service providers, provided that 1) the personal data is processed by automated means; 2) the personal data has been provided to us by data subjects; and 3) the basis for processing is your consent, or that the data is being processed to fulfill a contract or steps preparatory to a contract. In effect, this means that you are able to transfer the details we hold about you to another third party. To allow you to do so, we will provide you with your personal data in a commonly used machine-readable format so that you can transfer the personal data.
+(h) Right to complain
+You have the right to lodge a complaint with the relevant supervisory authority.
+Please be aware that we will obtain and retain information about the exercises of your rights, for example, your consent to and your withdrawal of consent to certain privacy terms subject hereto, and your request to delete the data we collect from you.
+
+8. Cookies
+Please refer to our separate Cookies Policy for information about how we use cookies and similar technologies to enhance your online experience and customize our service for you.
+
+9. Third party services
+Our services may contain links to other third-party websites, products and services, or use or offer products or features from third parties. Information collected by third parties is governed by their privacy policies, we encourage you to learn about their privacy policy before using such features. You use those third-party services at your own risk.
+When you use some vivo products, services or applications, the personal data you share is might be visible to other users and in some cases to search engines and the public and can be read, collected, used and retained by those other parties. You are responsible for the personal data you choose to share or submit.
+
+10.Security
+vivo has implemented reasonable security measures to protect your personal data against loss, misuse, and unauthorized access, alteration, disclosure or destruction, including but not limited to administrative, technical and physical measures. However, please note that although we have implemented these measures, there is no security measure that can guarantee the absolute safety and security of your information.
+Below are some examples of data security measures we undertake:
+(a) Access control: establishing rules for access to personal data being processed in our information systems, prevent any unauthorized access to premises where the information systems are located.
+(b) Risk assessment: identifying threats to the security of personal data before processing, and assessing the effectiveness of measures taken to ensure the security of personal data.
+(c) Desensitization: using technical means to protect the information, including but not limited to encryption and de-identification techniques.
+(d) Processing records: recording all processing actions performed on personal data contained in our information systems.
+(e) Regularly detecting: detecting instances of unauthorized access to personal data and taking appropriate measures to mitigate the effects of such unauthorized access. Monitoring measures are taken to ensure the security of personal data and the level of protection of personal data information systems.
+(f) Restoration: taking all practicable measures to restore personal data which has been modified or destroyed as a result of unauthorized access.
+
+11. Minors' privacy
+None of vivo´s services are intended for minors as defined by applicable laws. We do not knowingly collect personal data via our services about minors. We will only use or disclose minors' information if
+(a) the parent or other legal representative of the minor has provided consent; or
+(b) there are other legal grounds as per applicable data protection laws.
+If we accidentally collect a minor's personal data without verified prior consent from the child's parents, we will attempt to delete the data as soon as possible. If you believe a minor has provided personal data to us without parental/legal guardian consent, please Contact Us.
+
+12. Storage and international transfer
+To provide the same level of data protection as that of the user's country/region and respond to users' requests more efficiently, the location where data is stored varies for users in different countries/regions. If you use our service in the European Economic Area, Andorra, Switzerland, Albania, Bosnia and Herzegovina, Macedonia, Monaco, Montenegro, Serbia, United Kingdom, Colombia, Türkiye, Australia, Peru and Israel, your personal data will be stored on our server located in Germany; If you use our service in Russia or India, your personal data will be stored on our server located in your country; If you use our service in other countries/regions, your personal data will be stored in our server located in Singapore.
+We want to make sure that your personal data is stored and transferred in a way that is secure. Where we transfer your personal data outside your country/region, we will take all reasonable steps to ensure that your data is treated securely and in accordance with this Privacy Policy. For example, this could be:
+• By way of a data transfer agreement with a third party, incorporating standard contractual clauses required by applicable law, to ensure that the third party protects your personal data; or
+• Where it is necessary for the conclusion or performance of a contract between ourselves and you, or between ourselves and a third party, and the transfer is in your interests for the purposes of that contract (for example, if we need to transfer your data to a benefits provider based outside your country); or
+• Where you have consented to the data transfer.
+You may contact us at any time to request a copy of those agreements or standard contractual clauses.
+
