@@ -128,6 +128,11 @@ st.markdown(
 # Consolidated API key handling
 st.sidebar.title("Powered by OpenAI")
 
+# Model selection
+model_options = ["gpt-4", "gpt-4-turbo-preview"]
+selected_model = st.sidebar.selectbox("Select Model", model_options)
+st.session_state["openai_model"] = selected_model
+
 # Try environment variable first, then fall back to sidebar input
 api_key = os.getenv("OPENAI_API_KEY") or st.sidebar.text_input(
     "OpenAI API Key",
@@ -239,11 +244,6 @@ if "openai_model" not in st.session_state:
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
-
-# Model selection
-model_options = ["gpt-4", "gpt-4-turbo-preview"]
-selected_model = st.sidebar.selectbox("Select Model", model_options)
-st.session_state["openai_model"] = selected_model
 
 # Reset button
 if st.sidebar.button("Reset Chat"):
