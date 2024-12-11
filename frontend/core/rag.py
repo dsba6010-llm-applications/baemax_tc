@@ -33,7 +33,9 @@ def load_metadata(metadata_path):
         return json.load(f)
 
 
-def create_documents_with_metadata(metadata_list, data_folder, chunk_size=1000, chunk_overlap=200):
+def create_documents_with_metadata(
+    metadata_list, data_folder, chunk_size=1000, chunk_overlap=200
+):
     """
     Create documents with metadata and content chunks.
     """
@@ -58,9 +60,13 @@ def create_documents_with_metadata(metadata_list, data_folder, chunk_size=1000, 
     return documents
 
 
-def initialize_vectorstore_with_metadata(metadata_file, data_folder, chunk_size=1000, chunk_overlap=200):
+def initialize_vectorstore_with_metadata(
+    metadata_file, data_folder, chunk_size=1000, chunk_overlap=200
+):
     metadata_list = load_metadata(metadata_file)
-    documents = create_documents_with_metadata(metadata_list, data_folder, chunk_size, chunk_overlap)
+    documents = create_documents_with_metadata(
+        metadata_list, data_folder, chunk_size, chunk_overlap
+    )
     embeddings = OpenAIEmbeddings()
 
     # Ensure metadata is being printed for debugging
@@ -97,7 +103,6 @@ def initialize_rag(metadata_file=metadata_path, data_folder=data_dir, k=2):
         return vectorstore.as_retriever(search_kwargs={"k": k})
     except Exception as e:
         raise ValueError(f"Failed to initialize RAG system: {e}")
-
 
 
 def encode_documents(path, chunk_size=1000, chunk_overlap=200):

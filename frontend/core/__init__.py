@@ -9,10 +9,10 @@ from .helpers import (
     process_uploaded_tc,
     read_file_content,
     read_pdf_to_string,
+    retrieve_all_metadata,
     retrieve_context_per_question,
     show_context,
     text_wrap,
-    retrieve_all_metadata
 )
 from .rag import (
     create_documents_with_metadata,
