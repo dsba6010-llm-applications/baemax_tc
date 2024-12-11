@@ -130,25 +130,25 @@ model_options = ["gpt-4", "gpt-4-turbo-preview"]
 selected_model = st.sidebar.selectbox("Select Model", model_options)
 st.session_state["openai_model"] = selected_model
 
-# Try environment variable first, then fall back to sidebar input
+# Ensure session state for API key
 if "api_key" not in st.session_state:
     st.session_state.api_key = ""
 
+# Input field for API key
 api_key = st.sidebar.text_input(
     "OpenAI API Key",
     type="password",
     help="Enter your OpenAI API key. This will not be stored permanently.",
     key="api_key_input",
-    value="",  # Ensure this always starts blank
 )
 
-# Ensure API key is entered before allowing further actions
+# Prevent actions until API key is provided
 if not api_key:
-    st.session_state.api_key = ""  # Clear API key if not provided
+    st.session_state.api_key = ""  # Clear stored API key
     st.sidebar.warning("Please enter your OpenAI API Key in the sidebar to continue.")
     st.stop()
 
-# Store API key in session state if it's new or different
+# Store the API key in session state if it has changed
 if st.session_state.api_key != api_key:
     st.session_state.api_key = api_key
     # Clear the retriever if API key changes
@@ -251,7 +251,7 @@ if "messages" not in st.session_state:
 if st.sidebar.button("Reset Chat"):
     st.session_state.messages = []
     st.session_state.api_key = ""  # Clear stored API key
-    st.rerun()
+    st.experimental_rerun()
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
