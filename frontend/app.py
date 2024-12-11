@@ -138,7 +138,6 @@ api_key = st.sidebar.text_input(
     "OpenAI API Key",
     type="password",
     help="Enter your OpenAI API key. This will not be stored permanently.",
-    value=st.session_state.api_key,
     key="api_key_input",
 )
 
