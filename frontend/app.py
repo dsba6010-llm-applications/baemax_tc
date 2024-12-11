@@ -131,15 +131,16 @@ selected_model = st.sidebar.selectbox("Select Model", model_options)
 st.session_state["openai_model"] = selected_model
 
 # Try environment variable first, then fall back to sidebar input
-api_key = os.getenv("OPENAI_API_KEY") or st.sidebar.text_input(
+api_key = st.sidebar.text_input(
     "OpenAI API Key",
     type="password",
     help="Enter your OpenAI API key. This will not be stored permanently.",
+    key="api_key_input",
 )
 
-# Prevent user input if API key is not provided
+# Ensure API key is entered before allowing further actions
 if not api_key:
-    st.warning("Please enter your OpenAI API Key in the sidebar to continue.")
+    st.sidebar.warning("Please enter your OpenAI API Key in the sidebar to continue.")
     st.stop()
 
 # Store API key in session state if it's new or different
@@ -245,7 +246,14 @@ if "messages" not in st.session_state:
 if st.sidebar.button("Reset Chat"):
     st.session_state.messages = []
     st.session_state.pop("api_key", None)  # Remove API key on reset
+    st.sidebar.text_input(
+        "OpenAI API Key",
+        type="password",
+        help="Enter your OpenAI API key. This will not be stored permanently.",
+        key="reset_api_key_input"
+    )
     st.sidebar.warning("Chat session reset! Please re-enter your OpenAI API Key.")
+    st.stop()
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
@@ -272,7 +280,7 @@ You can:
 Maintain a conversational and approachable tone. Always aim to provide clear, concise, and accurate answers."""
 
 # Accept user input
-if prompt := st.chat_input("What would you like to know?"):
+if prompt := st.chat_input("What would you like to know?", disabled=not api_key):
     # Add user message to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
