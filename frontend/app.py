@@ -139,10 +139,12 @@ api_key = st.sidebar.text_input(
     type="password",
     help="Enter your OpenAI API key. This will not be stored permanently.",
     key="api_key_input",
+    value="" if st.session_state.api_key == "" else st.session_state.api_key,
 )
 
 # Ensure API key is entered before allowing further actions
 if not api_key:
+    st.session_state.api_key = ""  # Clear API key if not provided
     st.sidebar.warning("Please enter your OpenAI API Key in the sidebar to continue.")
     st.stop()
 
@@ -249,7 +251,6 @@ if "messages" not in st.session_state:
 if st.sidebar.button("Reset Chat"):
     st.session_state.messages = []
     st.session_state.api_key = ""  # Clear stored API key
-    st.sidebar.warning("Chat session reset! Please re-enter your OpenAI API Key.")
     st.rerun()
 
 # Display chat messages from history on app rerun
@@ -277,7 +278,7 @@ You can:
 Maintain a conversational and approachable tone. Always aim to provide clear, concise, and accurate answers."""
 
 # Accept user input
-if prompt := st.chat_input("What would you like to know?", disabled=not api_key):
+if prompt := st.chat_input("What would you like to know?", disabled=st.session_state.api_key == ""):
     # Add user message to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
