@@ -251,7 +251,7 @@ if "messages" not in st.session_state:
 if st.sidebar.button("Reset Chat"):
     st.session_state.messages = []
     st.session_state.api_key = ""  # Clear stored API key
-    st.experimental_rerun()
+    st.rerun()
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
