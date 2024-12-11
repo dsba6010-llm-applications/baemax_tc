@@ -220,7 +220,7 @@ if "retriever" not in st.session_state:
         print(f"RAG initialization error: {str(e)}", file=sys.stderr)
         st.session_state.retriever = None
 
-# Add a visual separator
+    # Add a visual separator
     st.sidebar.markdown("---")
 
 # Dropdown to display available T&Cs
