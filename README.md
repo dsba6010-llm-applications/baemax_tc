@@ -1,16 +1,16 @@
 
-# Click Here! 👉 [![Streamlit](https://docs.streamlit.io/logo.svg)](https://baymaxtc.streamlit.app/)
+# Click Here! 👉 [![Streamlit](https://docs.streamlit.io/logo.svg)](https://baemaxtc.streamlit.app/)
 
-# 🚀 Baymax T&C: Your Friendly Terms of Service Summarizer
+# 🚀 Baemax T&C: Your Friendly Terms of Service Summarizer
 
-This repository contains the code for Baymax T&C, an LLM application designed to simplify complex Terms of Service (ToS) agreements.  We use Retrieval Augmented Generation (RAG) and large language models (LLMs) to provide clear and concise explanations of legal jargon, making ToS documents easier to understand.
+This repository contains the code for Baemax T&C, an LLM application designed to simplify complex Terms of Service (ToS) agreements.  We use Retrieval Augmented Generation (RAG) and large language models (LLMs) to provide clear and concise explanations of legal jargon, making ToS documents easier to understand.
 
 
-## ℹ️ About Baymax T&C
+## ℹ️ About Baemax T&C
 
-Baymax T&C uses a powerful LLM and a large repository of ToS agreements. When you ask a question about a specific ToS, the application searches its document store for relevant information (using RAG). This information is then processed by the LLM, which translates the legal language into plain English and generates a concise explanation.
+Baemax T&C uses a powerful LLM and a large repository of ToS agreements. When you ask a question about a specific ToS, the application searches its document store for relevant information (using RAG). This information is then processed by the LLM, which translates the legal language into plain English and generates a concise explanation.
 
-**Who can use Baymax T&C?**  Anyone! Consumers, employees, students, and anyone needing to understand online terms and conditions.
+**Who can use Baemax T&C?**  Anyone! Consumers, employees, students, and anyone needing to understand online terms and conditions.
 
 ## ⚙️ Key Features
 
@@ -22,7 +22,7 @@ Baymax T&C uses a powerful LLM and a large repository of ToS agreements. When yo
 
 ## 🎯 Addressing Common ToS Problems
 
-### Baymax T&C tackles the challenges of:
+### Baemax T&C tackles the challenges of:
 
 * **Legal jargon:** Complex legal language is translated into plain English.
 * **Length and complexity:**  Long and complicated ToS documents are summarized.
@@ -125,6 +125,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 📝 License
 
-Copyrights of the Baymax T&C Team
+Copyrights of the Baemax T&C Team
 
 Happy RAG-ing! 🎉
