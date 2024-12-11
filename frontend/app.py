@@ -137,6 +137,11 @@ api_key = os.getenv("OPENAI_API_KEY") or st.sidebar.text_input(
     help="Enter your OpenAI API key. This will not be stored permanently.",
 )
 
+# Prevent user input if API key is not provided
+if not api_key:
+    st.warning("Please enter your OpenAI API Key in the sidebar to continue.")
+    st.stop()
+
 # Store API key in session state if it's new or different
 if "api_key" not in st.session_state or st.session_state.api_key != api_key:
     st.session_state.api_key = api_key
@@ -149,12 +154,7 @@ if "processed_documents" not in st.session_state:
     st.session_state.processed_documents = {}
 
 try:
-    if not api_key:
-        st.warning("Please enter your OpenAI API Key in the sidebar to continue.")
-        st.stop()
-
     client = OpenAI(api_key=api_key)
-    st.sidebar.success("API key provided successfully!")
 
     # Add a visual separator
     st.sidebar.markdown("---")
@@ -245,12 +245,6 @@ if "messages" not in st.session_state:
 if st.sidebar.button("Reset Chat"):
     st.session_state.messages = []
     st.session_state.pop("api_key", None)  # Remove API key on reset
-    st.sidebar.text_input(
-        "OpenAI API Key",
-        type="password",
-        help="Enter your OpenAI API key. This will not be stored permanently.",
-        key="reset_api_key_input"
-    )
     st.sidebar.warning("Chat session reset! Please re-enter your OpenAI API Key.")
 
 # Display chat messages from history on app rerun
