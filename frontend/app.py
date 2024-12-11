@@ -58,7 +58,6 @@ if not metadata_path.exists():
     with open(metadata_path, "w") as f:
         json.dump([], f)
 
-
 def load_metadata(metadata_path=metadata_path):
     """
     Loads metadata from the specified JSON file.
@@ -80,13 +79,11 @@ def load_metadata(metadata_path=metadata_path):
         print(f"Metadata handling error: {str(e)}")
         return []
 
-
 def get_base64_image(image_path):
     import base64
 
     with open(image_path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode()
-
 
 col1, col2 = st.columns([4, 1])
 with col2:
@@ -248,7 +245,8 @@ if "messages" not in st.session_state:
 # Reset button
 if st.sidebar.button("Reset Chat"):
     st.session_state.messages = []
-    st.sidebar.success("Chat session reset!")
+    st.session_state.pop("api_key", None)  # Remove API key on reset
+    st.sidebar.success("Chat session reset! Please re-enter your OpenAI API Key.")
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
