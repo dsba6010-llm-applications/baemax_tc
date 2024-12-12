@@ -58,23 +58,6 @@ if not metadata_path.exists():
     with open(metadata_path, "w") as f:
         json.dump([], f)
 
-def reset_chat_state():
-    """
-    Reset the entire chat state, clearing all session variables
-    and requiring a new API key.
-    """
-    # Clear all session state variables
-    for key in list(st.session_state.keys()):
-        del st.session_state[key]
-    
-    # Ensure API key and messages are reset
-    st.session_state.api_key = ""
-    st.session_state.messages = []
-    st.session_state.retriever = None
-
-    # Force rerun to show initial API key input
-    st.rerun()
-
 def load_metadata(metadata_path=metadata_path):
     """
     Loads metadata from the specified JSON file.
@@ -102,195 +85,173 @@ def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode()
 
-def main():
-    # Set page configuration
-    st.set_page_config(page_title="Baemax T&C Analyzer")
-
-    # Check if API key is set
-    if 'api_key' not in st.session_state or not st.session_state.api_key:
-        # Show API key input screen
-        col1, col2 = st.columns([4, 1])
-        with col2:
-            st.markdown(
-                f"""
-                <div style="text-align: right;">
-                    <img src="data:image/jpg;base64,{get_base64_image(str(image_path))}" 
-                         style="width: 200px; height: 200px; object-fit: contain;">
-                </div>
-                """,
-                unsafe_allow_html=True,
-            )
-
-        st.title("API Key Required")
-        st.markdown("Please enter your OpenAI API Key to continue")
-        
-        api_key = st.text_input(
-            "OpenAI API Key", 
-            type="password", 
-            key="initial_api_key_input"
-        )
-        
-        if st.button("Submit API Key"):
-            if api_key:
-                try:
-                    # Validate API key by creating a client
-                    client = OpenAI(api_key=api_key)
-                    client.models.list()  # Quick validation check
-                    
-                    # Store API key in session state
-                    st.session_state.api_key = api_key
-                    st.session_state.messages = []
-                    
-                    # Initialize other necessary session states
-                    st.session_state.retriever = None
-                    
-                    # Refresh the app
-                    st.rerun()
-                except Exception as e:
-                    st.error("Invalid API Key. Please check and try again.")
-            else:
-                st.warning("Please enter an API key.")
-        
-        # Stop further execution
-        st.stop()
-
-    # Rest of the original script remains the same...
-    col1, col2 = st.columns([4, 1])
-    with col2:
-        st.markdown(
-            f"""
-            <div style="text-align: right;">
-                <img src="data:image/jpg;base64,{get_base64_image(str(image_path))}" 
-                     style="width: 200px; height: 200px; object-fit: contain;">
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
-
+col1, col2 = st.columns([4, 1])
+with col2:
     st.markdown(
-        """
-        <style>
-            .title {
-                font-size: 2.5rem;
-                font-weight: 700;
-                margin-bottom: 1rem;
-            }
-            .subheader {
-                font-size: 1.2rem;
-                color: #424242;
-                line-height: 1.6;
-                margin-bottom: 2rem;
-            }
-        </style>
-        
-        <div class="title">Baemax T&C</div>
-        <div class="subheader">
-            An App to help demystify terms and conditions agreements.<br>
-            Please upload a document or ask about the terms we have in our database.
+        f"""
+        <div style="text-align: right;">
+            <img src="data:image/jpg;base64,{get_base64_image(str(image_path))}" 
+                 style="width: 200px; height: 200px; object-fit: contain;">
         </div>
-    """,
+        """,
         unsafe_allow_html=True,
     )
 
-    # Consolidated API key handling
-    st.sidebar.title("Powered by OpenAI")
+st.markdown(
+    """
+    <style>
+        .title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+        .subheader {
+            font-size: 1.2rem;
+            color: #424242;
+            line-height: 1.6;
+            margin-bottom: 2rem;
+        }
+    </style>
+    
+    <div class="title">Baemax T&C</div>
+    <div class="subheader">
+        An App to help demystify terms and conditions agreements.<br>
+        Please upload a document or ask about the terms we have in our database.
+    </div>
+""",
+    unsafe_allow_html=True,
+)
 
-    # Model selection
-    model_options = ["gpt-4", "gpt-4-turbo-preview"]
-    selected_model = st.sidebar.selectbox("Select Model", model_options)
-    st.session_state["openai_model"] = selected_model
+# Consolidated API key handling
+st.sidebar.title("Powered by OpenAI")
 
-    try:
-        client = OpenAI(api_key=st.session_state.api_key)
+# Model selection
+model_options = ["gpt-4", "gpt-4-turbo-preview"]
+selected_model = st.sidebar.selectbox("Select Model", model_options)
+st.session_state["openai_model"] = selected_model
 
-        # Add a visual separator
-        st.sidebar.markdown("---")
+# Ensure session state for API key
+if "api_key" not in st.session_state:
+    st.session_state.api_key = ""
 
-        # Add file upload section
-        st.sidebar.header("What do you want to analyze?")
-        uploaded_file = st.sidebar.file_uploader(
-            "Upload T&C document",
-            type=["pdf", "docx", "txt"],
-            help="Supported formats: PDF, DOCX, TXT",
-        )
+# Input field for API key
+api_key = st.sidebar.text_input(
+    "OpenAI API Key",
+    type="password",
+    help="Enter your OpenAI API key. This will not be stored permanently.",
+    key="api_key_input",
+)
 
-        # Process uploaded file
-        if uploaded_file:
-            try:
-                # Read content
-                content = read_file_content(uploaded_file)
+# Prevent actions until API key is provided
+if not api_key:
+    st.session_state.api_key = ""  # Clear stored API key
+    st.sidebar.warning("Please enter your OpenAI API Key in the sidebar to continue.")
+    st.stop()
 
-                # Process content and get summary
-                chunks, summary = process_uploaded_tc(content, client, st.session_state)
+# Store the API key in session state if it has changed
+if st.session_state.api_key != api_key:
+    st.session_state.api_key = api_key
+    # Clear the retriever if API key changes
+    if "retriever" in st.session_state:
+        del st.session_state.retriever
 
-                # Create embeddings and update vector store
-                embeddings = OpenAIEmbeddings()
-                custom_vectorstore = FAISS.from_texts(
-                    chunks,
-                    embeddings,
-                    metadatas=[{"source": uploaded_file.name, "title": uploaded_file.name}]
-                    * len(chunks),
-                )
+# Initialize session state variables
+if "processed_documents" not in st.session_state:
+    st.session_state.processed_documents = {}
 
-                # Merge with existing retriever if it exists
-                if "retriever" in st.session_state and st.session_state.retriever:
-                    existing_vectorstore = st.session_state.retriever.vectorstore
-                    existing_vectorstore.merge_from(custom_vectorstore)
-                else:
-                    st.session_state.retriever = create_retriever(custom_vectorstore)
+try:
+    client = OpenAI(api_key=api_key)
 
-                st.sidebar.success(f"Successfully processed {uploaded_file.name}")
+    # Add a visual separator
+    st.sidebar.markdown("---")
 
-                # Display summary in main area
-                st.markdown("### Document Summary")
-                st.markdown(summary)
+    # Add file upload section
+    st.sidebar.header("What do you want to analyze?")
+    uploaded_file = st.sidebar.file_uploader(
+        "Upload T&C document",
+        type=["pdf", "docx", "txt"],
+        help="Supported formats: PDF, DOCX, TXT",
+    )
 
-            except Exception as e:
-                st.sidebar.error(f"Error processing file: {str(e)}")
-
-    except Exception as e:
-        st.error(f"Error initializing OpenAI client: {str(e)}")
-        st.stop()
-
-    # Initialize RAG system after API key verification
-    if "retriever" not in st.session_state:
-        init_message = st.empty()
+    # Process uploaded file
+    if uploaded_file:
         try:
-            os.environ["OPENAI_API_KEY"] = st.session_state.api_key  # Set API key for RAG system
-            st.session_state.retriever = initialize_rag()
-            init_message.success("RAG system initialized successfully!")
-            time.sleep(3)
-            init_message.empty()
-        except Exception as e:
-            init_message.error(
-                f"Failed to initialize RAG system. Error: {str(e)}\nContinuing without RAG functionality."
+            # Read content
+            content = read_file_content(uploaded_file)
+
+            # Process content and get summary
+            chunks, summary = process_uploaded_tc(content, client, st.session_state)
+
+            # Create embeddings and update vector store
+            embeddings = OpenAIEmbeddings()
+            custom_vectorstore = FAISS.from_texts(
+                chunks,
+                embeddings,
+                metadatas=[{"source": uploaded_file.name, "title": uploaded_file.name}]
+                * len(chunks),
             )
-            print(f"RAG initialization error: {str(e)}", file=sys.stderr)
-            st.session_state.retriever = None
 
-        # Add a visual separator
-        st.sidebar.markdown("---")
+            # Merge with existing retriever if it exists
+            if "retriever" in st.session_state and st.session_state.retriever:
+                existing_vectorstore = st.session_state.retriever.vectorstore
+                existing_vectorstore.merge_from(custom_vectorstore)
+            else:
+                st.session_state.retriever = create_retriever(custom_vectorstore)
 
-    # Dropdown to display available T&Cs
-    metadata = load_metadata()
-    if metadata:
-        titles = ["Browse Companies"] + [meta["title"] for meta in metadata]
-        selected_tc = st.sidebar.selectbox(
-            "Available Terms and Conditions", titles, index=0, key="browse_only"
+            st.sidebar.success(f"Successfully processed {uploaded_file.name}")
+
+            # Display summary in main area
+            st.markdown("### Document Summary")
+            st.markdown(summary)
+
+        except Exception as e:
+            st.sidebar.error(f"Error processing file: {str(e)}")
+
+except Exception as e:
+    st.error(f"Error initializing OpenAI client: {str(e)}")
+    st.stop()
+
+# Initialize RAG system after API key verification
+if "retriever" not in st.session_state:
+    init_message = st.empty()
+    try:
+        os.environ["OPENAI_API_KEY"] = api_key  # Set API key for RAG system
+        st.session_state.retriever = initialize_rag()
+        init_message.success("RAG system initialized successfully!")
+        time.sleep(3)
+        init_message.empty()
+    except Exception as e:
+        init_message.error(
+            f"Failed to initialize RAG system. Error: {str(e)}\nContinuing without RAG functionality."
         )
-    else:
-        st.sidebar.warning("No terms and conditions available.")
+        print(f"RAG initialization error: {str(e)}", file=sys.stderr)
+        st.session_state.retriever = None
 
-    if "openai_model" not in st.session_state:
-        st.session_state["openai_model"] = "gpt-4"
+    # Add a visual separator
+    st.sidebar.markdown("---")
 
-    # Initialize chat history
-    if "messages" not in st.session_state:
-        st.session_state.messages = []
+# Dropdown to display available T&Cs
+metadata = load_metadata()
+if metadata:
+    titles = ["Browse Companies"] + [meta["title"] for meta in metadata]
+    selected_tc = st.sidebar.selectbox(
+        "Available Terms and Conditions", titles, index=0, key="browse_only"
+    )
+else:
+    st.sidebar.warning("No terms and conditions available.")
 
-    # Reset button
-    if st.sidebar.button("Reset Chat"):
-        reset_chat_state()
+if "openai_model" not in st.session_state:
+    st.session_state["openai_model"] = "gpt-4"
+
+# Initialize chat history
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+
+# Reset button
+if st.sidebar.button("Reset Chat"):
+    st.session_state.messages = []
+    st.session_state.api_key = ""  # Clear stored API key
+    st.rerun()
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
