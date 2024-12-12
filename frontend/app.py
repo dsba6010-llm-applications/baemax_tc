@@ -215,7 +215,7 @@ except Exception as e:
 if "retriever" not in st.session_state:
     init_message = st.empty()
     try:
-        #os.environ["OPENAI_API_KEY"] = api_key  # Set API key for RAG system
+        os.environ["OPENAI_API_KEY"] = api_key  # Set API key for RAG system
         st.session_state.retriever = initialize_rag()
         init_message.success("RAG system initialized successfully!")
         time.sleep(3)
