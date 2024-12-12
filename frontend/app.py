@@ -58,6 +58,7 @@ if not metadata_path.exists():
     with open(metadata_path, "w") as f:
         json.dump([], f)
 
+
 def load_metadata(metadata_path=metadata_path):
     """
     Loads metadata from the specified JSON file.
@@ -79,11 +80,13 @@ def load_metadata(metadata_path=metadata_path):
         print(f"Metadata handling error: {str(e)}")
         return []
 
+
 def get_base64_image(image_path):
     import base64
 
     with open(image_path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode()
+
 
 col1, col2 = st.columns([4, 1])
 with col2:
@@ -278,7 +281,9 @@ You can:
 Maintain a conversational and approachable tone. Always aim to provide clear, concise, and accurate answers."""
 
 # Accept user input
-if prompt := st.chat_input("What would you like to know?", disabled=st.session_state.api_key == ""):
+if prompt := st.chat_input(
+    "What would you like to know?", disabled=st.session_state.api_key == ""
+):
     # Add user message to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
