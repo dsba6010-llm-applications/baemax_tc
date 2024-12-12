@@ -128,22 +128,39 @@ st.markdown(
 # Consolidated API key handling
 st.sidebar.title("Powered by OpenAI")
 
-# Try environment variable first, then fall back to sidebar input
-api_key = os.getenv("OPENAI_API_KEY") or st.sidebar.text_input(
+# Model selection
+model_options = ["gpt-4", "gpt-4-turbo-preview"]
+selected_model = st.sidebar.selectbox("Select Model", model_options)
+st.session_state["openai_model"] = selected_model
+
+# Ensure session state for API key
+if "api_key" not in st.session_state:
+    st.session_state.api_key = ""
+
+# Reset button
+if st.sidebar.button("Reset Chat"):
+    st.session_state.api_key = ""  # Clear stored API key
+    st.session_state.messages = []  # Clear messages
+    st.rerun()
+
+# Input field for API key
+api_key = st.sidebar.text_input(
     "OpenAI API Key",
     type="password",
     help="Enter your OpenAI API key. This will not be stored permanently.",
+    key="api_key_input",
 )
 
-# Initialize the OpenAI client only if we have a key
+# Prevent actions until API key is provided
 if not api_key:
-    st.warning("Please enter your OpenAI API Key in the sidebar to continue.")
+    st.session_state.api_key = ""  # Ensure stored API key is cleared
+    st.sidebar.warning("Please enter your OpenAI API Key in the sidebar to continue.")
     st.stop()
 
-# Store API key in session state if it's new or different
-if "api_key" not in st.session_state or st.session_state.api_key != api_key:
+# Store the API key in session state if it has changed
+if st.session_state.api_key != api_key:
     st.session_state.api_key = api_key
-    # Clear the retriever if API key changes
+    # Clear retriever if API key changes
     if "retriever" in st.session_state:
         del st.session_state.retriever
 
@@ -153,7 +170,6 @@ if "processed_documents" not in st.session_state:
 
 try:
     client = OpenAI(api_key=api_key)
-    st.sidebar.success("API key provided successfully!")
 
     # Add a visual separator
     st.sidebar.markdown("---")
@@ -220,6 +236,9 @@ if "retriever" not in st.session_state:
         print(f"RAG initialization error: {str(e)}", file=sys.stderr)
         st.session_state.retriever = None
 
+    # Add a visual separator
+    st.sidebar.markdown("---")
+
 # Dropdown to display available T&Cs
 metadata = load_metadata()
 if metadata:
@@ -236,16 +255,6 @@ if "openai_model" not in st.session_state:
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
-
-# Model selection
-model_options = ["gpt-4", "gpt-4-turbo-preview"]
-selected_model = st.sidebar.selectbox("Select Model", model_options)
-st.session_state["openai_model"] = selected_model
-
-# Reset button
-if st.sidebar.button("Reset Chat"):
-    st.session_state.messages = []
-    st.sidebar.success("Chat session reset!")
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
@@ -272,7 +281,9 @@ You can:
 Maintain a conversational and approachable tone. Always aim to provide clear, concise, and accurate answers."""
 
 # Accept user input
-if prompt := st.chat_input("What would you like to know?"):
+if prompt := st.chat_input(
+    "What would you like to know?", disabled=st.session_state.api_key == ""
+):
     # Add user message to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
