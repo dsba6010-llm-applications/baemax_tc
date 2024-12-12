@@ -134,6 +134,12 @@ st.session_state["openai_model"] = selected_model
 if "api_key" not in st.session_state:
     st.session_state.api_key = ""
 
+# Reset button
+if st.sidebar.button("Reset Chat"):
+    st.session_state.api_key = ""  # Clear stored API key
+    st.session_state.messages = []  # Clear messages
+    st.rerun()
+
 # Input field for API key
 api_key = st.sidebar.text_input(
     "OpenAI API Key",
@@ -144,14 +150,14 @@ api_key = st.sidebar.text_input(
 
 # Prevent actions until API key is provided
 if not api_key:
-    st.session_state.api_key = ""  # Clear stored API key
+    st.session_state.api_key = ""  # Ensure stored API key is cleared
     st.sidebar.warning("Please enter your OpenAI API Key in the sidebar to continue.")
     st.stop()
 
 # Store the API key in session state if it has changed
 if st.session_state.api_key != api_key:
     st.session_state.api_key = api_key
-    # Clear the retriever if API key changes
+    # Clear retriever if API key changes
     if "retriever" in st.session_state:
         del st.session_state.retriever
 
@@ -246,12 +252,6 @@ if "openai_model" not in st.session_state:
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
-
-# Reset button
-if st.sidebar.button("Reset Chat"):
-    st.session_state.messages = []
-    st.session_state.api_key = ""  # Clear stored API key
-    st.rerun()
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
